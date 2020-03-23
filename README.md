@@ -5,8 +5,7 @@
 
 # Introduction
 
-...
-
+UD_Abaza-ATB is a UD conversion of the data from the [Spoken corpus of Abaza](https://linghub.ru/spoken_abaza/).
 
 # Acknowledgments
 
@@ -28,14 +27,14 @@
 Data available since: UD v2.6
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: spoken
 Lemmas: manual native
 UPOS: manual native
-XPOS: manual native
+XPOS: automatic with corrections
 Features: manual native
 Relations: manual native
 Contributors: Koshevoy, Alexey
-Contributing: elsewhere
+Contributing: here
 Contact: alexeykochevoy@gmail.com
 ===============================================================================
 </pre>
