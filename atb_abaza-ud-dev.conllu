@@ -1,289 +1,16 @@
-# sent_id = 1
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = [tab1932_f] квтIАгъьгIважва гIатурЫчIвитIта
-# ft_rus = [tab1932_f] Слив двадцать яиц
-1	kʷṭáʁ’ʕʷaẑa	_	_	_	_	_	_	_	Segment=квтӏАгъьгӏважва|Gloss=яйцо-два-десять|_|_
-2	ʕatwrə́ĉ̣əjṭta	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=2|Tense=Pres|Voice=Cau	_	_	_	Segment=гӏатурЫчӏвитӏта|Gloss=csl-loc-2m.erg-caus-литься-prs-dcl-adv|_|_|csl|loc|2m.erg|caus|prs|dcl|adv
-
-# sent_id = 2
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ауИ аъарА столОвая лОжка дзЫта йАлаучвахитI
-# ft_rus = Туда вливаешь столько же столовых ложек воды.
-1	awə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-2	aʔará	_	_	_	_	_	_	_	Segment=аъарА|Gloss=столько|_|_
-3	столовая	_	_	_	_	_	_	_	Segment=столовая|Gloss=столовая|_|_
-4	ложка	_	_	_	_	_	_	_	Segment=ложка|Gloss=ложка|_|_
-5	ʒə́ta	_	ADV	_	_	_	_	_	Segment=дзЫ-та|Gloss=вода-adv|_|_|adv
-6	jálawĉaχəjṭ	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Gender[dat]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=й-А-ла-у-чва-х-и-тӏ|Gloss=3n.abs-3n.io-loc-2m.erg-вливать-re-prs-dcl|_|_|3n.abs|3n.io|loc|2m.erg|re|prs|dcl
-
-# sent_id = 3
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = мхIАчIва мхIАчIва столько мхIАчIва дзЫта йАлаучвахитI
-# ft_rus = Вливаешь столько же ложек воды.
-1	mháĉ̣a	_	_	_	_	_	_	_	Segment=мхӏАчӏва|Gloss=ложка|_|_
-2	mháĉ̣a	_	_	_	_	_	_	_	Segment=мхӏАчӏва|Gloss=ложка|_|_
-3	столько	_	_	_	_	_	_	_	Segment=столько|Gloss=столько|_|_
-4	mháĉ̣a	_	_	_	_	_	_	_	Segment=мхӏАчӏва|Gloss=ложка|_|_
-5	ʒə́ta	_	ADV	_	_	_	_	_	Segment=дзЫ-та|Gloss=вода-adv|_|_|adv
-6	jálawĉaχəjṭ	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Gender[dat]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=й-А-ла-у-чва-х-и-тӏ|Gloss=3n.abs-3n.io-loc-2m.erg-вливать-re-prs-dcl|_|_|3n.abs|3n.io|loc|2m.erg|re|prs|dcl
-
-# sent_id = 4
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = афачЫгIв угвЫ йшангIАлуа уа йшутахъУ йутахъЫзтын хъгIадзАта йчпА йутахъЫзтын
-# ft_rus = Сахар - как хочешь, хочешь - очень сладко, хочешь - … .
-1	afač’ə́ʕʷ	_	NOUN	_	Definite=Def	_	_	_	Segment=а-фачЫгӏв|Gloss=def-сахар|_|_|def
-2	wgʷə́	_	_	_	_	_	_	_	Segment=у-гвЫ|Gloss=?-середина|_|_
-3	jšanʕálwa	_	VERB	_	Aspect=Imp	_	_	_	Segment=й-ш-ангӏАл-уа|Gloss=?-rel.mnr-договариваться-ipf|_|_|rel.mnr|ipf
-4	wa	_	_	_	_	_	_	_	Segment=уа|Gloss=ты|_|_
-5	jšwtaqə́w	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2	_	_	_	Segment=й-ш-у-тахъ-У|Gloss=3n.abs-rel.mnr-2m.erg-хотеть-ipf|_|_|3n.abs|rel.mnr|2m.erg|ipf
-6	jwtaqə́ztən	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Mood=Cnd|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2	_	_	_	Segment=й-у-тахъЫ-зтын|Gloss=3n.abs-2m.erg-хотеть-cond.real|_|_|3n.abs|2m.erg|cond.real
-7	qʕaʒáta	_	ADV	_	_	_	_	_	Segment=хъгӏа-дзА-та|Gloss=сладкий-ass-adv|_|_|ass|adv
-8	jč’pá	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=й-чпА|Gloss=3n.abs-делать(imp)|_|_|3n.abs|imp
-9	jwtaqə́ztən	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Mood=Cnd|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2	_	_	_	Segment=й-у-тахъЫ-зтын|Gloss=3n.abs-2m.erg-хотеть-cond.real|_|_|3n.abs|2m.erg|cond.real
-
-# sent_id = 5
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ауИ чвгьАта йыугIватIИтI йыугIватIИтI
-# ft_rus = Это сильно мешаешь.
-1	awə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-2	ĉg’áta	_	ADV	_	_	_	_	_	Segment=чвгьА-та|Gloss=злой-adv|_|_|adv
-3	jəwʕʷaṭə́jṭ	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=йы-у-гӏватӏ-И-тӏ|Gloss=3n.abs-2m.erg-мешать-prs-dcl|_|_|3n.abs|2m.erg|prs|dcl
-4	jəwʕʷaṭə́jṭ	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=йы-у-гӏватӏ-И-тӏ|Gloss=3n.abs-2m.erg-мешать-prs-dcl|_|_|3n.abs|2m.erg|prs|dcl
-
-# sent_id = 6
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = арИ йгIватIИтI совсем йапцIхвхвауАта почти час можно йыугIватIуАштI сахIАткIдза
-# ft_rus = Мешаешь, пока тесто совсем не растянется, можно мешать час.
-1	arə́j	_	_	_	_	_	_	_	Segment=арИ|Gloss=prox.sg|_|_|prox.sg
-2	jʕʷaṭə́jṭ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	Segment=й-гӏватӏ-И-тӏ|Gloss=3n.abs-мешать-prs-dcl|_|_|3n.abs|prs|dcl
-3	совсем	_	_	_	_	_	_	_	Segment=совсем|Gloss=совсем|_|_
-4	japc̣χʷχʷawáta	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йа-п-цӏ-хвхва-уА-та|Gloss=3n.abs-loc-loc-растянуть-ipf-adv|_|_|3n.abs|loc|loc|ipf|adv
-5	почти	_	_	_	_	_	_	_	Segment=почти|Gloss=почти|_|_
-6	час	_	_	_	_	_	_	_	Segment=час|Gloss=час|_|_
-7	можно	_	_	_	_	_	_	_	Segment=можно|Gloss=можно|_|_
-8	jəwʕʷaṭwášṭ	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut	_	_	_	Segment=йы-у-гӏватӏ-уА-ш-тӏ|Gloss=3n.abs-2m.erg-мешать-ipf-fut-dcl|_|_|3n.abs|2m.erg|ipf|fut|dcl
-9	sahátḳʒa	_	NOUN	_	Definite=Ind	_	_	_	Segment=сахӏАт-кӏ-дза|Gloss=час-indf-lim|_|_|indf|lim
-
-# sent_id = 7
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ауАъа йАлаупсахитI шЫла шЫлала йыукIвхIИтIта
-# ft_rus = Туда добавляешь муку, мукой замешиваешь.
-1	awáʔa	_	_	_	_	_	_	_	Segment=ауА-ъа|Gloss=dist-loc|_|_|dist|loc
-2	jálawpsaχəjṭ	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Gender[dat]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=й-А-ла-у-пса-х-и-тӏ|Gloss=3n.abs-3n.io-loc-2m.erg-класть-re-prs-dcl|_|_|3n.abs|3n.io|loc|2m.erg|re|prs|dcl
-3	šə́la	_	_	_	_	_	_	_	Segment=шЫла|Gloss=мука|_|_
-4	šə́lala	_	_	_	Case=Ins	_	_	_	Segment=шЫла-ла|Gloss=мука-ins|_|_|ins
-5	jəwḳʷhə́jṭta	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Pres	_	_	_	Segment=йы-у-кӏвхӏ-И-тӏ-та|Gloss=3n.abs-2m.erg-месить-prs-dcl-adv|_|_|3n.abs|2m.erg|prs|dcl|adv
-
-# sent_id = 8
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ашЫлала йанУкIвхIара Асхъан йуымрЫбагъьан
-# ft_rus = Когда замешиваешь мукой, [тесто] должно быть не тугим.
-1	ašə́lala	_	NOUN	_	Case=Ins|Definite=Def	_	_	_	Segment=а-шЫла-ла|Gloss=def-мука-ins|_|_|def|ins
-2	janə́wḳʷhara	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut	_	_	_	Segment=й-анЫ-у-кӏвхӏа-ра|Gloss=3n.abs-rel.tmp-2m.erg-месить-fut.nfin|_|_|3n.abs|rel.tmp|2m.erg|fut.nfin
-3	ásqan	_	_	_	_	_	_	_	Segment=Асхъан|Gloss=время|_|_
-4	jwəmrə́baʁ’an	_	_	_	Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polarity=Neg	_	_	_	Segment=й-уы-м-рЫбагъьа-н|Gloss=3n.abs-2m.erg-neg-укреплять-imp.neg|_|_|3n.abs|2m.erg|neg|imp.neg
-
-# sent_id = 9
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = йуымрЫбагъьауата ауИ дЫната йчпАта йутахъЫзтын Арса чIврЫта цIАгIвта гIвмАчвакI зквшвауАла йрЫгIв Арса лЕнтIа Апшта
-# ft_rus = Не замешивай туго, если хочешь, раскатай вот так длинно и тонко, с два пальца, как ленту.
-1	jwəmrə́baʁ’awata	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Polarity=Neg	_	_	_	Segment=йуымрЫбагъьауата|Gloss=3n.abs-2m.erg-neg-укреплять-ipf-adv|_|_|3n.abs|2m.erg|neg|ipf|adv
-2	awə́j	_	_	_	_	_	_	_	Segment=ауИ|Gloss=dist.sg|_|_|dist.sg
-3	də́nata	_	ADV	_	_	_	_	_	Segment=дЫната|Gloss=filler-adv|_|_|filler|adv
-4	jč’páta	_	ADV	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йчпАта|Gloss=3n.abs-делать-adv|_|_|3n.abs|adv
-5	jwtaqə́ztən	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Mood=Cnd|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2	_	_	_	Segment=йутахъЫзтын|Gloss=3n.abs-2m.erg-хотеть-cond.real|_|_|3n.abs|2m.erg|cond.real
-6	ársa	_	_	_	_	_	_	_	Segment=Арса|Gloss=так|_|_
-7	ĉ̣rə́ta	_	ADV	_	_	_	_	_	Segment=чӏврЫта|Gloss=длинный-adv|_|_|adv
-8	c̣áʕʷta	_	ADV	_	_	_	_	_	Segment=цӏАгӏвта|Gloss=тонкий-adv|_|_|adv
-9	ʕʷmáĉaḳ	_	_	_	Number=Count	_	_	_	Segment=гӏвмАчвакӏ|Gloss=два-палец-unit|_|_|unit
-10	zkʷŝawála	_	VERB	_	Aspect=Imp|Case=Ins	_	_	_	Segment=зквшвауАла|Gloss=rel-loc-поместиться-ipf-ins|_|_|rel|loc|ipf|ins
-11	jrə́ʕʷ	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йрЫгӏв|Gloss=3n.abs-раскатать(imp)|_|_|3n.abs|imp
-12	ársa	_	_	_	_	_	_	_	Segment=Арса|Gloss=так|_|_
-13	lájnṭa	_	_	_	_	_	_	_	Segment=лЕнтӏа|Gloss=лента|_|_
-14	ápšta	_	_	_	_	_	_	_	Segment=Апшта|Gloss=подобно|_|_
-
-# sent_id = 10
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ауИ ачашврЫгIвга гIАхв ауАъа йАкIвыршата
-# ft_rus = Возьми скалку и намотай.
-1	awə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-2	ač’aŝrə́ʕʷga	_	NOUN	_	Definite=Def	_	_	_	Segment=а-чашв-рЫгӏв-га|Gloss=def-пирожок-раскатать-?|_|_|def
-3	ʕáχʷ	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=гӏАхв|Gloss=[3n.abs]-взять(imp)|_|_|3n.abs|imp
-4	awáʔa	_	_	_	_	_	_	_	Segment=ау-Аъа|Gloss=dist-loc|_|_|dist|loc
-5	jáḳʷəršata	_	ADV	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йА-кӏвырша-та|Gloss=3n.abs-окружать(imp?)-adv|_|_|3n.abs|imp|adv
-
-# sent_id = 11
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = акастрЮль цIолАта хвшА дЫна мАсло тачвАта ауИ йтаргЫлта ауИ тшАкIвнахуа тшАкIвнахуамца Арса йдУта йбАбадза йцИтI
-# ft_rus = В глубокую кастрюлю налей масло, поставь это [скалку с тестом], оно вот так отслаивается, получается большим и пышным.
-1	akastrjúɮ	_	NOUN	_	Definite=Def	_	_	_	Segment=акастрЮль|Gloss=def-кастрюля|_|_|def
-2	c̣awláta	_	ADV	_	_	_	_	_	Segment=цӏолАта|Gloss=глубокий-adv|_|_|adv
-3	χʷšá	_	_	_	_	_	_	_	Segment=хвшА|Gloss=масло|_|_
-4	də́na	_	_	_	_	_	_	_	Segment=дЫна|Gloss=filler|_|_|filler
-5	масло	_	_	_	_	_	_	_	Segment=мАсло|Gloss=масло|_|_
-6	taĉáta	_	ADV	_	_	_	_	_	Segment=тачвАта|Gloss=налить(imp?)-adv|_|_|imp|adv
-7	awə́j	_	_	_	_	_	_	_	Segment=ауИ|Gloss=dist.sg|_|_|dist.sg
-8	jtargə́lta	_	ADV	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йтаргЫлта|Gloss=3n.abs-ставить(imp?)-adv|_|_|3n.abs|imp|adv
-9	awə́j	_	_	_	_	_	_	_	Segment=ауИ|Gloss=dist.sg|_|_|dist.sg
-10	čáḳʷnaχwa	_	VERB	_	Aspect=Imp	_	_	_	Segment=тшАкӏвнахуа|Gloss=rfl.abs-?-ipf|_|_|rfl.abs|ipf
-11	čáḳʷnaχwamca	_	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	Segment=тшАкӏвнахуамца|Gloss=rfl.abs-?-ipf-cvb|_|_|rfl.abs|ipf|cvb
-12	ársa	_	_	_	_	_	_	_	Segment=Арса|Gloss=так|_|_
-13	jdə́wta	_	ADV	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=йдУта|Gloss=3n.abs-большой-adv|_|_|3n.abs|adv
-14	jbábaʒa	_	_	_	_	_	_	_	Segment=йбАбадза|Gloss=?-пышный-ass|_|_|ass
-15	jcə́jṭ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	Segment=йцИтӏ|Gloss=3n.abs-идти-prs-dcl|_|_|3n.abs|prs|dcl
-
-# sent_id = 12
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = АзджьакIгьи сА йшсчпауА ауИ АкIвапI крУглата катАтьсчпитIта Арса цIагъАта
-# ft_rus = Другие... Вот как я делаю: катаю круглую, такую тонкую.
-1	ázǯ’aḳg’əj	_	NOUN	_	Definite=Def	_	_	_	Segment=А-зджьакӏ-гьи|Gloss=def-один.indf-add|_|_|def|.indf|add
-2	sá	_	_	_	_	_	_	_	Segment=сА|Gloss=1sg|_|_|1sg
-3	jšsč’pawá	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	_	_	_	Segment=й-ш-с-чпа-уА|Gloss=3n.abs-rel.mnr-1sg.erg-делать-ipf|_|_|3n.abs|rel.mnr|1sg.erg|ipf
-4	awə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-5	áḳʷaṗ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	Segment=А-кӏва-пӏ|Gloss=3n.abs-cop-prs|_|_|3n.abs|cop|prs
-6	krə́wglata	_	ADV	_	_	_	_	_	Segment=крУгла-та|Gloss=круглый-adv|_|_|adv
-7	katát’sč’pəjṭta	_	VERB	_	Tense=Pres	_	_	_	Segment=катАтьсчп-и-тӏ-та|Gloss=катать-prs-dcl-adv|_|_|prs|dcl|adv
-8	ársa	_	_	_	_	_	_	_	Segment=Арса|Gloss=так|_|_
-9	c̣aʁáta	_	ADV	_	_	_	_	_	Segment=цӏагъА-та|Gloss=тонкий-adv|_|_|adv
-
-# sent_id = 13
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = АуИ АхIвспала агвЫ йагIвсырсахИтIта йаквсырчIвИтIта
-# ft_rus = Разрезаю ножом посередине, прижимаю друг к другу.
-1	áwə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-2	áhʷspala	_	NOUN	_	Case=Ins|Definite=Def	_	_	_	Segment=А-хӏвспа-ла|Gloss=def-нож-ins|_|_|def|ins
-3	agʷə́	_	NOUN	_	Definite=Def	_	_	_	Segment=а-гвЫ|Gloss=def-середина|_|_|def
-4	jaʕʷsərsaχə́jṭta	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	_	_	_	Segment=йа-гӏв-сы-рса-х-И-тӏ-та|Gloss=3n.abs-loc-1sg.erg-разрезать.надвое-re-prs-dcl-adv|_|_|3n.abs|loc|1sg.erg|.|re|prs|dcl|adv
-5	jakʷsərĉ̣ə́jṭta	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres|Voice=Cau	_	_	_	Segment=йа-кв-сы-р-чӏв-И-тӏ-та|Gloss=3n.abs-loc-1sg.erg-caus-спрессоваться?-prs-dcl-adv|_|_|3n.abs|loc|1sg.erg|caus|prs|dcl|adv
-
-# sent_id = 14
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = крУпно бабадУта Арса йцАхитIта
-# ft_rus = Получается вот так крупно и пышно.
-1	krupno	_	_	_	_	_	_	_	Segment=крупнo|Gloss=крупно|_|_
-2	babadə́wta	_	ADV	_	_	_	_	_	Segment=баба-дУ-та|Gloss=пышный-большой-adv|_|_|adv
-3	ársa	_	_	_	_	_	_	_	Segment=Арса|Gloss=так|_|_
-4	jcáχəjṭta	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	Segment=й-цА-х-и-тӏ-та|Gloss=3n.abs-идти-re-prs-dcl-adv|_|_|3n.abs|re|prs|dcl|adv
-
-# sent_id = 15
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = вкУсно зАкIта хъгIА Аъахым АкIвапI ауИ сА бзидздзА йызбИтI
-# ft_rus = Вкусно, очень сладко, я это очень люблю.
-1	вкусно	_	_	_	_	_	_	_	Segment=вкусно|Gloss=вкусно|_|_
-2	záḳta	_	ADV	_	_	_	_	_	Segment=зАкӏ-та|Gloss=что.нибудь-adv|_|_|.|adv
-3	qʕá	_	_	_	_	_	_	_	Segment=хъгӏА|Gloss=сладкий|_|_
-4	áʔaχəm	_	_	_	Aspect=Refactive|Polarity=Neg	_	_	_	Segment=Аъа-х-ым|Gloss=loc?-re-neg|_|_|loc|re|neg
-5	áḳʷaṗ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	Segment=А-кӏва-пӏ|Gloss=3n.abs-cop-prs|_|_|3n.abs|cop|prs
-6	awə́j	_	_	_	_	_	_	_	Segment=ауи|Gloss=dist.sg|_|_|dist.sg
-7	sá	_	_	_	_	_	_	_	Segment=сА|Gloss=1sg|_|_|1sg
-8	bzəjʒʒá	_	_	_	_	_	_	_	Segment=бзи-дз-дзА|Gloss=хороший-ass-ass|_|_|ass|ass
-9	jəzbə́jṭ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	_	_	_	Segment=йы-з-б-И-тӏ|Gloss=3n.abs-1sg.erg-видеть-prs-dcl|_|_|3n.abs|1sg.erg|prs|dcl
-
-# sent_id = 16
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = йсчпалИтI ауыгьИ, пирОггьи счпИтI ауыгьИ счпИтI
-# ft_rus = И пирог тоже часто делаю.
-1	jsč’palə́jṭ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	_	_	_	Segment=й-с-чпа-л-И-тӏ|Gloss=3n.abs-1sg.erg-делать-hab-prs-dcl|_|_|3n.abs|1sg.erg|hab|prs|dcl
-2	awəg’ə́j	_	_	_	_	_	_	_	Segment=ауы-гьИ|Gloss=dist-add|_|_|dist|add
-3	pəjráwgg’əj	_	_	_	_	_	_	_	Segment=пирОг-гьи|Gloss=пирог-add|_|_|add
-4	sč’pə́jṭ	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres	_	_	_	Segment=с-чп-И-тӏ|Gloss=1sg.erg-делать-prs-dcl|_|_|1sg.erg|prs|dcl
-5	awəg’ə́j	_	_	_	_	_	_	_	Segment=ауы-гьИ|Gloss=dist-add|_|_|dist|add
-6	sč’pə́jṭ	_	VERB	_	Number[erg]=Sing|Person[erg]=1|Tense=Pres	_	_	_	Segment=с-чп-И-тӏ|Gloss=1sg.erg-делать-prs-dcl|_|_|1sg.erg|prs|dcl
-
-# sent_id = 17
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = ахIальЫуагьи рчпИтI ауЕб йшыъУ зымгIвагьИ йшыъУ
-# ft_rus = Все делают халву, так принято.
-1	ahaɮə́wag’əj	_	NOUN	_	Definite=Def	_	_	_	Segment=а-хӏальЫуа-гьи|Gloss=def-халва-add|_|_|def|add
-2	rč’pə́jṭ	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres	_	_	_	Segment=р-чп-и-тӏ|Gloss=3pl.erg-делать-prs-dcl|_|_|3pl.erg|prs|dcl
-3	awájb	_	_	_	_	_	_	_	Segment=ауЕб|Gloss=?|_|_
-4	jšəʔə́w	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=й-шы-ъЫ-у|Gloss=3n.abs-rel.mnr-есть-prs.nfin|_|_|3n.abs|rel.mnr|prs.nfin
-5	zəmʕʷag’ə́j	_	_	_	_	_	_	_	Segment=зымгӏвагьИ|Gloss=все-add|_|_|add
-6	jšəʔə́w	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	Segment=й-шы-ъЫ-у|Gloss=3n.abs-rel.mnr-есть-prs.nfin|_|_|3n.abs|rel.mnr|prs.nfin
-
-# sent_id = 18
-# text_name = 2018.07.16_BidzhevaTA_1932_retsept
-# text = адзЫрдзагьи хIарА дзЫрдза хIхIвИтI акъАбардийаква щЫпс рхIвИтI
-# ft_rus = Мы называем "дзырдза", а черкесы называют "щипс".
-1	aʒə́rʒag’əj	_	NOUN	_	Definite=Def	_	_	_	Segment=а-дзЫрдза-гьи|Gloss=def-дзырдза-add|_|_|def|add
-2	hará	_	_	_	_	_	_	_	Segment=хӏарА|Gloss=1pl|_|_|1pl
-3	ʒə́rʒa	_	_	_	_	_	_	_	Segment=дзЫрдза|Gloss=дзырдза|_|_
-4	hhʷə́jṭ	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres	_	_	_	Segment=хӏ-хӏв-И-тӏ|Gloss=1pl.erg-говорить-prs-dcl|_|_|1pl.erg|prs|dcl
-5	aq̇ábardəjakʷa	_	NOUN	_	Definite=Def|Number=Plur	_	_	_	Segment=а-къАбардийа-ква|Gloss=def-кабардинец-pl|_|_|def|pl
-6	š’ə́ps	_	_	_	_	_	_	_	Segment=щЫпс|Gloss=щипс|_|_
-7	rhʷə́jṭ	_	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres	_	_	_	Segment=р-хӏв-И-тӏ|Gloss=3pl.erg-говорить-prs-dcl|_|_|3pl.erg|prs|dcl
-
-# sent_id = 19
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = [zhs1930_f] хгIвЫ хгIвЫ срАчважван
-# ft_rus = [zhs1930_f] Я поговорила с тремя.
-1	χʕʷə́	_	NUM	_	_	_	_	_	Segment=х-гӏвЫ|Gloss=три-clh|_|_|clh
-2	χʕʷə́	_	NUM	_	_	_	_	_	Segment=х-гӏвЫ|Gloss=три-clh|_|_|clh
-3	sráĉaẑan	_	_	_	Number[abs]=Sing|Number[dat]=Plur|Person[abs]=1|Person[dat]=3	_	_	_	Segment=с-рА-чважва-н|Gloss=1sg.abs-3pl.io-говорить-dcl|_|_|1sg.abs|3pl.io|dcl
-
-# sent_id = 20
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = срыща йсЫщтан ахыгIвгьи
-# ft_rus = Они все трое за мной ухаживали.
-1	srəš’a	_	_	_	Number[abs]=Sing|Number[dat]=Plur|Person[abs]=1|Person[dat]=3	_	_	_	Segment=с-ры-ща|Gloss=1sg.abs-3pl.io-идти.по.следу|_|_|1sg.abs|3pl.io|..
-2	jsə́š’tan	_	_	_	Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=1	_	_	_	Segment=й-сЫ-щта-н|Gloss=3pl.abs-1sg.io-идти.по.следу-dcl|_|_|3pl.abs|1sg.io|..|dcl
-3	áχəʕʷg’əj	_	NUM	_	Definite=Def	_	_	_	Segment=А-хы-гӏв-гьи|Gloss=def-три-clh-add|_|_|def|clh|add
-
-# sent_id = 21
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = закIы заджвЫ, заджвЫмца йгIАйуан ансиуАхъгьи
-# ft_rus = Они приходили по одному каждую ночь.
-1	zaḳə	_	_	_	_	_	_	_	Segment=закӏы|Gloss=один|_|_
-2	zaʒ̂ə́	_	_	_	_	_	_	_	Segment=заджвЫ|Gloss=один|_|_
-3	zaʒ̂ə́mca	_	VERB	_	VerbForm=Conv	_	_	_	Segment=заджвЫ-мца|Gloss=один-cvb|_|_|cvb
-4	jʕájwan	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3	_	_	_	Segment=й-гӏА-й-уа-н|Gloss=3pl.abs-csl-идти-ipf-dcl|_|_|3pl.abs|csl|ipf|dcl
-5	ansəjwáqg’əj	_	_	_	_	_	_	_	Segment=анси-уАхъ-гьи|Gloss=каждый-ночь-add|_|_|add
-
-# sent_id = 22
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = Архъа сгIАйхыркIвын
-# ft_rus = Когда я возвращалась с поля,
-1	arqa	_	NOUN	_	Definite=Def	_	_	_	Segment=а-рхъа|Gloss=def-поле|_|_|def
-2	sʕájχərḳʷən	_	VERB	_	Aspect=Refactive|Mood=Cnd|Number[abs]=Sing|Person[abs]=1	_	_	_	Segment=с-гӏА-й-хы-ркӏвын|Gloss=1sg.abs-csl-идти-re-cond|_|_|1sg.abs|csl|re|cond
-
-# sent_id = 23
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = хIайчвАжвун
-# ft_rus = Мы разговаривали [двенадцать часов час ночи сидела дома].
-1	hajĉáẑəwn	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=1	_	_	_	Segment=хӏ-ай-чвАжв-у-н|Gloss=1pl.abs-rec.io-говорить-ipf-dcl|_|_|1pl.abs|rec.io|ipf|dcl
-
-# sent_id = 24
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = ауАсамца АхыгIвгьи гIанЫзжьын
-# ft_rus = Так что я оставила всех троих.
-1	awásamca	_	_	_	_	_	_	_	Segment=ауАсамца|Gloss=таким.образом|_|_
-2	áχəʕʷg’əj	_	NUM	_	Definite=Def	_	_	_	Segment=А-хы-гӏв-гьи|Gloss=def-три-clh-add|_|_|def|clh|add
-3	ʕanə́zž’ən	_	_	_	Number[erg]=Sing|Person[erg]=1	_	_	_	Segment=гӏа-нЫ-з-жьы-н|Gloss=csl-loc-1sg.erg-оставить-dcl|_|_|csl|loc|1sg.erg|dcl
-
-# sent_id = 25
-# text_name = Svatovstvo2_SanashokovaCKh_13072017
-# text = анАхь сцАтI хабЕз сцАхтI ауАъа срЫццатI
-# ft_rus = Я переселилась в Хабез, потому что вышла там замуж.
-1	anáχ’	_	_	_	_	_	_	_	Segment=анАхь|Gloss=там|_|_
-2	scáṭ	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	Segment=с-цА-тӏ|Gloss=1sg.abs-идти-dcl|_|_|1sg.abs|dcl
-3	χabájz	_	_	_	_	_	_	_	Segment=хабЕз|Gloss=хабез|_|_
-4	scáχṭ	_	_	_	Aspect=Refactive|Number[abs]=Sing|Person[abs]=1	_	_	_	Segment=с-цА-х-тӏ|Gloss=1sg.abs-идти-re-dcl|_|_|1sg.abs|re|dcl
-5	awáʔa	_	_	_	_	_	_	_	Segment=ауА-ъа|Gloss=dist-loc|_|_|dist|loc
-6	srə́ccaṭ	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	Segment=с-рЫ-цца-тӏ|Gloss=1sg.abs-?-идти-dcl|_|_|1sg.abs|dcl
-
 # sent_id = 26
 # text_name = Professija_AjsanovaFB_11072017
 # text = [fba1959_f] СарА сыхьИз ФатИмапI
 # ft_rus = [fba1959_f] Меня зовут Фатима.
-1	sará	_	_	_	_	3	nsubj	_	Segment=сарА|Gloss=я|_|_
-2	səχ’iz	_	_	_	Number[dat]=Sing|Person[dat]=1	1	nmod:poss	_	Segment=сы-хьиз|Gloss=1sg.io-имя|_|_|1sg.io
+1	sará	_	PRON	_	_	3	nsubj	_	Segment=сарА|Gloss=я|_|_
+2	səχ’iz	_	NOUN	_	Number[dat]=Sing|Person[dat]=1	1	nmod:poss	_	Segment=сы-хьиз|Gloss=1sg.io-имя|_|_|1sg.io
 3	fatimaṗ	_	VERB	_	Tense=Pres	0	root	_	Segment=фатима-пӏ|Gloss=фатима-npst.dcl|_|_|npst.dcl
 
 # sent_id = 27
 # text_name = Professija_AjsanovaFB_11072017
 # text = СарА йшвАсхIвырныс йстахъЫпI сшарЫпхьагIвхаз
 # ft_rus = Я хочу вам рассказать, как я стала учителем.
-1	sará	_	_	_	_	2	nsubj	_	Segment=сарА|Gloss=я|_|_
+1	sará	_	PRON	_	_	2	nsubj	_	Segment=сарА|Gloss=я|_|_
 2	jŝáshʷərnəs	_	VERB	_	Case=Dat|Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|VerbForm=Inf	3	ccomp	_	Segment=й-шв-А-с-хӏвы-рныс|Gloss=3n.abs-2pl.io-dat-1sg.erg-рассказать-purp|_|_|3n.abs|2pl.io|dat|1sg.erg|purp
 3	jstaqə́ṗ	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|Tense=Pres	0	root	_	Segment=й-с-тахъЫ-пӏ|Gloss=3n.abs-1sg.io-хотеться-npst.dcl|_|_|3n.abs|1sg.io|npst.dcl
 4	sšarə́pχ’aʕʷχaz	_	VERB	_	Aspect=Inceptive|Number[abs]=Sing|Person[abs]=1|Tense=Pst	_	_	_	Segment=с-ша-рЫпхьагӏв-ха-з|Gloss=1sg.abs-rel.mnr-учитель-inc-pst|_|_|1sg.abs|rel.mnr|inc|pst
@@ -292,12 +19,12 @@
 # text_name = Professija_AjsanovaFB_11072017
 # text = СарА санхвЫцыз сАн лащА: 'арИ англИйскала йалрЫпхьуштI', ?хIвА йгIасАйхIвлун
 # ft_rus = Когда я была маленькой, дядя говорил, что я стану учителем английского языка.
-1	sará	_	_	_	_	2	nsubj	_	Segment=СарА|Gloss=я|_|_
+1	sará	_	PRON	_	_	2	nsubj	_	Segment=СарА|Gloss=я|_|_
 2	sanχʷə́cəz	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Pst	9	xcomp	_	Segment=с-ан-хвЫцы-з|Gloss=1sg.abs-rel.tmp-маленький-pst|_|_|1sg.abs|rel.tmp|pst
-3	sán	_	_	_	Number[dat]=Sing|Person[dat]=1	4	nmod:poss	_	Segment=с-Ан|Gloss=1sg.io-мать|_|_|1sg.io
-4	laš’á	_	_	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=3	9	nsubj	_	Segment=л-ащА|Gloss=3f.io-брат|_|_|3f.io
-5	arə́j	_	_	_	_	7	obj	_	Segment=арИ|Gloss=prox.sg|_|_|prox.sg
-6	anglíjskala	_	_	_	Case=Ins	7	iobj	_	Segment=англИйска-ла|Gloss=английский-ins|_|_|ins
+3	sán	_	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	nmod:poss	_	Segment=с-Ан|Gloss=1sg.io-мать|_|_|1sg.io
+4	laš’á	_	NOUN	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=3	9	nsubj	_	Segment=л-ащА|Gloss=3f.io-брат|_|_|3f.io
+5	arə́j	_	PRON	_	_	7	obj	_	Segment=арИ|Gloss=prox.sg|_|_|prox.sg
+6	anglíjskala	_	NOUN	_	Case=Ins	7	iobj	_	Segment=англИйска-ла|Gloss=английский-ins|_|_|ins
 7	jalrə́pχ’əwšṭ	_	VERB	_	Aspect=Imp|Gender[dat]=Neut|Gender[erg]=Fem|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|Tense=Fut|Voice=Cau	9	parataxis	_	Segment=й-а-л-рЫ-пхь-у-ш-тI'|Gloss=3pl.abs-3n.io-3f.erg-caus-читать-ipf-fut-dcl|_|_|3pl.abs|3n.io|3f.erg|caus|ipf|fut|dcl
 8	ħʷá	_	_	_	_	9	obj	_	Segment=хIвА|Gloss=quot|_|_|quot
 9	jʕasájħʷləwn	_	VERB	_	Aspect=Imp|Case=Dat|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Tense=Pst	0	root	_	Segment=хIвА|Gloss=3n.abs-csl-1sg.io-dat-3m.erg-говорить-hab-ipf-pst|_|_|3n.abs|csl|1sg.io|dat|3m.erg|hab|ipf|pst
@@ -375,7 +102,7 @@
 # text = [zhs1930_f] ЖвзаджвыкI гIахIхвгIан йхIыман, нанаргIа рпны йгIахIыртын.
 # ft_rus = [zhs1930_f] Мы купили и имели единственную корову, которую дали нам у бабушки.
 1	ẑzaʒ̂əḳ	_	NUM	_	Number=Count	2	obj	_	Segment=жв-за-джвы-кӏ|Gloss=корова-один-cln-unit|_|_|cln|unit
-2	ʕahχʷʕan	_	_	_	Number[erg]=Plur|Person[erg]=1	0	root	_	Segment=гӏа-хӏ-хвгӏа-н|Gloss=csl-1pl.erg-купить-dcl|_|_|csl|1pl.erg|dcl
+2	ʕahχʷʕan	_	VERB	_	Number[erg]=Plur|Person[erg]=1	0	root	_	Segment=гӏа-хӏ-хвгӏа-н|Gloss=csl-1pl.erg-купить-dcl|_|_|csl|1pl.erg|dcl
 3	jhəman	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1	2	conj	_	Segment=й-хӏы-ма-н|Gloss=3n.abs-1pl.io-иметься-dcl|_|_|3n.abs|1pl.io|dcl
 4	nanarʕa	_	_	_	_	6	obl	_	Segment=нана-ргӏа|Gloss=бабушка-aspl|_|_|aspl
 5	rpnə	_	_	_	Number[dat]=Plur|Person[dat]=3	4	appos	_	Segment=р-пны|Gloss=3pl.io-у|_|_|3pl.io
@@ -387,18 +114,18 @@
 # ft_rus = Родился бычок, и его забрали по контрактации
 1	jʕanarjəz	_	VERB	_	Gender[erg]=Neut|Number[erg]=Sing|Person[erg]=3|Tense=Pst|Voice=Cau	2	acl	_	Segment=й-гӏа-на-р-и-з|Gloss=rel.abs-trl-3n.erg-caus-родиться-pst|_|_|rel.abs|trl|3n.erg|caus|pst
 2	atana	_	NOUN	_	Definite=Def	5	obj	_	Segment=а-тана|Gloss=def-теленок|_|_|def
-3	kandraktaca	_	_	_	_	5	obl	_	Segment=кандрактаца|Gloss=контрактация|_|_
-4	rhʷan	_	_	_	Number[erg]=Plur|Person[erg]=3	0	root	_	Segment=р-хӏва-н|Gloss=3pl.erg-сказать-dcl|_|_|3pl.erg|dcl
-5	jhəkʷərχd	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3	4	ccomp	_	Segment=й-хӏы-квы-р-х-д|Gloss=3n.abs-1pl.io-loc-3pl.erg-взять-dcl|_|_|3n.abs|1pl.io|loc|3pl.erg|dcl
+3	kandraktaca	_	NOUN	_	_	5	obl	_	Segment=кандрактаца|Gloss=контрактация|_|_
+4	rhʷan	_	VERB	_	Number[erg]=Plur|Person[erg]=3	0	root	_	Segment=р-хӏва-н|Gloss=3pl.erg-сказать-dcl|_|_|3pl.erg|dcl
+5	jhəkʷərχd	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3	4	ccomp	_	Segment=й-хӏы-квы-р-х-д|Gloss=3n.abs-1pl.io-loc-3pl.erg-взять-dcl|_|_|3n.abs|1pl.io|loc|3pl.erg|dcl
 
 # sent_id = 37
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
 # text = Йырган йырщын дара йырфахд.
 # ft_rus = Забрали, зарезали и съели сами.
-1	jərgan	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	1	conj	_	Segment=йы-р-га-н|Gloss=3n.abs-3pl.erg-нести-dcl|_|_|3n.abs|3pl.erg|dcl
-2	jərš’ən	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	4	conj	_	Segment=йы-р-щы-н|Gloss=3n.abs-3pl.erg-резать-dcl|_|_|3n.abs|3pl.erg|dcl
-3	dara	_	_	_	_	4	nsubj	_	Segment=дара|Gloss=они|_|_
-4	jərfaχd	_	_	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	Segment=йы-р-фа-х-д|Gloss=3n.abs-3pl.erg-есть-re-dcl|_|_|3n.abs|3pl.erg|re|dcl
+1	jərgan	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	1	conj	_	Segment=йы-р-га-н|Gloss=3n.abs-3pl.erg-нести-dcl|_|_|3n.abs|3pl.erg|dcl
+2	jərš’ən	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	4	conj	_	Segment=йы-р-щы-н|Gloss=3n.abs-3pl.erg-резать-dcl|_|_|3n.abs|3pl.erg|dcl
+3	dara	_	PRON	_	_	4	nsubj	_	Segment=дара|Gloss=они|_|_
+4	jərfaχd	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	Segment=йы-р-фа-х-д|Gloss=3n.abs-3pl.erg-есть-re-dcl|_|_|3n.abs|3pl.erg|re|dcl
 
 # sent_id = 38
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
@@ -412,68 +139,68 @@
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = [fma1957_f] щАрда цIитI арИ агIаншижьтАра.
 # ft_rus = [fma1957_f] С тех пор прошло много времени.
-1	š’árda	_	_	_	_	_	_	_	Segment=щАрда|Gloss=много|_|_
+1	š’árda	_	ADV	_	_	4	advmod	_	Segment=щАрда|Gloss=много|_|_
 2	c̣əjṭ	_	VERB	_	Tense=Pres	0	root	_	Segment=цӏ-и-тӏ|Gloss=проходить-prs-dcl|_|_|prs|dcl
-3	arə́j	_	_	_	_	_	_	_	Segment=арИ|Gloss=prox.sg|_|_|prox.sg
-4	aʕanšəjž’tára	_	_	_	_	_	_	_	Segment=агӏан-ш-ижьтАра|Gloss=def.время-?-since|_|_|def.|since
+3	arə́j	_	PRON	_	_	2	obl	_	Segment=арИ|Gloss=prox.sg|_|_|prox.sg
+4	aʕanšəjž’tára	_	NOUN	_	_	2	nsubj	_	Segment=агӏан-ш-ижьтАра|Gloss=def.время-?-since|_|_|def.|since
 
 # sent_id = 40
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = апхъА азамАн уагIахъАта адунАй йыквЫз шабгАз йазкIкIЫта зджьАра йбзАзун.
 # ft_rus = В то время люди, которые находились на свете, собравшись, жили где-то.
-1	apqá	_	_	_	_	_	_	_	Segment=апхъА|Gloss=раньше|_|_
+1	apqá	_	ADV	_	_	_	_	_	Segment=апхъА|Gloss=раньше|_|_
 2	azamán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-замАн|Gloss=def-время|_|_|def
 3	waʕaqáta	_	ADV	_	_	_	_	_	Segment=уагӏахъА-та|Gloss=народ-adv|_|_|adv
-4	adəwnáj	_	NOUN	_	Definite=Def	_	_	_	Segment=а-дунай|Gloss=def-мир|_|_|def
-5	jəkʷə́z	_	VERB	_	Tense=Pst	_	_	_	Segment=йы-квЫ-з|Gloss=rel.abs-быть.на-pst|_|_|rel.abs|.|pst
+4	adəwnáj	_	NOUN	_	Definite=Def	5	obl	_	Segment=а-дунай|Gloss=def-мир|_|_|def
+5	jəkʷə́z	_	VERB	_	Tense=Pst	3	acl	_	Segment=йы-квЫ-з|Gloss=rel.abs-быть.на-pst|_|_|rel.abs|.|pst
 6	šabgáz	_	VERB	_	Tense=Pst	_	_	_	Segment=ш-абгА-з|Gloss=rel.mnr-целый-pst|_|_|rel.mnr|pst
 7	jazḳḳə́ta	_	ADV	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Segment=й-азкӏкӏЫ-та|Gloss=3pl.abs-собираться-adv|_|_|3pl.abs|adv
-8	zǯ’ára	_	_	_	_	_	_	_	Segment=зджьАра|Gloss=где-то|_|_
-9	jbzázəwn	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3|Tense=Pst	_	_	_	Segment=й-бзАз-у-н|Gloss=3pl.abs-жить-ipf-pst|_|_|3pl.abs|ipf|pst
+8	zǯ’ára	_	PRON	_	_	9	obl	_	Segment=зджьАра|Gloss=где-то|_|_
+9	jbzázəwn	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3|Tense=Pst	0	root	_	Segment=й-бзАз-у-н|Gloss=3pl.abs-жить-ipf-pst|_|_|3pl.abs|ipf|pst
 
 # sent_id = 41
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = ауАт зымгIвА йщардачвахАтI йъатАз.
 # ft_rus = Их слишком много стало там, где жили.
-1	awát	_	_	_	_	_	_	_	Segment=ауАт|Gloss=dist.pl|_|_|dist.pl
-2	zəmʕʷá	_	_	_	_	_	_	_	Segment=зымгӏвА|Gloss=целиком|_|_
-3	jš’ardaĉaχáṭ	_	VERB	_	Aspect=Inceptive|Number[abs]=Plur|Person[abs]=3	_	_	_	Segment=й-щарда-чва-хА-тӏ|Gloss=3pl.abs-много-exc-inc-dcl|_|_|3pl.abs|exc|inc|dcl
-4	jʔatáz	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	_	_	_	Segment=й-ъа-тА-з|Gloss=3pl.abs-rel.loc-быть.в-pst|_|_|3pl.abs|rel.loc|.|pst
+1	awát	_	PRON	_	_	4	nsubj	_	Segment=ауАт|Gloss=dist.pl|_|_|dist.pl
+2	zəmʕʷá	_	ADV	_	_	4	advmod	_	Segment=зымгӏвА|Gloss=слишком|_|_
+3	jš’ardaĉaχáṭ	_	VERB	_	Aspect=Inceptive|Number[abs]=Plur|Person[abs]=3	4	obl	_	Segment=й-щарда-чва-хА-тӏ|Gloss=3pl.abs-много-exc-inc-dcl|_|_|3pl.abs|exc|inc|dcl
+4	jʔatáz	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	0	root	_	Segment=й-ъа-тА-з|Gloss=3pl.abs-rel.loc-быть.в-pst|_|_|3pl.abs|rel.loc|.|pst
 
 # sent_id = 42
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = йасЫн йхъвЫцын унАшва рчпАтI.
 # ft_rus = Они подумали и пришли к какому-то решению.
-1	jasə́n	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	_	_	_	Segment=й-асЫ-н|Gloss=3pl.abs-брать-pst|_|_|3pl.abs|pst
-2	jqʷə́cən	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	_	_	_	Segment=й-хъвЫцы-н|Gloss=3pl.abs-думать-pst|_|_|3pl.abs|pst
-3	wənáŝa	_	_	_	_	_	_	_	Segment=уынАшва|Gloss=решение|_|_
-4	rč’paṭ	_	_	_	Number[erg]=Plur|Person[erg]=3	_	_	_	Segment=р-чпа-тӏ|Gloss=3pl.erg-делать-dcl|_|_|3pl.erg|dcl
+1	jasə́n	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	4	conj	_	Segment=й-асЫ-н|Gloss=3pl.abs-брать-pst|_|_|3pl.abs|pst
+2	jqʷə́cən	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pst	1	xcomp	_	Segment=й-хъвЫцы-н|Gloss=3pl.abs-думать-pst|_|_|3pl.abs|pst
+3	wənáŝa	_	NOUN	_	_	4	obj	_	Segment=уынАшва|Gloss=решение|_|_
+4	rč’paṭ	_	VERB	_	Number[erg]=Plur|Person[erg]=3	0	root	_	Segment=р-чпа-тӏ|Gloss=3pl.erg-делать-dcl|_|_|3pl.erg|dcl
 
 # sent_id = 43
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = араъА апнЫ хъалЫрта хIчпАпIта анчвА спсЫ зкъвырмАну йпнЫ хIхъАлпIта хIицIгIАпI, арАъа хIтИщтырныс,
 # ft_rus = Мы сделаем здесь лестницу, принесём свою душу в жертву ради Аллаха, к нему поднимемся и спросим, чтобы отсюда нас выпустил.
-1	araʔá	_	_	_	_	_	_	_	Segment=араъА|Gloss=здесь|_|_
-2	apnə́	_	_	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	_	_	_	Segment=а-пнЫ|Gloss=3n.io-к|_|_|3n.io
-3	qalə́rta	_	_	_	_	_	_	_	Segment=хъалЫрта|Gloss=лестница|_|_
-4	hč’páṗta	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres	_	_	_	Segment=хӏ-чпА-пӏ-та|Gloss=1pl.erg-делать-npst.dcl-adv|_|_|1pl.erg|npst.dcl|adv
-5	anĉá	_	NOUN	_	Definite=Def	_	_	_	Segment=а-нчвА|Gloss=def-бог|_|_|def
-6	spsə	_	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	Segment=с-псы|Gloss=1sg.io-душа|_|_|1sg.io
-7	zq̇ʷərmánəw	_	VERB	_	Aspect=Imp	_	_	_	Segment=з-къвырмАн-у|Gloss=rel.io-приносить.в.жертву-ipf|_|_|rel.io|..|ipf
-8	jpnə	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	Segment=й-пны|Gloss=3m.io-к|_|_|3m.io
-9	hqálṗta	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres	_	_	_	Segment=хӏ-хъАл-пӏ-та|Gloss=1pl.abs-подниматься-npst.dcl-adv|_|_|1pl.abs|npst.dcl|adv
-10	həjc̣ʕáṗ	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Pres	_	_	_	Segment=хӏ-и-цӏгӏА-пӏ|Gloss=1pl.abs-3m.io-спрашивать-npst.dcl|_|_|1pl.abs|3m.io|npst.dcl
-11	aráʔa	_	_	_	_	_	_	_	Segment=арАъа|Gloss=prox.loc|_|_|prox.loc
-12	htə́jš’tərnəs	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Inf	_	_	_	Segment=хӏ-т-И-щты-рныс|Gloss=1pl.abs-loc.elat-3m.erg-пустить-purp|_|_|1pl.abs|loc.elat|3m.erg|purp
+1	araʔá	_	ADV	_	_	4	advmod	_	Segment=араъА|Gloss=здесь|_|_
+2	apnə́	_	PRON	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	4	nsubj	_	Segment=а-пнЫ|Gloss=3n.io-к|_|_|3n.io
+3	qalə́rta	_	NOUN	_	_	4	obj	_	Segment=хъалЫрта|Gloss=лестница|_|_
+4	hč’páṗta	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres	6	conj	_	Segment=хӏ-чпА-пӏ-та|Gloss=1pl.erg-делать-npst.dcl-adv|_|_|1pl.erg|npst.dcl|adv
+5	anĉá	_	NOUN	_	Definite=Def	7	obl	_	Segment=а-нчвА|Gloss=def-бог|_|_|def
+6	spsə	_	NOUN	_	Number[dat]=Sing|Person[dat]=1	9	conj	_	Segment=с-псы|Gloss=1sg.io-душа|_|_|1sg.io
+7	zq̇ʷərmánəw	_	VERB	_	Aspect=Imp	7	acl	_	Segment=з-къвырмАн-у|Gloss=rel.io-приносить.в.жертву-ipf|_|_|rel.io|..|ipf
+8	jpnə	_	PRON	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	9	obl	_	Segment=й-пны|Gloss=3m.io-к|_|_|3m.io
+9	hqálṗta	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres	12	conj	_	Segment=хӏ-хъАл-пӏ-та|Gloss=1pl.abs-подниматься-npst.dcl-adv|_|_|1pl.abs|npst.dcl|adv
+10	həjc̣ʕáṗ	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Pres	12	xcomp	_	Segment=хӏ-и-цӏгӏА-пӏ|Gloss=1pl.abs-3m.io-спрашивать-npst.dcl|_|_|1pl.abs|3m.io|npst.dcl
+11	aráʔa	_	PRON	_	_	12	obl	_	Segment=арАъа|Gloss=prox.loc|_|_|prox.loc
+12	htə́jš’tərnəs	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Inf	0	root	_	Segment=хӏ-т-И-щты-рныс|Gloss=1pl.abs-loc.elat-3m.erg-пустить-purp|_|_|1pl.abs|loc.elat|3m.erg|purp
 
 # sent_id = 44
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 # text = йАлагатI чвЫмла ауЫра рчпАуа йАлагатI.
 # ft_rus = Они начали делать длинную лестницу.
-1	jálagaṭ	_	_	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Segment=й-Алага-тӏ|Gloss=3pl.abs-начинать-dcl|_|_|3pl.abs|dcl
+1	jálagaṭ	_	_	_	Number[abs]=Plur|Person[abs]=3	4	xcomp	_	Segment=й-Алага-тӏ|Gloss=3pl.abs-начинать-dcl|_|_|3pl.abs|dcl
 2	ĉə́mla	_	_	_	_	_	_	_	Segment=чвЫмла|Gloss=лестница|_|_
-3	awə́ra	_	_	_	_	_	_	_	Segment=ауы́ра|Gloss=длинный|_|_
-4	rč’páwa	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=3	_	_	_	Segment=р-чпА-уа|Gloss=3pl.erg-делать-ipf|_|_|3pl.erg|ipf
+3	awə́ra	_	_	_	_	ADJ	2	_	Segment=ауы́ра|Gloss=длинный|_|_
+4	rč’páwa	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=3	0	root	_	Segment=р-чпА-уа|Gloss=3pl.erg-делать-ipf|_|_|3pl.erg|ipf
 5	jálagaṭ	_	_	_	Number[abs]=Plur|Person[abs]=3	_	_	_	Segment=й-Алага-тӏ|Gloss=3pl.abs-начинать-dcl|_|_|3pl.abs|dcl
 
 # sent_id = 45
@@ -997,7 +724,7 @@
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 # text = [zhs1930_f] атумАн апнЫ йхIвАз сырхIвАхстI
 # ft_rus = [zhs1930_f] Дай мне пересказать то, что он сказал о 10 рублях.
-1	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10 
+1	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10
 2	apnə́	_	NOUN	_	Definite=Def	_	_	_	Segment=а-пнЫ|Gloss=def-к|_|_|def
 3	jhʷáz	_	_	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	Segment=й-хӏвА-з|Gloss=3m.erg-сказать-pst.nfin|_|_|3m.erg|pst.nfin
 4	sərhʷáχsṭ	_	VERB	_	Aspect=Refactive|Number[dat]=Sing|Person[dat]=1|Voice=Cau	_	_	_	Segment=сы-р-хӏвА-х-стӏ|Gloss=1sg.io-caus-сказать-re-imp-ptcl|_|_|1sg.io|caus|re|imp|ptcl
@@ -1060,12 +787,12 @@
 5	awə́j	_	_	_	_	_	_	_	Segment=ауИ|Gloss=dist.sg|_|_|dist.sg
 6	dəpsə́n	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pst	_	_	_	Segment=ды-псЫ-н|Gloss=3h.abs-умереть-pst|_|_|3h.abs|pst
 7	awə́j	_	_	_	_	_	_	_	Segment=ауИ|Gloss=dist.sg|_|_|dist.sg
-8	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10 
+8	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10
 9	zə́rhʷawa	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=3	_	_	_	Segment=зЫ-р-хӏва-уа|Gloss=rel.io-3pl.erg-сказать-ipf|_|_|rel.io|3pl.erg|ipf
 10	jrə́ẑχṭ	_	_	_	Aspect=Refactive|Gender[abs]=Masc|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	Segment=й-рЫ-жв-х-тӏ|Gloss=3m.abs-3pl.erg-пить-re-dcl|_|_|3m.abs|3pl.erg|re|dcl
 11	aráʔa	_	_	_	_	_	_	_	Segment=арАъа|Gloss=prox.loc|_|_|prox.loc
 12	jʕájχən	_	VERB	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=3|Tense=Pst	_	_	_	Segment=й-гӏА-й-хы-н|Gloss=3pl.abs-csl-идти-re-pst|_|_|3pl.abs|csl|re|pst
-13	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10 
+13	atəwmán	_	NOUN	_	Definite=Def	_	_	_	Segment=а-тумАн|Gloss=def-10_ рублей|_|_|def|10
 14	rə́ẑχṭ	_	_	_	Aspect=Refactive|Number[erg]=Plur|Person[erg]=3	_	_	_	Segment=рЫ-жв-х-тӏ|Gloss=3pl.erg-пить-re-dcl|_|_|3pl.erg|re|dcl
 
 # sent_id = 93
