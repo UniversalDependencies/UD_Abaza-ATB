@@ -27,7 +27,7 @@
 6	английскала	_	NOUN	_	Case=Ins	7	iobj	_	_|Gloss=английский-ins|ins|Segment=англИйска-ла
 7	йалрыпхьуштI	_	VERB	_	Aspect=Imp|Gender[dat]=Neut|Gender[erg]=Fem|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|Tense=Fut|Voice=Cau	9	parataxis	_	3f.erg|3n.io|3pl.abs|_|caus|dcl|fut|Gloss=3pl.abs-3n.io-3f.erg-caus-читать-ipf-fut-dcl|ipf|Segment=й-а-л-рЫ-пхь-у-ш-тI'
 8	хIва	хIва	SCONJ	_	_	9	obj	_	_|Gloss=quot|quot|Segment=хIвА
-9	йгiасайхiвлун	_	VERB	_	Aspect=Imp|Case=Dat|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Tense=Past	0	root	_	1sg.io|3m.erg|3n.abs|_|csl|dat|Gloss=3n.abs-csl-1sg.io-dat-3m.erg-говорить-hab-ipf-pst|hab|ipf|pst|Segment=хIвА
+9	йгIасайхIвлун	_	VERB	_	Aspect=Imp|Case=Dat|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Tense=Past	0	root	_	1sg.io|3m.erg|3n.abs|_|csl|dat|Gloss=3n.abs-csl-1sg.io-dat-3m.erg-говорить-hab-ipf-pst|hab|ipf|pst|Segment=хIвА
 
 # ft_rus = Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.
 # sent_id = 29
@@ -38,7 +38,7 @@
 3	схъа	ахъа	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	obj	_	1sg.io|_|Gloss=1sg.io-голова|Segment=с-хъА
 4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Past	0	root	_	1sg.erg|3n.abs|_|Gloss=3n.abs-loc-1sg.erg-запомнить-pst|loc|pst|Segment=й-та-с-кIЫ-н
 5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
-6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	4	advmod	_	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
+6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	4	xcomp	_	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
 7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	6	conj	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
 8	ауи	ауи	PRON	_	_	11	obl	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
 9	акIвымкIва	акIвымкIва	ADP	_	_	10	case	_	_|Gloss=кроме|Segment=АкIвымкIва
@@ -122,7 +122,7 @@
 # sent_id = 37
 # text = йырган йырщын дара йырфахд
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
-1	йырган	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	1	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-нести-dcl|Segment=йы-р-га-н
+1	йырган	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	2	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-нести-dcl|Segment=йы-р-га-н
 2	йырщын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	4	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-резать-dcl|Segment=йы-р-щы-н
 3	дара	дара	PRON	_	_	4	nsubj	_	_|Gloss=они|Segment=дара
 4	йырфахд	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-есть-re-dcl|re|Segment=йы-р-фа-х-д
