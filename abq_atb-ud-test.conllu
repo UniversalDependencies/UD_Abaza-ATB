@@ -173,7 +173,7 @@
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йасын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	0	root	_	3pl.abs|_|Gloss=3pl.abs-брать-pst|pst|Segment=й-асЫ-н
 2	йхъвыцын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	1	xcomp	_	3pl.abs|_|Gloss=3pl.abs-думать-pst|pst|Segment=й-хъвЫцы-н
-3	уынашва	уынашва	NOUN	_	_	4	obj	_	_|Gloss=решение|Segment=уынАшва
+3	унашва	унашва	NOUN	_	_	4	obj	_	_|Gloss=решение|Segment=унашва
 4	рчпатI	_	VERB	_	Number[erg]=Plur|Person[erg]=3	1	conj	_	3pl.erg|_|dcl|Gloss=3pl.erg-делать-dcl|Segment=р-чпа-тӏ
 
 # ft_rus = Мы сделаем здесь лестницу, принесём свою душу в жертву ради Аллаха, к нему поднимемся и спросим, чтобы отсюда нас выпустил.
@@ -223,7 +223,7 @@
 
 # ft_rus = Потом спросил пророк их: "Что вы хотите?".
 # sent_id = 47
-# text = уадыргIвана апегIамбар дгIаразцIгIатI йачIвыйа йшвтахъху
+# text = уадыргIвана апегIамбар дгIарызцIгIатI йачIвыйа йшвтахъху
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	уадыргIвана	уадыргIвана	ADV	_	_	3	advmod	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	апегIамбар	апегiамбар	NOUN	_	Definite=Def	3	nsubj	_	_|def|Gloss=def-пророк|Segment=а-пегӏамбАр
