@@ -171,10 +171,10 @@
 # sent_id = 42
 # text = йасын йхъвыцын унашва рчпатI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
-1	йасын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	4	conj	_	3pl.abs|_|Gloss=3pl.abs-брать-pst|pst|Segment=й-асЫ-н
+1	йасын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	0	root	_	3pl.abs|_|Gloss=3pl.abs-брать-pst|pst|Segment=й-асЫ-н
 2	йхъвыцын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	1	xcomp	_	3pl.abs|_|Gloss=3pl.abs-думать-pst|pst|Segment=й-хъвЫцы-н
 3	уынашва	уынашва	NOUN	_	_	4	obj	_	_|Gloss=решение|Segment=уынАшва
-4	рчпатI	_	VERB	_	Number[erg]=Plur|Person[erg]=3	0	root	_	3pl.erg|_|dcl|Gloss=3pl.erg-делать-dcl|Segment=р-чпа-тӏ
+4	рчпатI	_	VERB	_	Number[erg]=Plur|Person[erg]=3	1	conj	_	3pl.erg|_|dcl|Gloss=3pl.erg-делать-dcl|Segment=р-чпа-тӏ
 
 # ft_rus = Мы сделаем здесь лестницу, принесём свою душу в жертву ради Аллаха, к нему поднимемся и спросим, чтобы отсюда нас выпустил.
 # sent_id = 43
@@ -183,15 +183,15 @@
 1	араъа	араъа	ADV	_	_	4	advmod	_	_|Gloss=здесь|Segment=араъА
 2	апны	_	PRON	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	4	nsubj	_	3n.io|_|Gloss=3n.io-к|Segment=а-пнЫ
 3	хъалырта	хъалырта	NOUN	_	_	4	obj	_	_|Gloss=лестница|Segment=хъалЫрта
-4	хIчпапIта	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres	6	conj	_	1pl.erg|_|adv|Gloss=1pl.erg-делать-npst.dcl-adv|npst.dcl|Segment=хӏ-чпА-пӏ-та
+4	хIчпапIта	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Pres	0	root	_	1pl.erg|_|adv|Gloss=1pl.erg-делать-npst.dcl-adv|npst.dcl|Segment=хӏ-чпА-пӏ-та
 5	анчва	анчва	NOUN	_	Definite=Def	7	obl	_	_|def|Gloss=def-бог|Segment=а-нчвА
-6	спсы	апсы	NOUN	_	Number[dat]=Sing|Person[dat]=1	9	conj	_	1sg.io|_|Gloss=1sg.io-душа|Segment=с-псы
-7	зкъвырману	_	VERB	_	Aspect=Imp	7	acl	_	..|_|Gloss=rel.io-приносить.в.жертву-ipf|ipf|rel.io|Segment=з-къвырмАн-у
+6	спсы	апсы	NOUN	_	Number[dat]=Sing|Person[dat]=1	7	obj	_	1sg.io|_|Gloss=1sg.io-душа|Segment=с-псы
+7	зкъвырману	_	VERB	_	Aspect=Imp	4	conj	_	..|_|Gloss=rel.io-приносить.в.жертву-ipf|ipf|rel.io|Segment=з-къвырмАн-у
 8	йпны	_	PRON	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	9	obl	_	3m.io|_|Gloss=3m.io-к|Segment=й-пны
-9	хIхъалпIта	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres	12	conj	_	1pl.abs|_|adv|Gloss=1pl.abs-подниматься-npst.dcl-adv|npst.dcl|Segment=хӏ-хъАл-пӏ-та
-10	хIицIгIапI	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Pres	12	xcomp	_	1pl.abs|3m.io|_|Gloss=1pl.abs-3m.io-спрашивать-npst.dcl|npst.dcl|Segment=хӏ-и-цӏгӏА-пӏ
+9	хIхъалпIта	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres	7	conj	_	1pl.abs|_|adv|Gloss=1pl.abs-подниматься-npst.dcl-adv|npst.dcl|Segment=хӏ-хъАл-пӏ-та
+10	хIицIгIапI	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Pres	9	conj	_	1pl.abs|3m.io|_|Gloss=1pl.abs-3m.io-спрашивать-npst.dcl|npst.dcl|Segment=хӏ-и-цӏгӏА-пӏ
 11	араъа	араъа	PRON	_	_	12	obl	_	_|Gloss=prox.loc|prox.loc|Segment=арАъа
-12	хIтищтырныс	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Inf	0	root	_	1pl.abs|3m.erg|_|Gloss=1pl.abs-loc.elat-3m.erg-пустить-purp|loc.elat|purp|Segment=хӏ-т-И-щты-рныс
+12	хIтищтырныс	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Inf	10	ccomp	_	1pl.abs|3m.erg|_|Gloss=1pl.abs-loc.elat-3m.erg-пустить-purp|loc.elat|purp|Segment=хӏ-т-И-щты-рныс
 
 
 # ft_rus = Они начали делать длинную лестницу.
@@ -220,7 +220,7 @@
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йгьзынамдзатI	_	VERB	_	Mood=Pot|Number[abs]=Plur|Person[abs]=3|Polarity=Neg	0	root	_	3pl.abs|_|dcl|Gloss=3pl.abs-neg.emp-pot-trl-neg-достичь-dcl|neg|neg.emp|pot|Segment=й-гь-зЫ-на-м-дза-тӏ|trl
 2	йагIакIашвахын	_	VERB	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=3|Tense=Past	1	conj	_	3pl.abs|_|csl|Gloss=3pl.abs-csl-loc-падать-re-pst|loc|pst|re|Segment=йа-гӏа-кӏа-швА-хы-н
-3	йкIахIатI	_	VERB_	_	Number[abs]=Plur|Person[abs]=3	2	conj	_	3pl.abs|_|dcl|Gloss=3pl.abs-loc-падать-dcl|loc|Segment=й-кӏА-хӏа-тӏ
+3	йкIахIатI	_	VERB	_	Number[abs]=Plur|Person[abs]=3	2	conj	_	3pl.abs|_|dcl|Gloss=3pl.abs-loc-падать-dcl|loc|Segment=й-кӏА-хӏа-тӏ
 
 # ft_rus = Потом спросил пророк их: "Что вы хотите?".
 # sent_id = 47
@@ -228,7 +228,7 @@
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	уадыргIвана	уадыргIвана	ADV	_	_	3	advmod	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	апегIамбар	апегiамбар	NOUN	_	Definite=Def	3	nsubj	_	_|def|Gloss=def-пророк|Segment=а-пегӏамбАр
-3	дгIарызцIгIатI	_	VERB	_	Case=Ben|Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3	0	root	_	3h.abs|3pl.io|_|ben|csl|dcl|Gloss=3h.abs-csl-3pl.io-ben-спрашивать-dcl|Segment=д-гӏа-рЫ-з-цӏгӏа-тӏ
+3	дгIарызцIгIатI	_	VERB	_	Case=Ben|Gender[abs]=Hum|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=3	0	root	_	3h.abs|3pl.io|_|ben|csl|dcl|Gloss=3h.abs-csl-3pl.io-ben-спрашивать-dcl|Segment=д-гӏа-рЫ-з-цӏгӏа-тӏ
 4	йачIвыйа	_	VERB	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	5	ccomp	_	3n.io|_|Gloss=rel.abs-3n.io-принадлежать-qn|qn|rel.abs|Segment=й-а-чӏвЫ-йа
 5	йшвтахъху	_	VERB	_	Aspect=Refactive|Number[dat]=Plur|Person[dat]=2	3	ccomp	_	2pl.io|_|Gloss=rel.abs-2pl.io-хотеть-re-prs.nfin|prs.nfin|re|rel.abs|Segment=й-шв-тахъ-х-у
 
