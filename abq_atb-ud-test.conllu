@@ -51,7 +51,7 @@
 # text_name = Professija_AjsanovaFB_11072017
 1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	iobj	_	_|def|Gloss=def-школа|Segment=А-пхьарта
 2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
-3	аинститyт	аинститyт	NOUN	_	Definite=Def	4	iobj	_	_|def|Gloss=def-институт|Segment=а-инститyт
+3	аинститут	аинститyт	NOUN	_	Definite=Def	4	iobj	_	_|def|Gloss=def-институт|Segment=а-инститyт
 4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1	2	conj	_	1sg.abs|_|dcl|Gloss=1sg.abs-идти-dcl|Segment=с-цА-тӏ
 
 # ft_rus = Я очень любила учиться.
@@ -143,4 +143,18 @@
 2	цIитI	_	VERB	_	Tense=Pres	0	root	_	_|dcl|Gloss=проходить-prs-dcl|prs|Segment=цӏ-и-тӏ
 3	ари	ари	PRON	_	_	2	obl	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
 4	агIаншижьтара	_	NOUN	_	_	2	nsubj	_	_|def.|Gloss=def.время-?-since|Segment=агӏан-ш-ижьтАра|since
+
+# ft_rus = В то время люди, которые находились на свете, собравшись, жили где-то.
+# sent_id = 40
+# text = апхъа азаман уагIахъата адунай йыквыз шабгаз йазкIкIыта зджьара йбзазун
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	апхъа	апхъа	ADV	_	_	2	flat	_	_|Gloss=раньше|Segment=апхъА
+2	азаман	азаман	NOUN	_	Definite=Def	5	obl	_	_|def|Gloss=def-время|Segment=а-замАн
+3	уагIахъата	_	ADV	_	_	6	nsubj	_	_|adv|Gloss=народ-adv|Segment=уагӏахъА-та
+4	адунай	адунай	NOUN	_	Definite=Def	5	obj	_	_|def|Gloss=def-мир|Segment=а-дунай
+5	йыквыз	_	VERB	_	Tense=Past	3	acl	_	.|_|Gloss=rel.abs-быть.на-pst|pst|rel.abs|Segment=йы-квЫ-з
+6	шабгаз	_	ADV	_	Tense=Past	7	advmod	_	_|Gloss=rel.mnr-целый-pst|pst|rel.mnr|Segment=ш-абгА-з
+7	йазкIкIыта	_	VERB	_	Number[abs]=Plur|Person[abs]=3	0	root	_	3pl.abs|_|adv|Gloss=3pl.abs-собираться-adv|Segment=й-азкӏкӏЫ-та
+8	зджьара	_	PRON	_	_	9	obl	_	_|Gloss=где-то|Segment=зджьАра
+9	йбзазун	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3|Tense=Past	7	conj	_	3pl.abs|_|Gloss=3pl.abs-жить-ipf-pst|ipf|pst|Segment=й-бзАз-у-н
 
