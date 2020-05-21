@@ -1,6 +1,6 @@
 # ft_rus = [fba1959_f] Меня зовут Фатима.
 # sent_id = 26
-# text =  сара сыхьиз фатимапi
+# text =  сара сыхьиз фатимаI
 # text_name = Professija_AjsanovaFB_11072017
 1	сара	сара	PRON	_	_	3	nsubj	_	_|Gloss=я|Segment=сарА
 2	сыхьиз	асыьиз	NOUN	_	Number[dat]=Sing|Person[dat]=1	3	obl	_	1sg.io|_|Gloss=1sg.io-имя|Segment=сы-хьиз
@@ -8,7 +8,7 @@
 
 # ft_rus = Я хочу вам рассказать, как я стала учителем.
 # sent_id = 27
-# text = сара йшвасIырныс йстахъыIсшарыпхьаIхаз
+# text = сара йшвасIырныс йстахъыпi сшарыпхьаIхаз
 # text_name = Professija_AjsanovaFB_11072017
 1	сара	сара	PRON	_	_	2	nsubj	_	_|Gloss=я|Segment=сарА
 2	йшвасIырныс	_	VERB	_	Case=Dat|Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|VerbForm=Inf	3	ccomp	_	1sg.erg|2pl.io|3n.abs|_|dat|Gloss=3n.abs-2pl.io-dat-1sg.erg-рассказать-purp|purp|Segment=й-шв-А-с-хӏвы-рныс
@@ -17,7 +17,7 @@
 
 # ft_rus = Когда я была маленькой, дядя говорил, что я стану учителем английского языка.
 # sent_id = 28
-# text = сара санхвыцыз сан лаща ари английскала йалрыпхьушIIа йIсайIлун
+# text = сара санхвыцыз сан лаща ари английскала йалрыпхьуштi Iа йIсайIлун
 # text_name = Professija_AjsanovaFB_11072017
 1	сара	сара	PRON	_	_	2	nsubj	_	_|Gloss=я|Segment=СарА
 2	санхвыцыз	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Past	9	xcomp	_	1sg.abs|_|Gloss=1sg.abs-rel.tmp-маленький-pst|pst|rel.tmp|Segment=с-ан-хвЫцы-з
@@ -31,7 +31,7 @@
 
 # ft_rus = Я тоже это запомнила и ничего другого не хотела, пока я училась в школе и когда её закончила.
 # sent_id = 29
-# text = саргьи ауи схъа йтасIн апхьарта съадзапхьузгьи санIлгагьи ауи аIымIа заIьи гьстахъымызтi
+# text = саргьи ауи схъа йтасIн апхьарта съадзапхьузгьи санIлгагьи ауи аIымIа заIьи гьстахъымызI
 # text_name = Professija_AjsanovaFB_11072017
 1	саргьи	сара	PRON	_	_	4	nsubj	_	_|add|Gloss=я-add|Segment=сар-гьИ
 2	ауи	ауи	_	_	_	4	iobj	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
@@ -47,7 +47,7 @@
 
 # ft_rus = Когда закончила школу, пошла в институт.
 # sent_id = 30
-# text = апхьарта санIлга аинститут сцатi
+# text = апхьарта санIлга аинститут сцаI
 # text_name = Professija_AjsanovaFB_11072017
 1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	iobj	_	_|def|Gloss=def-школа|Segment=А-пхьарта
 2	санIлга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
@@ -56,7 +56,7 @@
 
 # ft_rus = Я очень любила учиться.
 # sent_id = 31
-# text = йсгвапхадзауата бзидздза йызбауата сапхьатi
+# text = йсгвапхадзауата бзидздза йызбауата сапхьаI
 # text_name = Professija_AjsanovaFB_11072017
 1	йсгвапхадзауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	3	conj	_	1sg.erg|3n.abs|_|adv|ass|Gloss=3n.abs-1sg.erg-любить-ass-ipf-adv|ipf|Segment=й-с-гвапха-дза-уА-та
 2	бзидздза	_	ADJ	_	_	3	advmod	_	_|ass|Gloss=хорошо-ass-ass|Segment=бзи-дз-дзА
@@ -65,7 +65,7 @@
 
 # ft_rus = С тех пор как закончила школу, прошло 33 года.
 # sent_id = 32
-# text = апхьарта сIлгищтара сквшы IынIажви жвих Iтi
+# text = апхьарта сIлгищтара сквшы IынIажви жвих II
 # text_name = Professija_AjsanovaFB_11072017
 1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	iobj	_	_|def|Gloss=def-школа|Segment=А-пхьарта
 2	сIлгищтара	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|csl|Gloss=1sg.abs-csl-оканчивать-since|Segment=с-гӏа-лг-ищтАра|since
@@ -87,7 +87,7 @@
 
 # ft_rus = Я люблю детей и очень люблю свою работу
 # sent_id = 34
-# text = сара асабиква бзи йызбиIсынхартагьи бзидздза йызбитi
+# text = сара асабиква бзи йызбитi сынхартагьи бзидздза йызбиI
 # text_name = Professija_AjsanovaFB_11072017
 1	сара	сара	PRON	_	_	4	nsubj	_	_|Gloss=я|Segment=сарА
 2	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
@@ -99,7 +99,7 @@
 
 # ft_rus = [zhs1930_f] Мы купили и имели единственную корову, которую дали нам у бабушки.
 # sent_id = 35
-# text =  жвзаджвыIIIвIн йIман нанарI рпны йIIртын
+# text =  жвзаджвыкi IIвIн йIман нанарI рпны йIIртын
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
 1	жвзаджвыкI	_	NUM	_	Number=Count	2	obj	_	_|cln|Gloss=корова-один-cln-unit|Segment=жв-за-джвы-кӏ|unit
 2	IIвIн	_	VERB	_	Number[erg]=Plur|Person[erg]=1	0	root	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-купить-dcl|Segment=гӏа-хӏ-хвгӏа-н
@@ -137,7 +137,7 @@
 
 # ft_rus = [fma1957_f] С тех пор прошло много времени.
 # sent_id = 39
-# text =  щарда IIари аIншижьтара
+# text =  щарда Iтi ари аIншижьтара
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	щарда	щарда	ADV	_	_	4	advmod	_	_|Gloss=много|Segment=щАрда
 2	IтI	_	VERB	_	Tense=Pres	0	root	_	_|dcl|Gloss=проходить-prs-dcl|prs|Segment=цӏ-и-тӏ
@@ -160,7 +160,7 @@
 
 # ft_rus = Их слишком много стало там, где жили.
 # sent_id = 41
-# text = ауат зымIа йщардачвахаIйъатаз
+# text = ауат зымIа йщардачвахатi йъатаз
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауат	ауат	PRON	_	_	4	nsubj	_	_|dist.pl|Gloss=dist.pl|Segment=ауАт
 2	зымIа	зымIа	ADV	_	_	4	advmod	_	_|Gloss=слишком|Segment=зымгӏвА
@@ -169,7 +169,7 @@
 
 # ft_rus = Они подумали и пришли к какому-то решению.
 # sent_id = 42
-# text = йасын йхъвыцын унашва рчпатi
+# text = йасын йхъвыцын унашва рчпаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йасын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	4	conj	_	3pl.abs|_|Gloss=3pl.abs-брать-pst|pst|Segment=й-асЫ-н
 2	йхъвыцын	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Past	1	xcomp	_	3pl.abs|_|Gloss=3pl.abs-думать-pst|pst|Segment=й-хъвЫцы-н
@@ -178,7 +178,7 @@
 
 # ft_rus = Мы сделаем здесь лестницу, принесём свою душу в жертву ради Аллаха, к нему поднимемся и спросим, чтобы отсюда нас выпустил.
 # sent_id = 43
-# text = араъа апны хъалырта IпаIа анчва спсы зкъвырману йпны IъалIа IIiаIараъа Iищтырныс
+# text = араъа апны хъалырта IпаIа анчва спсы зкъвырману йпны IъалIа IIiапi араъа Iищтырныс
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	араъа	араъа	ADV	_	_	4	advmod	_	_|Gloss=здесь|Segment=араъА
 2	апны	_	PRON	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	4	nsubj	_	3n.io|_|Gloss=3n.io-к|Segment=а-пнЫ
@@ -195,7 +195,7 @@
 
 # ft_rus = Они начали делать длинную лестницу.
 # sent_id = 44
-# text = йалагаIчвымла ауыра рчпауа йалагатi
+# text = йалагатi чвымла ауыра рчпауа йалагаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йалагатI	_	_	_	Number[abs]=Plur|Person[abs]=3	4	xcomp	_	3pl.abs|_|dcl|Gloss=3pl.abs-начинать-dcl|Segment=й-Алага-тӏ
 2	чвымла	чвымла	_	_	_	_	_	_	_|Gloss=лестница|Segment=чвЫмла
@@ -205,7 +205,7 @@
 
 # ft_rus = Сделали лестницу и поставили, но не дойдешь до неба.
 # sent_id = 45
-# text = ачвымла рчпаIйдыргылын унадзума ажвIанд ахъахь
+# text = ачвымла рчпатi йдыргылын унадзума ажвIанд ахъахь
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ачвымла	аачвымла	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-лестница|Segment=Ачвымла
 2	рчпатI	_	_	_	Number[erg]=Plur|Person[erg]=3	_	_	_	3pl.erg|_|dcl|Gloss=3pl.erg-делать-dcl|Segment=р-чпА-тӏ
@@ -216,7 +216,7 @@
 
 # ft_rus = Не дошли, упали.
 # sent_id = 46
-# text = йгьзынамдзаIйаIIшвахын йIIтi
+# text = йгьзынамдзатi йаIIшвахын йIII
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йгьзынамдзатI	_	VERB	_	Mood=Pot|Number[abs]=Plur|Person[abs]=3|Polarity=Neg	_	_	_	3pl.abs|_|dcl|Gloss=3pl.abs-neg.emp-pot-trl-neg-достичь-dcl|neg|neg.emp|pot|Segment=й-гь-зЫ-на-м-дза-тӏ|trl
 2	йаIIшвахын	_	VERB	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=3|Tense=Past	_	_	_	3pl.abs|_|csl|Gloss=3pl.abs-csl-loc-падать-re-pst|loc|pst|re|Segment=йа-гӏа-кӏа-швА-хы-н
@@ -224,7 +224,7 @@
 
 # ft_rus = Потом спросил пророк их: "Что вы хотите?".
 # sent_id = 47
-# text = уадырIана апеIмбар дIразIiаIйаIыйа йшвтахъху
+# text = уадырIана апеIмбар дIразIiатi йаIыйа йшвтахъху
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	апеIмбар	апеIмбар	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-пророк|Segment=а-пегӏамбАр
@@ -246,7 +246,7 @@
 
 # ft_rus = об этом хотели просить" - сказали. “Да”.
 # sent_id = 49
-# text = ауыла IыIушын  рIаIщта
+# text = ауыла IыIушын  рIатi щта
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауы́ла	_	_	_	Case=Ins	_	_	_	_|Gloss=это-ins|ins|Segment=ауы́-ла
 2	IыIушын	_	VERB	_	Aspect=Imp|Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Past	_	_	_	1pl.abs|3m.io|_|fut|Gloss=1pl.abs-3m.io-говорить-ipf-fut-pst|ipf|pst|Segment=хӏ-йЫ-хӏв-у-шы-н
@@ -255,7 +255,7 @@
 
 # ft_rus = «Я ему скажу про это и я вам скажу ответ" – говорит.
 # sent_id = 50
-# text = йшвызйасII ауи ахабар швызIзгхI йIатi
+# text = йшвызйасIпi  ауи ахабар швызIзгхпi  йIаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йшвызйасIпI	_	VERB	_	Case=Dat|Gender[abs]=Neut|Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=1|Tense=Pres	_	_	_	1sg.erg|2pl.io|3m.io|3n.abs|_|ben|dat|Gloss=3n.abs-2pl.io-ben-3m.io-dat-1sg.erg-говорить-npst.dcl|npst.dcl|Segment=й-швы-з-й-А-с-хӏв-пӏ
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -265,7 +265,7 @@
 
 # ft_rus = Время прошло, и пророк пришёл.
 # sent_id = 51
-# text = йцан заман апеIмбар дIйтi
+# text = йцан заман апеIмбар дIйI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йцан	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Past	_	_	_	3n.abs|_|Gloss=3n.abs-идти-pst|pst|Segment=й-ца-н
 2	заман	заман	_	_	_	_	_	_	_|Gloss=время|Segment=замАн
@@ -274,7 +274,7 @@
 
 # ft_rus = "Он согласился с вашим решением, но кто здесь хочет выселиться, должен по одному камушку с собой забрать" – говорил.
 # sent_id = 52
-# text = ауи йуиIшвара швмурад ауаса араъа йтыIа зымIагьи йтыIа заIзаIIхъвы швыцтыжвгушI йIан
+# text = ауи йуитi швара швмурад ауаса араъа йтыIа зымIагьи йтыIа заIзакi Iхъвы швыцтыжвгуштi  йIан
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	йуитI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|Tense=Pres	_	_	_	3m.erg|_|dcl|Gloss=3m.erg-соглашаться-prs-dcl|prs|Segment=й-у-И-тӏ
@@ -292,7 +292,7 @@
 
 # ft_rus = Так и сделали и все и всех выселили из большой ямы.
 # sent_id = 53
-# text = ауаса йырчпад йасын зымIагьи йтыIз шабгаз йтыргаIамаша ду апны
+# text = ауаса йырчпад йасын зымIагьи йтыIз шабгаз йтыргатi амаша ду апны
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауаса	ауаса	_	_	_	_	_	_	_|Gloss=так|Segment=ауАса
 2	йырчпад	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-делать-dcl|Segment=йы-р-чпА-д
@@ -307,7 +307,7 @@
 
 # ft_rus = Остался один народ. Но они не смогли выселиться. Не осталось ни одного камня.
 # sent_id = 54
-# text = уIхъаIIнхаIауаса ауат гьызIтымIi IхъвыIьи гьIтамхатi
+# text = уIхъакi Iнхатi ауаса ауат гьызIтымIi IхъвыIьи гьIтамхаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	уIхъакI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=народ-indf|indf|Segment=угӏахъА-кӏ
 2	IнхатI	_	_	_	_	_	_	_	_|dcl|Gloss=оставаться-dcl|Segment=гӏа-н-хА-тӏ
@@ -319,7 +319,7 @@
 
 # ft_rus = Потом пророк спросил Аллаха:
 # sent_id = 55
-# text = уадырIана апеIмбар алаIдиIiатi
+# text = уадырIана апеIмбар алахi диIiаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	апеIмбар	апеIмбар	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-пророк|Segment=а-пегӏАмбар
@@ -328,7 +328,7 @@
 
 # ft_rus = “Как дела пойдут у тех, кто остался?” – когда он сказал Аллаху, тот ответил:
 # sent_id = 56
-# text = аIыйа ари йIнхакваз руыс шпацуш ниIа асхъан алаIауи йIатi
+# text = аIыйа ари йIнхакваз руыс шпацуш ниIа асхъан алахi ауи йIаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	аIʷыйа	_	_	_	_	_	_	_	_|Gloss=что-qn|qn|Segment=ачӏвʷЫ-йа
 2	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
@@ -361,7 +361,7 @@
 
 # ft_rus = Только те, которые ушли, будут жить, понимая все другие языки.
 # sent_id = 59
-# text = ауаса ауат йтыIваз рыбызшва ауахьауат зымIа рыбызшваква IргвынIуата йбзазуштi
+# text = ауаса ауат йтыIваз рыбызшва ауахьауат зымIа рыбызшваква IргвынIуата йбзазушI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауаса	ауаса	_	_	_	_	_	_	_|Gloss=но|Segment=ауАса
 2	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауАт
@@ -375,7 +375,7 @@
 
 # ft_rus = Те, кто там остались – это абазины.
 # sent_id = 60
-# text = ауаъа йIтахакваз абазаква раIапi
+# text = ауаъа йIтахакваз абазаква раIаI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	ауаъа	ауаъа	_	_	_	_	_	_	_|Gloss=там|Segment=ауаъА
 2	йIтахакваз	_	VERB	_	Aspect=Inceptive|Number=Plur|Tense=Past	_	_	_	.|_|csl|Gloss=rel.abs-csl-быть.в-inc-pl-pst|inc|pl|pst|rel.abs|Segment=й-гӏа-та-ха-квА-з
@@ -384,7 +384,7 @@
 
 # ft_rus = И так их язык – абазинский.
 # sent_id = 61
-# text = йгьи ауат рыбызшва абаза бызшвапi
+# text = йгьи ауат рыбызшва абаза бызшваI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йгьи	йгьи	_	_	_	_	_	_	_|Gloss=и|Segment=йгьИ
 2	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауАт
@@ -408,7 +408,7 @@
 
 # ft_rus = Мне очень нравилось со всеми работать в Инжич-Чукунской школе. [букв. я с сильным удовольствием работала с работниками в И-Ч]
 # sent_id = 63
-# text = сара хвабыжта исгвапхауата срыцынхаIйынджыгьчIын анхаIчва
+# text = сара хвабыжта исгвапхауата срыцынхатi йынджыгьчIын анхаIчва
 # text_name = O_rabote_OzovaSM_09072017
 1	сара	сара	_	_	_	_	_	_	_|Gloss=я|Segment=сарА
 2	хвабыжта	_	ADV	_	_	_	_	_	_|adv|Gloss=сильный-adv|Segment=хвАбыж-та
@@ -419,7 +419,7 @@
 
 # ft_rus = Сначала я работала в гардеробе четыре месяца.
 # sent_id = 64
-# text = сызланхаз сызлаIлагаз гардеробта сIлаган пщымызIсынхад
+# text = сызланхаз сызлаIлагаз гардеробта сIлаган пщымызкi сынхад
 # text_name = O_rabote_OzovaSM_09072017
 1	сызланхаз	_	_	_	Case=Ins|Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|Gloss=1sg.abs-rel.io-ins-работать-pst.nfin|ins|pst.nfin|rel.io|Segment=сы-з-ла-нхА-з
 2	сызлаIлагаз	_	_	_	Case=Ins|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=1|Person[dat]=3	_	_	_	1sg.abs|3n.io|_|csl|Gloss=1sg.abs-rel.io-ins-csl-3n.io-ins-начать-pst.nfin|ins|pst.nfin|rel.io|Segment=сы-з-ла-гӏ-А-ла-га-з
@@ -453,7 +453,7 @@
 
 # ft_rus = На сегодняшний день я довольна всеми.
 # sent_id = 67
-# text = уахьIала зымIадзугьи сырзыразпi
+# text = уахьIала зымIадзугьи сырзыразI
 # text_name = O_rabote_OzovaSM_09072017
 1	уахьIала	_	_	_	Case=Ins	_	_	_	_|Gloss=сегодня-ins|ins|Segment=уахьчӏвА-ла
 2	зымIадзугьи	_	_	_	_	_	_	_	_|add|Gloss=все-add|Segment=зымгӏвадзУ-гьи
@@ -461,7 +461,7 @@
 
 # ft_rus = Детей мы любим.
 # sent_id = 68
-# text = асабиквагьи бзи йыIитi
+# text = асабиквагьи бзи йыIиI
 # text_name = O_rabote_OzovaSM_09072017
 1	асабиквагьи	асаби	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|add|def|Gloss=def-ребенок-pl-add|pl|Segment=а-саби-ква-гьи
 2	бзи	бзи	_	_	_	_	_	_	_|Gloss=хороший|Segment=бзи
@@ -469,7 +469,7 @@
 
 # ft_rus = Хотя я не работаю преподавателем, когда работаешь, работаешь, очень любя детей,  так что кажется, будто работаешь учителем.
 # sent_id = 69
-# text = арыпхьаIта снымхарыгьи уанынхауа аIн арыпхьаIта уынхауашва йубауата асабиква бзи йубауа уынхитi
+# text = арыпхьаIта снымхарыгьи уанынхауа аIн арыпхьаIта уынхауашва йубауата асабиква бзи йубауа уынхиI
 # text_name = O_rabote_OzovaSM_09072017
 1	арыпхьаIта	_	VERB	_	Voice=Cau	_	_	_	_|adv|caus|defdat|Gloss=(def?)dat-caus-учиться-nag-adv|nag|Segment=а-рЫ-пхьа-гӏв-та
 2	снымхарыгьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Polarity=Neg|Tense=Fut	_	_	_	1sg.abs|_|add|fut.nfin|Gloss=1sg.abs-loc-neg-работать-fut.nfin-add|loc|neg|Segment=с-ны-м-ха-рЫ-гьи
@@ -485,7 +485,7 @@
 
 # ft_rus = Я работала с хорошими директорами школы и работаю по сегодняшний день. (букв. Директора школ, с которыми я работала, были хорошие и хорошие (остаются)).
 # sent_id = 70
-# text = сара хъадата сызцынхакваз директоршколква зымIадзугьи бзийын йгьи бзипi
+# text = сара хъадата сызцынхакваз директоршколква зымIадзугьи бзийын йгьи бзиI
 # text_name = O_rabote_OzovaSM_09072017
 1	сара	сара	_	_	_	_	_	_	_|Gloss=я|Segment=сарА
 2	хъадата	_	ADV	_	_	_	_	_	_|adv|Gloss=глава-adv|Segment=хъадА-та
@@ -498,7 +498,7 @@
 
 # ft_rus = С чем-то споришь, на что-то глаза закрываешь, это все оставляешь позади, и работаешь мирно. (букв. живёшь как можно)
 # sent_id = 71
-# text = заIьи амаIраIьи IуылшиIзаIьи ануырIлиIауатгьи уыщтахьыла йыугиIа ишауаш апшта убзазитi
+# text = заIьи амаIраIьи Iуылшитi заIьи ануырIлитi ауатгьи уыщтахьыла йыугиIа ишауаш апшта убзазиI
 # text_name = O_rabote_OzovaSM_09072017
 1	заIьи	_	_	_	_	_	_	_	.n|_|add|Gloss=один.n-add|Segment=закӏ-гьИ
 2	амаIраIьи	_	VERB	_	Definite=Ind|Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3|VerbForm=Vnoun	_	_	_	3n.io|_|add|Gloss=3n.io-loc-держать-msd-indf-add|indf|loc|msd|Segment=а-ма-кӏЫ-ра-кӏ-гьи
@@ -514,7 +514,7 @@
 
 # ft_rus = В школе, где мы работаем, радуется сердце, очень хорошая школа.
 # sent_id = 72
-# text = Iанхауа апхьарта уапшрыквын угвы йалаIIшвабыжта апхьарта бзипi
+# text = Iанхауа апхьарта уапшрыквын угвы йалаIтi швабыжта апхьарта бзиI
 # text_name = O_rabote_OzovaSM_09072017
 1	Iанхауа	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|Gloss=1pl.abs-rel.loc-работать-ipf|ipf|rel.loc|Segment=хӏ-ъа-нха-уА
 2	апхьарта	апхьарта	_	_	_	_	_	_	_|Gloss=школа|Segment=Апхьарта
@@ -527,7 +527,7 @@
 
 # ft_rus = Детей учат уважению старших, обычаям и традициям своего народа. Где бы они не были, они соблюдат все эти принципы, не позорят своих родителей, и родители довольны своими детьми.
 # sent_id = 73
-# text = Iабиква хвабыжта ъадаби намыси рымаIйъацалаIьи хвы рымата ранчви рабачви йIдымрыпхащауата хвабыжта рхъа рыладухауата аIаIйшаъу
+# text = Iабиква хвабыжта ъадаби намыси рымапi йъацалаIьи хвы рымата ранчви рабачви йIдымрыпхащауата хвабыжта рхъа рыладухауата аIапi йшаъу
 # text_name = O_rabote_OzovaSM_09072017
 1	Iабиква	асаби	NOUN	_	Number=Plur|Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-ребенок-pl|pl|Segment=хӏ-сабИ-ква
 2	хвабыжта	_	ADV	_	_	_	_	_	_|adv|Gloss=сильный-adv|Segment=хвАбыж-та
@@ -548,7 +548,7 @@
 
 # ft_rus = Со всеми я хорошенечко договариваюсь.
 # sent_id = 74
-# text = арыла йIуахвырквын зымIадзугьи пшдзачIынта сранIлитi
+# text = арыла йIуахвырквын зымIадзугьи пшдзачIынта сранIлиI
 # text_name = O_rabote_OzovaSM_09072017
 1	арыла	арыла	_	_	_	_	_	_	_|Gloss=так|Segment=арЫла
 2	йIуахвырквын	_	VERB	_	Gender[abs]=Neut|Gender[erg]=Masc|Mood=Cnd|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2	_	_	_	2m.erg|3n.abs|_|cond|csl|Gloss=3n.abs-csl-2m.erg-взять-cond|Segment=й-гӏа-у-Ахвы-рквын
@@ -565,7 +565,7 @@
 
 # ft_rus = Со мной работает Хубиева Зоя.
 # sent_id = 76
-# text = сара дсыцынхиIхвби зоя
+# text = сара дсыцынхитi хвби зоя
 # text_name = O_rabote_OzovaSM_09072017
 1	сара	сара	_	_	_	_	_	_	_|Gloss=я|Segment=сарА
 2	дсыцынхитI	_	VERB	_	Case=Com|Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|Tense=Pres	_	_	_	1sg.io|3h.abs|_|com|dcl|Gloss=3h.abs-1sg.io-com-работать-prs-dcl|prs|Segment=д-сЫ-цы-нх-и-тӏ
@@ -574,7 +574,7 @@
 
 # ft_rus = Работает со мной главным бухгалтером.
 # sent_id = 77
-# text = бухгалтер хъадата дсыцынхитi
+# text = бухгалтер хъадата дсыцынхиI
 # text_name = O_rabote_OzovaSM_09072017
 1	бухгалтер	бухгалтер	_	_	_	_	_	_	_|Gloss=бухгалтер|Segment=бухгАлтер
 2	хъадата	_	ADV	_	_	_	_	_	_|adv|Gloss=главный-adv|Segment=хъадА-та
@@ -582,7 +582,7 @@
 
 # ft_rus = Вот это все белиберда, которую можно отбросить. Мы как две сестры работаем с ней 21 год, уважая друг друга и я горжусь ею.
 # sent_id = 78
-# text = ауи хвабыжта йыуIарыквын IIгьи йышпасIара ахщацриIлапшта Iбабауата IажвизаIсквшы лари сари IцынхиIа хвабыжта аджваджв хвы йзыIауата схъа лыладухауата слыцынхитi
+# text = ауи хвабыжта йыуIарыквын IIгьи йышпасIара ахщацрикi лапшта Iбабауата Iажвизакi сквшы лари сари IцынхиIа хвабыжта аджваджв хвы йзыIауата схъа лыладухауата слыцынхиI
 # text_name = O_rabote_OzovaSM_09072017
 1	ауи	ауи	_	_	_	_	_	_	_|Gloss=она|Segment=ауи
 2	хвабыжта	хвабыжта	_	_	_	_	_	_	_|Gloss=сильно|Segment=хвАбыж-та
@@ -607,7 +607,7 @@
 
 # ft_rus = Пусть мы все будем здоровы.
 # sent_id = 79
-# text = ауи аIIа зымIадзугьи азIадара Iмазтi
+# text = ауи аIIа зымIадзугьи азIадара IмазI
 # text_name = O_rabote_OzovaSM_09072017
 1	ауи	ауи	_	_	_	_	_	_	_|Gloss=это|Segment=ауи
 2	аIIа	_	VERB	_	Tense=Pres	_	_	_	_|adv|cop|Gloss=cop-npst-adv|npst|Segment=акӏв-пӏ-та
@@ -617,7 +617,7 @@
 
 # ft_rus = Желаю всем здоровья. Если будешь здоровым, будешь и работать и кушать, и пить, и жить.
 # sent_id = 80
-# text = йырзыстахъIзымIагьи азIадара азIадара уымазтын йгьи унхаIйгьи йгьи учаIйгьи уыжвIйгьи убзазапi
+# text = йырзыстахъпi зымIагьи азIадара азIадара уымазтын йгьи унхапi йгьи йгьи учапi йгьи уыжвпi йгьи убзазаI
 # text_name = O_rabote_OzovaSM_09072017
 1	йырзыстахъпI	_	VERB	_	Case=Ben|Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|Tense=Pres	_	_	_	1sg.io|3n.abs|3pl.io|_|ben|Gloss=3n.abs-3pl.io-ben-1sg.io-надо-npst.dcl|npst.dcl|Segment=йы-р-зЫ-с-тахъ-пӏ
 2	зымIагьи	_	_	_	_	_	_	_	_|add|Gloss=все-add|Segment=зымгӏва-гьИ
@@ -636,7 +636,7 @@
 
 # ft_rus = Я очень довольна моей школой, моим аулом, моими людьми, я ими горжусь.
 # sent_id = 81
-# text = ауи аIпта хвабыжта сапхьарти скыти суI хвабыжта схъа рыладухута  сырзыразпi
+# text = ауи аIпта хвабыжта сапхьарти скыти суI хвабыжта схъа рыладухута  сырзыразI
 # text_name = O_rabote_OzovaSM_09072017
 1	ауи	ауи	_	_	_	_	_	_	_|Gloss=это|Segment=ауи
 2	аIIа	_	VERB	_	Tense=Pres	_	_	_	_|adv|cop|Gloss=cop-npst-adv|npst|Segment=акӏв-пӏ-та
@@ -651,7 +651,7 @@
 
 # ft_rus = [zda1941_m] Мухамат-Гирей Лоов работал советником («спрашивателем») у царя.
 # sent_id = 82
-# text =  лоуырI мIматгьари аIйпны азIiа азIiаIыта йпны дынхун
+# text =  лоуырI мIматгьари ахi йпны азIiа азIiаIыта йпны дынхун
 # text_name = Osnovanie_aula_AjsanovZDz_13072017
 1	лoуырI	_	_	_	_	_	_	_	_|aspl|Gloss=Лоов-aspl|Segment=лoуы-ргӏа
 2	мIматгьари	_	_	_	_	_	_	_	_|Gloss=Мухамат-Гирей|Segment=мхӏаматгьарИ
@@ -684,7 +684,7 @@
 
 # ft_rus = И Мухамат-Гирею дали земли начиная от берега реки Кума до правого берега Малого Зеленчука.
 # sent_id = 85
-# text = и мIматгьари йIйыртIадгьыл адзы адзтшпы кума уIлагата йынджьыгь чIын агъьмала адзтшпыдза
+# text = и мIматгьари йIйырттi адгьыл адзы адзтшпы кума уIлагата йынджьыгь чIын агъьмала адзтшпыдза
 # text_name = Osnovanie_aula_AjsanovZDz_13072017
 1	и	и	_	_	_	_	_	_	_|Gloss=и|Segment=и
 2	мIматгьари	_	_	_	_	_	_	_	_|Gloss=Мухамат-Гирей|Segment=мхӏаматгьарИ
@@ -710,7 +710,7 @@
 
 # ft_rus = [zhs1930_f] Дай мне пересказать то, что он сказал о 10 рублях.
 # sent_id = 87
-# text =  атуман апны йIаз сырIахстi
+# text =  атуман апны йIаз сырIахсI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	гвымло	гвымло	_	_	_	_	_	_	_|Gloss=Гумлокт|Segment=гвымлО
 2	гвымлокт	_	NOUN	_	Definite=Ind|Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-брат-indf|indf|Segment=гвымлОкт
@@ -727,7 +727,7 @@
 
 # ft_rus = 10 рублей. Боже мой, – сказал, – когда прекратится война, и мы вернёмся, тогда, – сказал, – там, где наши покойники лежат, Боже мой, когда вернёмся, где лежат наши покойники сделай так чтобы, нас троих похоронили рядом с ними.
 # sent_id = 88
-# text = атуман йалаIйIаIIнцахра асхъан айсра аIсхта Iнцахра асхъан йIаIауахь Iсква аIрI апны йалаIIнцахра Iпсква ъаI апны IхыIгьи ауаъа IцадырIхныс рIан
+# text = атуман йалахi йIатi Iнцахра асхъан айсра аIсхта Iнцахра асхъан йIатi ауахь Iсква аIрI апны йалахi Iнцахра Iпсква ъаI апны IхыIгьи ауаъа IцадырIхныс рIан
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	атуман	аатуман	NOUN	_	Definite=Def	_	_	_	10.|_|def|Gloss=def-10.рублей|Segment=атумАн
 2	йалахI	аалахi	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-бог|Segment=й-Алахӏ
@@ -755,7 +755,7 @@
 
 # ft_rus = Боже мой, — сказал.
 # sent_id = 89
-# text = йаллаIйIатi
+# text = йаллахi йIаI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	йаллахI	ааллахi	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-бог|Segment=й-аллАхӏ
 2	йIатI	_	_	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	3m.erg|_|dcl|Gloss=3m.erg-сказать-dcl|Segment=й-хӏвА-тӏ
@@ -768,13 +768,13 @@
 
 # ft_rus = Вернулись.
 # sent_id = 91
-# text = йIйхтi
+# text = йIйхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	йIйхтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=3	_	_	_	3pl.abs|_|csl|dcl|Gloss=3pl.abs-csl-идти-re-dcl|re|Segment=й-гӏА-й-х-тӏ
 
 # ft_rus = Когда они вернулись, первым пришёл Дулятмырза, он умер, и эти 10 рублей, о которых говорилось, домой вернулись и распили.
 # sent_id = 92
-# text = йанIйхIасхъан апхъапхъа дольатмырза ауи дыпсын ауи атуман зырIауа йрыжвхIараъа йIйхын атуман рыжвхтi
+# text = йанIйхтi асхъан апхъапхъа дольатмырза ауи дыпсын ауи атуман зырIауа йрыжвхтi араъа йIйхын атуман рыжвхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	йанIйхтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|csl|dcl|Gloss=1pl.abs-rel.tmp-csl-идти-re-dcl|re|rel.tmp|Segment=й-ан-гӏА-й-х-тӏ
 2	асхъан	асхъан	_	_	_	_	_	_	_|Gloss=случай|Segment=Асхъан
@@ -793,14 +793,14 @@
 
 # ft_rus = 10 рублей распили.
 # sent_id = 93
-# text = атуман йрыжвхтi
+# text = атуман йрыжвхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	атуман	атуман	NOUN	_	Definite=Def	_	_	_	10|_|def|Gloss=def-10_рублей|Segment=а-тумАн
 2	йрыжвхтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	3pl.abs|3pl.erg|_|dcl|Gloss=3pl.abs-3pl.erg-пить-re-dcl|re|Segment=й-рЫ-жв-х-тӏ
 
 # ft_rus = Когда умер Долятмырза, его тоже там похоронили.
 # sent_id = 94
-# text = дольатмырзагьи данпсы ауаъа дырган дыIрIхтi
+# text = дольатмырзагьи данпсы ауаъа дырган дыIрIхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	дольатмырзагьи	_	_	_	_	_	_	_	_|add|Gloss=Долятмырза-add|Segment=дольатмЫрза-гьи
 2	данпсы	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|Gloss=3h.abs-rel.tmp-умереть|rel.tmp|Segment=д-ан-псЫ
@@ -810,7 +810,7 @@
 
 # ft_rus = Следующий, Хасан, когда умер, его тоже принесли там и похоронили.
 # sent_id = 95
-# text = арахьари Iсана данпсгьи ауаъа дырган дыIрIхтi
+# text = арахьари Iсана данпсгьи ауаъа дырган дыIрIхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	арахьари	_	_	_	_	_	_	_	.|_|add|Gloss=смотри.ка-add|Segment=арахьар-И
 2	Iсана	Iсана	_	_	_	_	_	_	_|Gloss=Хасан|Segment=хӏасАна
@@ -821,7 +821,7 @@
 
 # ft_rus = Осман когда умер, его тоже там же похоронили.
 # sent_id = 96
-# text = осман данпсгьи йара ауаъа дыIрIхтi
+# text = осман данпсгьи йара ауаъа дыIрIхI
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	осман	осман	_	_	_	_	_	_	_|Gloss=Осман|Segment=осмАн
 2	данпсгьи	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|add|Gloss=3h.abs-rel.tmp-умереть-add|rel.tmp|Segment=д-ан-пс-гьИ
@@ -831,7 +831,7 @@
 
 # ft_rus = О чём они просили Бога, им повезло.
 # sent_id = 97
-# text = аллаIйызлайыIаз IрыдаIтi
+# text = аллахi йызлайыIаз IрыдаII
 # text_name = Na_vojne(4)_SanashokovaCKh_13072017
 1	аллахI	аллахI	_	_	_	_	_	_	_|Gloss=бог|Segment=аллАхӏ
 2	йызлайыIаз	_	_	_	Case=Ins|Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3m.io|3pl.abs|_|Gloss=3pl.abs-rel.io-ins-3m.io-просить-pst.nfin|ins|pst.nfin|rel.io|Segment=йы-з-ла-йЫ-хӏва-з
@@ -903,7 +903,7 @@
 
 # ft_rus = Шапку Джьагафы сделала чисто за неделю.
 # sent_id = 101
-# text = аджьаIфа джьаIфа йхъылпа цкьата мчбжьыIсаIтi
+# text = аджьаIфа джьаIфа йхъылпа цкьата мчбжьыкi саII
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	аджьаIфа	аджьаIфа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-Джагафа|Segment=а-джьагӏАфа
 2	джьаIфа	джьаIфа	_	_	_	_	_	_	_|Gloss=Джагафа|Segment=джьагӏАфа
@@ -933,7 +933,7 @@
 
 # ft_rus = Он сделал меч.
 # sent_id = 103
-# text = акъамчы йчпатi
+# text = акъамчы йчпаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	акъамчы	акъамчы	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-меч|Segment=а-къамчЫ
 2	йчпатI	_	_	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	3m.erg|_|dcl|Gloss=3m.erg-сделать-dcl|Segment=й-чпА-тӏ
@@ -950,7 +950,7 @@
 
 # ft_rus = И еще другая женщина тоже пошила.
 # sent_id = 105
-# text = датшагьи пIысIджьаIфа хъылпа лсрыдзахтi
+# text = датшагьи пIыскi джьаIфа хъылпа лсрыдзахI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	датшагьи	датшагьи	_	_	_	_	_	_	_|Gloss=другой|Segment=датша-гьИ
 2	пIыскI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=женщина-indf|indf|Segment=пхӏвЫс-кӏ
@@ -960,7 +960,7 @@
 
 # ft_rus = Вместе с людьми из Эльбургана мы это сделали.
 # sent_id = 106
-# text = пшдзадзата ари албырIнгьи Iргьи Iлата ауи Iпатi
+# text = пшдзадзата ари албырIнгьи Iргьи Iлата ауи IпаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	пшдзадзата	_	ADV	_	_	_	_	_	_|adv|ass|Gloss=красивый-ass-adv|Segment=пшдза-дзА-та
 2	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=ари
@@ -972,7 +972,7 @@
 
 # ft_rus = И школа была с нами.
 # sent_id = 107
-# text = ашIлгьи Iлан йIIлалтi
+# text = ашIлгьи Iлан йIIлалI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	ашкIóлгьи	ашкióгьи	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-школа-add|Segment=а-шкӏóл-гьи
 2	Iлан	ан	_	_	Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|dcl|Gloss=1pl.io-участвовать-dcl|Segment=хӏЫ-ла-н
@@ -980,7 +980,7 @@
 
 # ft_rus = и совхоз, директор Шхаев Карабит, с его помощью, он давал мне сахар, муку и дрова.
 # sent_id = 108
-# text = асавхоз раIаIадиректор шхай къарабит йпомощь йцхъараIра сымата афачыI Iситыргьи ашыла Iситыргьи амI Iситыргьи
+# text = асавхоз раIапi адиректор шхай къарабит йпомощь йцхъараIра сымата афачыI Iситыргьи ашыла Iситыргьи амI Iситыргьи
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	асавхóз	асавхóз	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-совхоз|Segment=а-савхóз
 2	раIапI	_	VERB	_	Number[dat]=Plur|Person[dat]=3|Tense=Pres	_	_	_	3pl.io|_|cop|Gloss=3pl.io-cop-npst.dcl|npst.dcl|Segment=р-Акӏва-пӏ
@@ -999,7 +999,7 @@
 
 # ft_rus = 24 ведра бахсымэ вскипятила.
 # sent_id = 109
-# text = бахсыма двадцать четыре пщарIта йIсыршытi
+# text = бахсыма двадцать четыре пщарIта йIсыршыI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	бахсыма	бахсыма	_	_	_	_	_	_	_|Gloss=бахсымэ|Segment=бахсЫма
 2	двадцать	двадцать	_	_	_	_	_	_	_|Gloss=двадцать|Segment=двадцать
@@ -1009,7 +1009,7 @@
 
 # ft_rus = Пожарили 12 штук амгялов. С Аджиевой Зоей, бедной.
 # sent_id = 110
-# text = амгьалква двенадцать штук дсыррыдзIажьы зоя рыцI йылрыдзтi
+# text = амгьалква двенадцать штук дсыррыдзтi ажьы зоя рыцI йылрыдзI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	амгьалква	амгьаква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-амгял-pl|pl|Segment=а-мгьАл-ква
 2	двенадцать	двенадцать	_	_	_	_	_	_	_|Gloss=двенадцать|Segment=двенадцать
@@ -1022,7 +1022,7 @@
 
 # ft_rus = Бахсыму делали женщины, которые живут рядом со мной: Быраа, Сагуагурра, Ляля, Чагуагуа, Ути, бедная. Сначала мы бахсыму пожарили в большой сковородке, потом в коровнике (навес) мы туда добавили кипяченую воду, потом сделали толченку, добавили сахар, растопили.
 # sent_id = 111
-# text = абахсыма сыцызчпаз апIысква Iкьадыгвква зымIа йIсахвырIын уа бырра уа сагвагвырра уа ляля чагвагва уыI рыIiа абахсыма апхъапхъа таба дуквала йыIыдзын аIмач апны ауат дзыIршы рыIIвахIйIрпIхIйыIiрыIахIауи фачыI алаIiахIйыIлын йалаIiахтi
+# text = абахсыма сыцызчпаз апIысква Iкьадыгвква зымIа йIсахвырIын уа бырра уа сагвагвырра уа ляля чагвагва уыI рыIiа абахсыма апхъапхъа таба дуквала йыIыдзын аIмач апны ауат дзыIршы рыIIвахтi йIрпIхтi йыIiрыIахтi ауи фачыI алаIiахтi йыIлын йалаIiахI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	абахсыма	абахсыма	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-бахсымэ|Segment=а-бахсЫма
 2	сыцызчпаз	_	VERB	_	Case=Com|Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|com|Gloss=1sg.io-com-rel.erg-делать-pst.nfin|pst.nfin|rel.erg|Segment=сЫ-цы-з-чпа-з
@@ -1059,7 +1059,7 @@
 
 # ft_rus = Двадцать четыре ведра бахсымэ я разлила во фляги и привезла в клуб.
 # sent_id = 112
-# text = двадцать четыре пщарIта афлягква йртасчван араъа аIуб йызгатi
+# text = двадцать четыре пщарIта афлягква йртасчван араъа аIуб йызгаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	двадцать	двадцать	_	_	_	_	_	_	_|Gloss=двадцать|Segment=двадцать
 2	чытыре	чытыре	_	_	_	_	_	_	_|Gloss=четыре|Segment=чытыре
@@ -1072,7 +1072,7 @@
 
 # ft_rus = А в клубе снова по соседям я нашла эмалированные кастрюли, и перелила в эмалированные кастрюли, чтобы не окислилась.
 # sent_id = 113
-# text = аIуб апны йатарIах кастрюлльаIIIсауан аIбльа кастрюлльаIква йыртасчвахIйIIамIара ахъазла
+# text = аIуб апны йатарIах кастрюлльаIкi Iсауан аIбльа кастрюлльаIква йыртасчвахтi йIIамIара ахъазла
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	аIуб	аIуб	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-клуб|Segment=а-кӏлуб
 2	апны	_	_	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	_	_	_	3n.io|_|Gloss=3n.io-в|Segment=а-пнЫ
@@ -1099,7 +1099,7 @@
 
 # ft_rus = Она и лякумы, и белый чай сварила.
 # sent_id = 115
-# text = ауи альакъвыми щти чай шIоIи йIлыршытi
+# text = ауи альакъвыми щти чай шIоIи йIлыршыI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	альакъвыми	альакъвыи	NOUN	_	Definite=Def	_	_	_	_|coord|def|Gloss=def-лепёшка-coord|Segment=а-льакъвым-и
@@ -1110,7 +1110,7 @@
 
 # ft_rus = И белый чай, и лякумы, и айран сделала.
 # sent_id = 116
-# text = ачай шIоIи альакъвыми и хырIы ауи йIлчпатi
+# text = ачай шIоIи альакъвыми и хырIы ауи йIлчпаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	аче	аче	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-чай|Segment=а-че
 2	шIоIи	_	_	_	_	_	_	_	_|coord|Gloss=белый-coord|Segment=шкӏвокӏв-и
@@ -1122,7 +1122,7 @@
 
 # ft_rus = Потом оба аула вместе сидят, особенно трактористы, мы выбрали самый огромный амгял, теперь трактористы стоят в ряд.
 # sent_id = 117
-# text = уадырIана аIкытIйалаIата атрактористква рыцӏа йалIiата амгьалдудздзаIIрылIын ужвы атрактористква радта йгылапi
+# text = уадырIана аIкыткi йалаIата атрактористква рыцӏа йалIiата амгьалдудздзакi IрылIын ужвы атрактористква радта йгылаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	аIкыткI	аIкыт	NOUN	_	Definite=Def|Number=Count	_	_	_	_|def|Gloss=def-два-аул-unit|Segment=а-гӏв-кыт-кӏ|unit
@@ -1139,7 +1139,7 @@
 
 # ft_rus = Я выбрала одну женщину, которая помогла нам делать бахсыму, ее звали Сагуагура, она была наша соседка, она с мгялом на рисунке, вы ее увидите там, рисунок у Фатимы.
 # sent_id = 118
-# text = амгьал пIысIдIрылсхын абахсыма Iцызчпуз сагвагвыра Iа Iыпхьун ауи I дIгвлан амгьал лымата арисунI апны йыжвбушIанаъа йлымаIфатима йлымапi
+# text = амгьал пIыскi дIрылсхын абахсыма Iцызчпуз сагвагвыра Iа Iыпхьун ауи I дIгвлан амгьал лымата арисунI апны йыжвбуштi анаъа йлымапi фатима йлымаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	амгьал	амгьал	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-амгял|Segment=а-мгьал
 2	пIыскI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=женщина-indf|indf|Segment=пхӏвыс-кӏ
@@ -1164,7 +1164,7 @@
 
 # ft_rus = Я отдала Эльбурганцам мгял по обычаю, абазинам я отдала мгял, флягу бахсымы, чтобы на следующий год они провели нып, но они этого не сделали и все осталось, как есть.
 # sent_id = 119
-# text = албырIнква как обычайта щта йIIнхушIабазаква амгьалгьи рыстаIфльагIазнагьи бахсыма рыстаIчтобы на следующий год ауат нып рчпарныс ахъазла ауат йгьрымчпаIауи шаъаз йIнхатi
+# text = албырIнква как обычайта щта йIIнхуштi абазаква амгьалгьи рыстатi фльагкi азнагьи бахсыма рыстатi чтобы на следующий год ауат нып рчпарныс ахъазла ауат йгьрымчпатi ауи шаъаз йIнхаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	албырIнква	_	NOUN	_	Number=Plur	_	_	_	_|Gloss=Эльбурган-pl|pl|Segment=албыргӏан-ква
 2	как	как	_	_	_	_	_	_	_|Gloss=как|Segment=как
@@ -1194,7 +1194,7 @@
 
 # ft_rus = Палку для шеста, которую я приготовила, отвезли в Коч-Хабль и там осталась.
 # sent_id = 120
-# text = ашест алабата йсрыIзырызгьи квачIбльа йыргахын ауаъа йIтахатi
+# text = ашест алабата йсрыIзырызгьи квачIбльа йыргахын ауаъа йIтахаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	ашест	ашест	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-шест|Segment=а-шест
 2	алабата	_	ADV	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	_	_	_	3n.io|_|adv|Gloss=3n.io-палка-adv|Segment=а-лаба-та
@@ -1206,7 +1206,7 @@
 
 # ft_rus = А шапку Джагафы отвезли в Черкесск, в Дом Культуры потом забрали во Францию. Так сказали, и не отдали.
 # sent_id = 121
-# text = вот аджьаIфа йхъылпа черкессIйырган дом культуры зджьара франция йыргаIрIан йгьIсырымтхтi
+# text = вот аджьаIфа йхъылпа черкесскi йырган дом культуры зджьара франция йыргатi рIан йгьIсырымтхI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	вoт	вoт	_	_	_	_	_	_	_|Gloss=вот|Segment=вoт
 2	аджьаIфа	аджьаIфа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-Джагафа|Segment=а-джьагӏафа
@@ -1223,7 +1223,7 @@
 
 # ft_rus = Вот такой нып я провела.
 # sent_id = 122
-# text = абариапш нып аIсыршатi
+# text = абариапш нып аIсыршаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	абариапш	_	_	_	_	_	_	_	_|Gloss=вот-подобный|Segment=абари-Апш
 2	нып	нып	_	_	_	_	_	_	_|Gloss=нып|Segment=нып
@@ -1231,7 +1231,7 @@
 
 # ft_rus = Как-то так (досл. «откуда мне знать?»). Потом, когда построили новый дворец, работники перешли туда, я уже долго там не проработала, всего четыре месяца.
 # sent_id = 123
-# text = сидрума уаIхъван йынхаквуз адворецIц анырчпа асхъан ауаъа Iнцах са щарда сыгьнымхахIпщымызIаI сыгьнымхатi
+# text = сидрума уаIхъван йынхаквуз адворецIц анырчпа асхъан ауаъа Iнцах са щарда сыгьнымхахтi пщымызкi аI сыгьнымхаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	сидрума	_	VERB	_	Aspect=Imp	_	_	_	1sg.|_|Gloss=1sg.?-?-знать-ipf-q|ipf|q|Segment=с-и-др-у-ма
 2	уаIхъван	уаIхъван	_	_	_	_	_	_	_|Gloss=потом|Segment=уацӏЫхъван
@@ -1250,7 +1250,7 @@
 
 # ft_rus = Потому что мой муж попал в аварию, у меня не было возможности работать.
 # sent_id = 124
-# text = потому что схъапщыла авария далашван сынхах йгьамуашызтi
+# text = потому что схъапщыла авария далашван сынхах йгьамуашызI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	потому	потому	_	_	_	_	_	_	_|Gloss=потому|Segment=потому
 2	что	что	_	_	_	_	_	_	_|Gloss=что|Segment=что
@@ -1262,7 +1262,7 @@
 
 # ft_rus = Мухарби Агачев там начал вместе с Кумуковым работать во дворце, там и Амир тоже с ними работал.
 # sent_id = 125
-# text = муIрби агачев ауаъа далагыхын кумукови йари адворец йынхыуа йалаган ауаъагьи амир дрыцынхатi
+# text = муIрби агачев ауаъа далагыхын кумукови йари адворец йынхыуа йалаган ауаъагьи амир дрыцынхаI
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	муIрби	муIрби	_	_	_	_	_	_	_|Gloss=Мухарби|Segment=мухӏарбИ
 2	агачев	агачев	_	_	_	_	_	_	_|Gloss=Агачев|Segment=агАчев
@@ -1279,7 +1279,7 @@
 
 # ft_rus = Когда меня приглашали, тоже приходила туда, и там мы с Ритой поставили пьесу "Приворот" на абазинском языке.
 # sent_id = 126
-# text = сарьги бIй рIарыквын сцунтаз ауаъагьи хъвымгараIа пьесаIIпаIрити сари абазала
+# text = сарьги бIй рIарыквын сцунтаз ауаъагьи хъвымгараIа пьесакi Iпатi рити сари абазала
 # text_name = 2018.07.16_BidzhevaTA_1932_igry_bakhsyme
 1	саргьи	_	_	_	_	_	_	_	_|add|Gloss=я-add|Segment=сар-гьИ
 2	бIй	_	_	_	Gender[abs]=Fem|Number[abs]=Sing|Person[abs]=2	_	_	_	2f.abs|_|csl|Gloss=2f.abs-csl-идти(imp)|imp|Segment=б-гӏА-й
@@ -1320,7 +1320,7 @@
 
 # ft_rus = Вот это одно сильно обидно.
 # sent_id = 130
-# text = ауи заI чвыгьата йшвIIадзапi
+# text = ауи заI чвыгьата йшвIIадзаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	заI	заI	_	_	_	_	_	_	_|Gloss=один|Segment=закӏЫ
@@ -1329,7 +1329,7 @@
 
 # ft_rus = Ты — женщина, ты — абазинка, ты — мусульманка.
 # sent_id = 131
-# text = быбзыльхваIIбабазаIбымсылманпi
+# text = быбзыльхваIпi бабазапi бымсылманI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	быбзыльхваIпI	_	VERB	_	Gender[abs]=Fem|Number[abs]=Sing|Person[abs]=2|Tense=Pres	_	_	_	2f.abs|_|Gloss=2f.abs-женщина-npst.dcl|npst.dcl|Segment=бы-бзыльхвАгӏа-пӏ
 2	бабазапI	_	VERB	_	Gender[abs]=Fem|Number[abs]=Sing|Person[abs]=2|Tense=Pres	_	_	_	2f.abs|_|Gloss=2f.abs-абазин-npst.dcl|npst.dcl|Segment=б-абАза-пӏ
@@ -1337,7 +1337,7 @@
 
 # ft_rus = Твой мусульманский характер, (непереводимое слово: что-то врождённое, имеющееся).
 # sent_id = 132
-# text = бымсылманIль наIпi
+# text = бымсылманIль наII
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	бымсылманIль	_	_	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=2	_	_	_	2f.io|_|Gloss=2f.io-мусульманский-характер|Segment=бы-мсылман-хӏАль
 2	наIпI	_	VERB	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3|Tense=Pres	_	_	_	3n.io|_|Gloss=3n.io-держать-npst.dcl|npst.dcl|Segment=на-кӏЫ-пӏ
@@ -1352,7 +1352,7 @@
 
 # ft_rus = «Пречист Аллах» говори, детям своим что-то говори.
 # sent_id = 134
-# text = супIналлаIiва бсабиква заIраIа
+# text = супIналлаIiва бсабиква закi раIа
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	супIн_аллаIIва	_	_	_	_	_	_	_	_|Gloss=супхан_аллах-говорить(imp)|imp|Segment=супхӏАн_аллАхӏ-хӏва
 2	бсабиква	_	NOUN	_	Gender[dat]=Fem|Number=Plur|Number[dat]=Sing|Person[dat]=2	_	_	_	2f.io|_|Gloss=2f.io-ребёнок-pl|pl|Segment=б-сабИ-ква
@@ -1361,7 +1361,7 @@
 
 # ft_rus = Это заставит их задуматься, побояться Бога, аллах есть.
 # sent_id = 135
-# text = йархъвыцIйаршвыIаллаIаъапi
+# text = йархъвыцпi йаршвыпi аллаIаъаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	йархъвыцпI	_	VERB	_	Case=Dat|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|Voice=Cau	_	_	_	3n.abs|_|caus|dat|Gloss=3n.abs-dat-caus-подумать-npst.dcl|npst.dcl|Segment=й-а-р-хъвЫц-пӏ
 2	йаршвыпI	_	VERB	_	Case=Dat|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres|Voice=Cau	_	_	_	3n.abs|_|caus|dat|Gloss=3n.abs-dat-caus-бояться-npst.dcl|npst.dcl|Segment=й-а-р-швЫ-пӏ
@@ -1369,7 +1369,7 @@
 
 # ft_rus = Никто у нас его не отнимет, Аллах у нас есть.
 # sent_id = 136
-# text = аджвгьи дыгьIквихуашым аллаIдIмапi
+# text = аджвгьи дыгьIквихуашым аллахi дIмаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	аджвгьи	_	_	_	_	_	_	_	_|add|Gloss=кто_то-add|Segment=аджв-гьИ
 2	дыгьIквйыхуашым	_	VERB	_	Aspect=Imp|Gender[abs]=Com|Gender[erg]=Masc|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|Polarity=Neg|Tense=Fut	_	_	_	1pl.io|3h.abs|3m.erg|_|fut|Gloss=3h.abs-neg.emp-1pl.io-loc-3m.erg-брать-ipf-fut-neg|ipf|loc|neg|neg.emp|Segment=ды-гь-хӏЫ-кв-йы-х-уа-шы-м
@@ -1378,7 +1378,7 @@
 
 # ft_rus = Чтобы мы приблизились к Аллаху.
 # sent_id = 137
-# text = аллаIйпны Iргваныта
+# text = аллахi йпны Iргваныта
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	аллахI	аллахI	_	_	_	_	_	_	_|Gloss=аллах|Segment=аллАхӏ
 2	йпны	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-к|Segment=й-пны
@@ -1394,7 +1394,7 @@
 
 # ft_rus = Бабушки и дедушки, происходит таким образом: мне приносят какие-то календари.
 # sent_id = 139
-# text = атажви алыгажви араъа йышыъу ауи аIаIкалендарькваIсызIргиIа
+# text = атажви алыгажви араъа йышыъу ауи аIапi календарьквакi сызIргиIа
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	атажви	атажв	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-старуха-add|Segment=а-тАжв-и
 2	алыгажви	алыгажв	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-старик-add|Segment=а-лЫгажв-и
@@ -1493,7 +1493,7 @@
 
 # ft_rus = Сильно-сильно много у нас есть расследований.
 # sent_id = 149
-# text = швабыжта швабыжта ага нкъвцанIгьи Iмапi
+# text = швабыжта швабыжта ага нкъвцанIгьи IмаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	швабыжта	_	ADV	_	_	_	_	_	_|adv|Gloss=сильный-adv|Segment=швАбыж-та
 2	швабыжта	_	ADV	_	_	_	_	_	_|adv|Gloss=сильный-adv|Segment=швАбыж-та
@@ -1503,7 +1503,7 @@
 
 # ft_rus = Мы разные.
 # sent_id = 150
-# text = агатагьи Iъапi
+# text = агатагьи IъаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	агатагьи	_	_	_	_	_	_	_	_|add|Gloss=по-разному-add|Segment=агАта-гьи
 2	IъапI	_	VERB	_	Number[abs]=Plur|Person[abs]=1|Tense=Pres	_	_	_	1pl.abs|_|Gloss=1pl.abs-быть-npst.dcl|npst.dcl|Segment=хӏ-Аъа-пӏ
@@ -1527,7 +1527,7 @@
 
 # ft_rus = И хорошую, и правильную знает только Аллах.
 # sent_id = 153
-# text = йбзийугьи йзахвугьи здыруаш аллаIйаIаIа
+# text = йбзийугьи йзахвугьи здыруаш аллахi йаIаIа
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	йбзиугьи	_	_	_	_	_	_	_	_|add|Gloss=rel.abs-хороший-prs.nfin-add|prs.nfin|rel.abs|Segment=й-бзИ-у-гьи
 2	йзахвугьи	_	_	_	_	_	_	_	_|add|Gloss=rel.abs-справедливый-prs.nfin-add|prs.nfin|rel.abs|Segment=й-зАхв-у-гьи
@@ -1537,7 +1537,7 @@
 
 # ft_rus = Отдав душу Аллаху, обретёшь теплоту.
 # sent_id = 154
-# text = аллаIзпсы зкъвырману йылпха зауаш
+# text = аллахi зпсы зкъвырману йылпха зауаш
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	аллахI	аллахI	_	_	_	_	_	_	_|Gloss=аллах|Segment=аллАхӏ
 2	зпсы	_	_	_	_	_	_	_	_|Gloss=rel.io-душа|rel.io|Segment=з-псы
@@ -1547,7 +1547,7 @@
 
 # ft_rus = Дорогой Аллах, пусть мы будем среди тех мусульман, которые будут под сенью мира и покоя.
 # sent_id = 155
-# text = аллаIтлапа адуней амамыр ажьура зхъадзгылуаш амсылман йаллаIIыуаI
+# text = аллахi тлапа адуней амамыр ажьура зхъадзгылуаш амсылман йаллахi IыуаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	аллахI	аллахI	_	_	_	_	_	_	_|Gloss=аллах|Segment=аллАхӏ
 2	тлапа	тлапа	_	_	_	_	_	_	_|Gloss=бесценный|Segment=тлАпа
@@ -1569,7 +1569,7 @@
 
 # ft_rus = Даже если иначе, все мы люди и вместе живём, в этом мире вместе находимся.
 # sent_id = 157
-# text = датшазтынгьи IцIыIIысIIцбзазиIадуней Iцыквпi
+# text = датшазтынгьи IцIыIIыспi Iцбзазитi адуней IцыквI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	датшазтынгьи	_	VERB	_	Mood=Cnd	_	_	_	_|add|cond.real|Gloss=другой-cond.real-add|Segment=датшА-зтын-гьи
 2	IцIыIʷIыспI	_	VERB	_	Case=Com|Number[abs]=Plur|Person[abs]=1|Tense=Pres	_	_	_	1pl.abs|_|com|Gloss=1pl.abs-rec.io-com-человек-npst.dcl|npst.dcl|rec.io|Segment=хӏ-а-ц-гӏвычӏвʷгӏвЫс-пӏ
@@ -1579,7 +1579,7 @@
 
 # ft_rus = Моя старшая невестка — русская.
 # sent_id = 158
-# text = стаца аIа дурышвпi
+# text = стаца аIа дурышвI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	стаца	атаца	_	_	_	_	_	_	3sg.io|_|Gloss=3sg.io-невестка|Segment=с-тАца
 2	аIа	аIа	_	_	_	_	_	_	_|Gloss=старший|Segment=ахӏбА
@@ -1587,14 +1587,14 @@
 
 # ft_rus = Средняя — черкешенка.
 # sent_id = 159
-# text = аквтанай дкъабардиапi
+# text = аквтанай дкъабардиаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	аквтанай	аквтанай	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-средний|Segment=а-квтанАй
 2	дкъабардыяпI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	3h.abs|_|Gloss=3h.abs-кабардинка-npst.dcl|npst.dcl|Segment=д-къабардЫя-пӏ
 
 # ft_rus = Младшая — абазинка.
 # sent_id = 160
-# text = айIа дабазапi
+# text = айIа дабазаI
 # text_name = 2018.07.16_BidzhevaTA_1932_pro_aul_pro_nravy
 1	айIа	айIа	_	_	_	_	_	_	_|def.|Gloss=def.младший|Segment=айцӏбА
 2	дабазапI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	3h.abs|_|Gloss=3h.abs-абазинка-npst.dcl|npst.dcl|Segment=д-абАза-пӏ
@@ -1620,7 +1620,7 @@
 
 # ft_rus = совок одевали и брали, он у меня есть. Это не наше слово, говорили про него ряженая кукла
 # sent_id = 163
-# text = ачвыргъвы ачвыргъвы рIычунта ауыгьи сымаIачвыргъвы рIычунта ачвыргъвы нарахвуанта ауи Iра йгьIбызшвам Iнцыргваща рIун ауи
+# text = ачвыргъвы ачвыргъвы рIычунта ауыгьи сымапi ачвыргъвы рIычунта ачвыргъвы нарахвуанта ауи Iра йгьIбызшвам Iнцыргваща рIун ауи
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ачвыргъвы	ачвыргъвы	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-лопата|Segment=а-чвыргъвЫ
 2	ачвыргъвы	ачвыргъвы	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-лопата|Segment=а-чвыргъвЫ
@@ -1653,7 +1653,7 @@
 
 # ft_rus = недавно в один день такое проводили здесь дети
 # sent_id = 165
-# text = ужвы мшI йынкъвыргаIараъа аIйквагьи
+# text = ужвы мшI йынкъвыргатi араъа аIйквагьи
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	уыжвы	уыжвы	_	_	_	_	_	_	_|Gloss=сейчас|Segment=уыжвЫ
 2	мшI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=день-indf|indf|Segment=мш-кӏы
@@ -1670,7 +1670,7 @@
 
 # ft_rus = Это означает только это, но ничего больше (кроме воды, ничего не просят)
 # sent_id = 167
-# text = ауи йIныIа ауи аIIдатша заIьи йгьазцум
+# text = ауи йIныIа ауи аIпi датша заIьи йгьазцум
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	йIныIа	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|csl|Gloss=3n.abs-csl-уходить-ipf|ipf|Segment=й-гӏА-ныцӏ-уа
@@ -1682,7 +1682,7 @@
 
 # ft_rus = Деревянным совком собирают зерно в амбарах. И ещё в токах.
 # sent_id = 168
-# text = ачвыргъвы азерно алаIiаргиIамашва апны аток апны
+# text = ачвыргъвы азерно алаIiаргитi амашва апны аток апны
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ачвыргъвы	ачвыргъвы	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-лопата|Segment=а-чвыргъвЫ
 2	азерно	азерно	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-зерно|Segment=а-зернО
@@ -1724,7 +1724,7 @@
 
 # ft_rus = Все приходящие выливают на него воду, она мокнет и этого хватает
 # sent_id = 171
-# text = йIйуа зымIа дзы рыквырчвиIа йнахъиIдзы йбаIзаIIиIа
+# text = йIйуа зымIа дзы рыквырчвиIа йнахъитi дзы йбаIзаIIиIа
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	йIйуа	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3	_	_	_	3pl.abs|_|csl|Gloss=3pl.abs-csl-идти-ipf|ipf|Segment=й-гӏА-й-уа
 2	зымIа	зымIа	_	_	_	_	_	_	_|Gloss=всё|Segment=зЫмгӏва
@@ -1736,7 +1736,7 @@
 
 # ft_rus = Сколько хочешь пятьдесят, шестьдесят приходящих много, здесь участвуют все дети
 # sent_id = 172
-# text = сколько хочешь пятьдесят шестьдесят йIйуашIаIй асабиквагьи алапi
+# text = сколько хочешь пятьдесят шестьдесят йIйуаштi аIй асабиквагьи алаI
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	скoлькo	скoлькo	_	_	_	_	_	_	_|Gloss=сколько|Segment=скoлькo
 2	хoчешь	хoчешь	_	_	_	_	_	_	_|Gloss=хочешь|Segment=хoчешь
@@ -1749,7 +1749,7 @@
 
 # ft_rus = Потом там муку дают, яйца дают, деньги дают
 # sent_id = 173
-# text = уадырIана ауаъа шыла IрыртиIквIгъь IрыртиIахча Iрыртитi
+# text = уадырIана ауаъа шыла Iрыртитi квIгъь Iрыртитi ахча IрыртиI
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	ауаъа	ауаъа	_	_	_	_	_	_	_|Gloss=там|Segment=ауАъа
@@ -1762,7 +1762,7 @@
 
 # ft_rus = Дают у кого что есть, потом купают ряженую куклу, затем купают всех, кто пришёл
 # sent_id = 174
-# text = дасу йыму ритиIа адзиуарагьи дырIабиIдара йIйквазгьи рIабитi
+# text = дасу йыму ритиIа адзиуарагьи дырIабитi дара йIйквазгьи рIабиI
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	дасу	дасу	_	_	_	_	_	_	_|Gloss=каждый|Segment=дасу
 2	йыму	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-иметься-prs.nfin|prs.nfin|Segment=йы-м-у
@@ -1775,7 +1775,7 @@
 
 # ft_rus = Потом идут на речку, там они готовят то, что собрали и угощают всех
 # sent_id = 175
-# text = уадырIана йциIадзхъа ауаъа ймаIуыхиIа йIзырIiыз зымIа йддрыфхиIа
+# text = уадырIана йцитi адзхъа ауаъа ймаIуыхиIа йIзырIiыз зымIа йддрыфхиIа
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	йцитI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pres	_	_	_	3pl.abs|_|dcl|Gloss=3pl.abs-идти-prs-dcl|prs|Segment=й-ц-И-тӏ
@@ -1801,7 +1801,7 @@
 
 # ft_rus = Так поднимаются. Этот обычай есть у абазин, у черкесов и у карачаевцев
 # sent_id = 177
-# text = ауаса йIхъалхиIауи абычайIа абазаквагьи акабардийаквагьи акъарчаквагьи йIмапi
+# text = ауаса йIхъалхитi ауи абычайIа абазаквагьи акабардийаквагьи акъарчаквагьи йIмаI
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ауаса	ауаса	_	_	_	_	_	_	_|Gloss=так|Segment=ауАса
 2	йIхъалхитI	_	VERB	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=3|Tense=Pres	_	_	_	3pl.abs|_|csl|dcl|Gloss=3pl.abs-csl-подниматься-re-prs-dcl|prs|re|Segment=й-гӏа-хъАл-х-и-тӏ
@@ -1814,7 +1814,7 @@
 
 # ft_rus = Каждый год проводили. Одни понимали это как что-то языческое и так называли
 # sent_id = 178
-# text = ансиквшагьи Iпун ауи азджьаIйIнадырIа ауи аIIйазычесI Iа йапхьун
+# text = ансиквшагьи Iпун ауи азджьакi йIнадырIа ауи аIпi йазычесI Iа йапхьун
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ансиквшагьи	_	_	_	_	_	_	_	_|add|Gloss=каждый-год-add|Segment=анси-квшА-гьи
 2	Iпун	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=1|Tense=Past	_	_	_	1pl.erg|_|Gloss=1pl.erg-делать-ipf-pst|ipf|pst|Segment=хӏ-чп-у-н
@@ -1847,7 +1847,7 @@
 
 # ft_rus = Когда собирают зерно, в это время дай Бог нашему совку немножко дождя, чтобы урожай был богатый, вот я это я имею в виду
 # sent_id = 181
-# text = ауи азерно аназырIiра асхъан ачвыргъвы йалаIкваII Iта урожай бажвта йчпа Iа аIIсара йIнысщтуа
+# text = ауи азерно аназырIiра асхъан ачвыргъвы йалахi кваII Iта урожай бажвта йчпа Iа аIпi сара йIнысщтуа
 # text_name = 2018.07.16_BidzhevaTA_1932_khantsiguashe
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	азернó	азернó	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-зерно|Segment=а-зернó
@@ -1867,7 +1867,7 @@
 
 # ft_rus = [zhs1930_f] Ты рано утром (предутренний намаз, после 3-х ч.) не вышла на поле, сказал бригадир. Жена того, кто на войне, ей дали небольшой огород.
 # sent_id = 182
-# text =  щымта намаз щымта намаз бIйта архъа бгьхъамылIйIан абыргадир архъа айсра йыъу йыпIыс ауи гарод II Iлыртын
+# text =  щымта намаз щымта намаз бIйта архъа бгьхъамылтi йIан абыргадир архъа айсра йыъу йыпIыс ауи гарод II Iлыртын
 # text_name = Zloj_brigadir_SanashokovaCKh_13072017
 1	щымта	щымта	_	_	_	_	_	_	_|Gloss=утро|Segment=щымтА
 2	намаз	намаз	_	_	_	_	_	_	_|Gloss=намаз|Segment=намАз
@@ -1907,7 +1907,7 @@
 
 # ft_rus = Бригадир поехал и, сидя на лошади, всё, что она прополола, растоптал и в пыль и прах уничтожил.
 # sent_id = 185
-# text = абыргадир дцан йыларашваз зымIа атшы даквIата аныла арыла йынкъвиIауамцара Iбасабата йыквиIакьтi
+# text = абыргадир дцан йыларашваз зымIа атшы даквIата аныла арыла йынкъвиIауамцара Iбасабата йыквиIакьI
 # text_name = Zloj_brigadir_SanashokovaCKh_13072017
 1	абыргадир	абыргадир	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-бригадир|Segment=а-быргадир
 2	дцан	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Past	_	_	_	3h.abs|_|Gloss=3h.abs-идти-pst|pst|Segment=д-цА-н
@@ -1929,7 +1929,7 @@
 
 # ft_rus = Вот, что сделал бригадир.
 # sent_id = 187
-# text = абыргадир йчпаз ауеIапi
+# text = абыргадир йчпаз ауеIаI
 # text_name = Zloj_brigadir_SanashokovaCKh_13072017
 1	абыргадир	абыргадир	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-бригадир|Segment=а-быргадир
 2	[й]йчпаз	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|Tense=Past	_	_	_	3m.erg|_|Gloss=rel.abs-3m.erg-делать-pst|pst|rel.abs|Segment=[й-]й-чпА-з
@@ -1937,7 +1937,7 @@
 
 # ft_rus = [kmd1949_m] этой встрече на М.И. этой встрече на М.И. когда.мы.разговаривали когда.он.с.нами.разговаривал тогда так он такие два.случая отрывок рассказал
 # sent_id = 188
-# text =  ауи анйара апны махмуд исанбаев ауи анйара апны махмуд исанбаев Iнйачважвуз данIIчважвуз асхъан араса ауи апш IIншара тшытIйIад
+# text =  ауи анйара апны махмуд исанбаев ауи анйара апны махмуд исанбаев Iнйачважвуз данIIчважвуз асхъан араса ауи апш IIншара тшыткi йIад
 # text_name = DzhuzhuevKM_20180719_Isanbaev_indejcy
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	анйара	_	VERB	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3|VerbForm=Vnoun	_	_	_	3n.io|_|Gloss=3n.io-встречать-msd|msd|Segment=А-нйа-ра
@@ -2042,7 +2042,7 @@
 
 # ft_rus = тот это.самое второй рассказал вот что
 # sent_id = 194
-# text = ауи дынаIйIбахауата йIIйIыз ауи аIаб
+# text = ауи дынакi йIбахауата йIIйIыз ауи аIаб
 # text_name = DzhuzhuevKM_20180719_Isanbaev_indejcy
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	дынакI	_	NOUN	_	Definite=Ind	_	_	_	_|filler|Gloss=filler-indf|indf|Segment=дЫна-кӏ
@@ -2434,7 +2434,7 @@
 
 # ft_rus = [zda1941_m] В тысяча девятьсот пятидесятом году, когда мы были детьми, мы захватили новый огород.
 # sent_id = 226
-# text =  ари асквш зкьи жвшви IынIжви жвба Iра Iабита город Iц IIiытi
+# text =  ари асквш зкьи жвшви IынIжви жвба Iра Iабита город Iц IIiыI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=ари
 2	асквш	асквш	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-год|Segment=а-сквш
@@ -2450,7 +2450,7 @@
 
 # ft_rus = Этот огород был не огорожен, но мы уже посеяли урожай.
 # sent_id = 227
-# text = ауи агород гьIыршамызIно йлаIiахьан уже
+# text = ауи агород гьIыршамызтi но йлаIiахьан уже
 # text_name = V_detstve_AjsanovZDz_11072017
 1	ауи	ауи	_	_	_	_	_	_	_|Gloss=proχ|proχ|Segment=ауи
 2	агород	агород	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-огород|Segment=а-город
@@ -2492,7 +2492,7 @@
 
 # ft_rus = Вечером, когда старший брат вернулся, схватив нас, он побил нас кнутом и вышвырнул из дома.
 # sent_id = 230
-# text = IщаIа данIйх асхъан ахъвлапын къамчыла IзакIIiайIн аIыджьгьи сащагьи саргьи Iзакын Iiаджвылицатi
+# text = IщаIа данIйх асхъан ахъвлапын къамчыла Iзактi IiайIн аIыджьгьи сащагьи саргьи Iзакын IiаджвылицаI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	IщаIа	аащаIа	_	_	Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-брат-старший|Segment=хӏ-ащ-ахӏба
 2	данIйх	_	_	_	Aspect=Refactive	_	_	_	1h.abs|_|csl|Gloss=1h.abs-rel.tmp-csl-идти-re|re|rel.tmp|Segment=д-ан-гӏа-й-х
@@ -2522,7 +2522,7 @@
 
 # ft_rus = Потом я говорю брату: "Биляль, я спрячусь, пройдет время, а ты вернись и скажи, что, мол Зауаль утопился."
 # sent_id = 232
-# text = уаIхъван саща йасIIбильаль сIаIсара тшыкъасIахIа сIан уара II Iыквын унашылхта зауаль адзы тшайрыхъварахIiвата йраI сIатi
+# text = уаIхъван саща йасIтi бильаль сIатi сара тшыкъасIахIа сIан уара II Iыквын унашылхта зауаль адзы тшайрыхъварахIiвата йраI сIаI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	уаIхъван	уаIхъван	_	_	_	_	_	_	_|Gloss=потом|Segment=уаIхъван
 2	саща	ааща	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-брат|Segment=с-аща
@@ -2544,7 +2544,7 @@
 
 # ft_rus = «Хорошо» сказал он, а я рядом с огородом прилег на кирпичи в сарае, где их делают, где их сушат, и пока лежал, уснул.
 # sent_id = 233
-# text = йауашIйIан саргьи ауаса Iород адзхъала карбыджь аъаIтдрышвтуаз акарбыджьква ъадырбахуаз абакъ апны акарбыджьква рхъахь сыквлын сшщIзымцара сычвтi
+# text = йауаштi йIан саргьи ауаса Iород адзхъала карбыджь аъаIтдрышвтуаз акарбыджьква ъадырбахуаз абакъ апны акарбыджьква рхъахь сыквлын сшщIзымцара сычвI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	йауаштI	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Fut	_	_	_	3n.abs|_|dcl|fut|Gloss=3n.abs-оно-ipf-fut-dcl|ipf|Segment=й-а-уа-ш-тӏ
 2	йIан	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|Tense=Past	_	_	_	3m.erg|_|Gloss=3m.erg-говорить-pst|pst|Segment=й-хӏва-н
@@ -2566,7 +2566,7 @@
 
 # ft_rus = Когда я заснул, разве мог я помнить все это? Биляль пошел домой и рассказал: «Зауаль пошел на речку топиться».
 # sent_id = 234
-# text = санычв асхъан йыздырхуазма щта Iны бильальхуз дцахын йрайIIзауаль йара тшысхъварахуашIйIан адзы тшайтхырныс дцаIйIатi
+# text = санычв асхъан йыздырхуазма щта Iны бильальхуз дцахын йрайIтi зауаль йара тшысхъварахуаштi йIан адзы тшайтхырныс дцатi йIаI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	санычв	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|Gloss=1sg.abs-rel.tmp-спать|rel.tmp|Segment=с-аны-чв
 2	асхъан	асхъан	_	_	_	_	_	_	_|Gloss=время|Segment=асхъан
@@ -2587,7 +2587,7 @@
 
 # ft_rus = Так мой старший брат, мама, папа и все вышли на речку, стояли на берегу и искали меня.
 # sent_id = 235
-# text = ауаъа сащагьи арахьари сащарIахгьи Iнгьи Iбагьи вес зымIа Iджвыквылын адзхъа йцан адзатшпы йатшпынгыла йпшIтi
+# text = ауаъа сащагьи арахьари сащарIахгьи Iнгьи Iбагьи вес зымIа Iджвыквылын адзхъа йцан адзатшпы йатшпынгыла йпшII
 # text_name = V_detstve_AjsanovZDz_11072017
 1	ауаъа	ауаъа	_	_	_	_	_	_	_|dist.loc|Gloss=dist.loc|Segment=ауаъа
 2	сащагьи	аащгьи	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|add|Gloss=1sg.io-брат-add|Segment=с-аща-гьи
@@ -2606,7 +2606,7 @@
 
 # ft_rus = Все мужики с нашего переулка [хабля] отправились искать меня и до утра искали.
 # sent_id = 236
-# text = ауаъа ауи аджьгватан Iбльа чIын зымIа шабгаз уIа ауашIхъачвата йтаз ауахъ йшандзыIара йсзыпшIтi
+# text = ауаъа ауи аджьгватан Iбльа чIын зымIа шабгаз уIа ауаштi хъачвата йтаз ауахъ йшандзыIара йсзыпшII
 # text_name = V_detstve_AjsanovZDz_11072017
 1	ауаъа	_	_	_	_	_	_	_	_|dist|Gloss=dist-loc|loc|Segment=ауа-ъа
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -2625,7 +2625,7 @@
 
 # ft_rus = Я тоже заснул и все забыл.
 # sent_id = 237
-# text = саргьи сычвын йыгьсымдырхIщта
+# text = саргьи сычвын йыгьсымдырхтi щта
 # text_name = V_detstve_AjsanovZDz_11072017
 1	саргьи	_	_	_	_	_	_	_	_|add|Gloss=я-add|Segment=сар-гьи
 2	сычвын	_	VERB	_	Number[abs]=Sing|Person[abs]=1|Tense=Past	_	_	_	1sg.abs|_|Gloss=1sg.abs-спать-pst|pst|Segment=сы-чвы-н
@@ -2634,7 +2634,7 @@
 
 # ft_rus = Потом, когда утром пришел хозяин места, где делали кирпичи, было уже десять часов, и он меня там увидел.
 # sent_id = 238
-# text = уацыхъван ащымта акырбыджь ъаIтдрышвтуаз аунашвачпаI данней асхъан уже асаIт ажваба йнадзата ауаъа сIйбатi
+# text = уацыхъван ащымта акырбыджь ъаIтдрышвтуаз аунашвачпаI данней асхъан уже асаIт ажваба йнадзата ауаъа сIйбаI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	уацыхъван	уацыхъван	_	_	_	_	_	_	_|Gloss=потом|Segment=уацыхъван
 2	ащымта	ащымта	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-утро|Segment=а-щымта
@@ -2652,7 +2652,7 @@
 
 # ft_rus = Он заставил меня встать, спуститься, взял за руку, я говорю: "Я не вернусь домой, меня убьют" – и я не хотел возвращаться с ним.
 # sent_id = 239
-# text = сIйыргылан сIIидаIснаIьи йIн са сгьнейхуашым Iны сырщуашI сIан сгьизIмихуазтi
+# text = сIйыргылан сIIидатi снаIьи йIн са сгьнейхуашым Iны сырщуаштi  сIан сгьизIмихуазI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	сIйыргылан	_	VERB	_	Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|Tense=Past|Voice=Cau	_	_	_	1sg.abs|3m.erg|_|caus|csl|Gloss=1sg.abs-csl-3m.erg-caus-встать-pst|pst|Segment=с-гӏа-йы-р-гыла-н
 2	сIIидатI	_	_	_	Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3	_	_	_	1sg.abs|3m.erg|_|csl|dcl|Gloss=1sg.abs-csl-loc-loc-3m.erg-вести-dcl|loc|Segment=с-гӏа-кӏ-н-и-да-тӏ
@@ -2667,7 +2667,7 @@
 
 # ft_rus = "Пошли со мной", сказал, взял за руку, и он со мной пошел домой.
 # sent_id = 240
-# text = уIй уара йIан снаI йIн сйырцахтi
+# text = уIй уара йIан снаI йIн сйырцахI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	уIй	_	_	_	Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2	_	_	_	2m.abs|_|csl|Gloss=2m.abs-csl-идти(imp)|imp|Segment=у-гӏа-й
 2	уара	уара	_	_	_	_	_	_	.m|_|Gloss=ты.m|Segment=уара
@@ -2678,7 +2678,7 @@
 
 # ft_rus = "На него", говорит, обращаясь к старшему брату, "если поднимешь руку, всю жизнь я тебя считать буду чужим", сказал.
 # sent_id = 241
-# text = ари йIаIтшизынайырхан сащаIа ари унаI йыквуIIа нIата йсыму Iрамта усчпаIйIан ауи йIатi
+# text = ари йIатi тшизынайырхан сащаIа ари унаI йыквуIIа нIата йсыму Iрамта усчпапi йIан ауи йIаI
 # text_name = V_detstve_AjsanovZDz_11072017
 1	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=ари
 2	йIатI	_	_	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	3m.erg|_|dcl|Gloss=3m.erg-говорить-dcl|Segment=й-Iа-тI
@@ -2697,7 +2697,7 @@
 
 # ft_rus = Вот так всю ночь до утра весь мой переулок стоял на ушах (букв. «я положил аул в неприятности»).
 # sent_id = 242
-# text = абарауаса ауахъ йшанIIара акыт Iльабальыкъ йаласIтi
+# text = абарауаса ауахъ йшанIIара акыт Iльабальыкъ йаласII
 # text_name = V_detstve_AjsanovZDz_11072017
 1	абарауаса	_	_	_	_	_	_	_	_|dist.adv|Gloss=вот-dist.adv|Segment=абар-ауаса
 2	ауахъ	ауахъ	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-ночь|Segment=а-уахъ
@@ -2708,7 +2708,7 @@
 
 # ft_rus = [kmd1949_m] Когда я служил ... со мной служил парень из Дагестана.
 # sent_id = 243
-# text =  къвырлыкъв ансхуз асхъан дагестан дауата чIынIкъвырлыкв сыцихун
+# text =  къвырлыкъв ансхуз асхъан дагестан дауата чIынкi къвырлыкв сыцихун
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	къвырльыкъв	къвырльыкъв	_	_	_	_	_	_	_|Gloss=служба|Segment=къвырльЫкъв
 2	ансхуз	_	VERB	_	Aspect=Imp|Number[erg]=Sing|Person[erg]=1	_	_	_	1sg.erg|_|Gloss=rel.tmp-1sg.erg-нести-ipf-pst.nfin|ipf|pst.nfin|rel.tmp|Segment=ан-с-х-У-з
@@ -2730,7 +2730,7 @@
 
 # ft_rus = После службы я уехал в Саратов, потому что хотел поступить на учёбу.
 # sent_id = 245
-# text = акъвырльыкъвхара Iлгата IнIйх асхъан сара саратов сцаIапхьара сыIлырныс сгвыгъата
+# text = акъвырльыкъвхара Iлгата IнIйх асхъан сара саратов сцатi апхьара сыIлырныс сгвыгъата
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	акъвырльыкъвхара	_	VERB	_	Definite=Def|VerbForm=Vnoun	_	_	_	_|def|Gloss=def-служба-нести-msd|msd|Segment=а-къвырльЫкъв-ха-ра
 2	Iлгата	_	ADV	_	Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3	_	_	_	1pl.abs|3n.io|_|adv|Gloss=1pl.abs-3n.io-loc.elat-нести-adv|loc.elat|Segment=хӏ-а-л-гА-та
@@ -2745,7 +2745,7 @@
 
 # ft_rus = Пока я там был, старший брат Абдулгамида женился и пригласил меня на свадьбу.
 # sent_id = 246
-# text = ауаъа сшаъаз абдулгамид йащаIа пIыс дIйгын йысызIтIатацанадылра
+# text = ауаъа сшаъаз абдулгамид йащаIа пIыс дIйгын йысызIттi атацанадылра
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауаъа	ауаъа	_	_	_	_	_	_	_|dist.loc|Gloss=dist.loc|Segment=ауАъа
 2	сшаъаз	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|Gloss=1sg.abs-rel.mnr-быть-pst.nfin|pst.nfin|rel.mnr|Segment=с-ш-Аъа-з
@@ -2758,7 +2758,7 @@
 
 # ft_rus = Я тоже не задерживаясь уехал из Саратова в Махачкалу.
 # sent_id = 247
-# text = саргьи сымкъвахуата саратов стыIн махачкала сцатi
+# text = саргьи сымкъвахуата саратов стыIн махачкала сцаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	саргьи	_	_	_	_	_	_	_	_|add|Gloss=я-add|Segment=сар-гьИ
 2	сымкъвахуата	_	VERB	_	Aspect=Refactive|Number[abs]=Sing|Person[abs]=1|Polarity=Neg	_	_	_	1sg.abs|_|adv|Gloss=1sg.abs-neg-задержаться-re-ipf-adv|ipf|neg|re|Segment=сы-м-къвА-х-уа-та
@@ -2769,7 +2769,7 @@
 
 # ft_rus = Когда я прибыл в Махачкалу, я отправил телеграмму Абдулгамиду
 # sent_id = 248
-# text = махачкала саннадза асхъан абдулгамид телеграма йзысщпитi
+# text = махачкала саннадза асхъан абдулгамид телеграма йзысщпиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	махачкала	махачкала	_	_	_	_	_	_	_|Gloss=Махачкала|Segment=махачкалА
 2	саннадза	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-достичь|rel.tmp|Segment=с-ан-на-дзА
@@ -2780,7 +2780,7 @@
 
 # ft_rus = Отправил, чтобы он меня встретил.
 # sent_id = 249
-# text = йзысщтиIуIспырал сIан
+# text = йзысщтитi уIспырал сIан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	йзысщтитI	_	VERB	_	Case=Ben|Gender[dat]=Masc|Number[dat]=Sing|Number[erg]=Sing|Person[dat]=3|Person[erg]=1	_	_	_	1sg.erg|3m.io|_|ben|dcl|Gloss=3m.io-ben-1sg.erg-отправить-dcl|Segment=й-зы-с-щтИ-тӏ
 2	уIспырал	_	_	_	Gender[abs]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=1	_	_	_	1sg.io|2m.abs|_|csl|Gloss=2m.abs-csl-1sg.io-loc-loc-выйти(imp)|imp|loc|Segment=у-гӏа-с-пЫ-ра-л
@@ -2788,7 +2788,7 @@
 
 # ft_rus = Он сам не смог приехать, наверное, у него было много дел, и был у него хороший друг Шамиль, он его отправил меня встречать.
 # sent_id = 250
-# text = йара дгьызIмиIуыс йщардата IIiуашын йынбжьаI бзиIшамиль Iа нбжьаI бзиIдйыман ауи дIспырайжьтi
+# text = йара дгьызIмитi уыс йщардата IIiуашын йынбжьаI бзикi шамиль Iа нбжьаI бзикi дйыман ауи дIспырайжьI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	йара	йара	_	_	_	_	_	_	_|Gloss=он|Segment=йарА
 2	дгьызIмыйтI	_	VERB	_	Gender[abs]=Com|Mood=Pot|Number[abs]=Sing|Person[abs]=3|Polarity=Neg	_	_	_	3h.abs|_|csl|dcl|Gloss=3h.abs-neg.emp-pot-csl-neg-идти-dcl|neg|neg.emp|pot|Segment=д-гьы-з-гӏА-мы-й-тӏ
@@ -2807,7 +2807,7 @@
 
 # ft_rus = Когда Шамиль меня встретил, мы поздоровались и он сказал: «Крым, ты горец»? — точно так он меня спросил.
 # sent_id = 251
-# text = шамиль данIсынйа асхъан сальам абаIьIагьийын ауи йIаIкърым уара угорецума Iа йара ауасабырг дIсызIiатi
+# text = шамиль данIсынйа асхъан сальам абаIьтi агьийын ауи йIатi кърым уара угорецума Iа йара ауасабырг дIсызIiаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	шамиль	шамиль	_	_	_	_	_	_	_|Gloss=Шамиль|Segment=шамиль
 2	данIсынйа	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1	_	_	_	1sg.io|3h.abs|_|csl|Gloss=3h.abs-rel.tmp-csl-1sg.io-loc-встретить|loc|rel.tmp|Segment=д-ан-гӏа-сы-н-йа
@@ -2827,14 +2827,14 @@
 
 # ft_rus = Я сказал «Да».
 # sent_id = 252
-# text = щта сIатi
+# text = щта сIаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	щта	щта	_	_	_	_	_	_	_|Gloss=да|Segment=щта
 2	сIатI	_	_	_	Number[erg]=Sing|Person[erg]=1	_	_	_	1sg.erg|_|dcl|Gloss=1sg.erg-сказать-dcl|Segment=с-хӏва-тӏ
 
 # ft_rus = Да, тогда наше дело станет проще, срежем путь на 12 километров, сказал он.
 # sent_id = 253
-# text = щта ауи асхъан Iыс рыI ймайрахушIжвыIкилометрIа амIа IаргвануашIйIаIйIейшысуашIйIатi
+# text = щта ауи асхъан Iыс рыI ймайрахуштi жвыIкилометрIа амIа Iаргвануаштi йIатi йIейшысуаштi йIаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	щта	щта	_	_	_	_	_	_	_|Gloss=да|Segment=щта
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -2851,7 +2851,7 @@
 
 # ft_rus = Он так сказал, и мы, поднялись  мы три — три с половиной — четыре километра, и пришлось нам переходить ручей.
 # sent_id = 254
-# text = ауи йIан хкилометырI хкилометырI бжаI пщкилометырIаъара Iъалта Iъалхьата дзыIIIъысра атахъхатi
+# text = ауи йIан хкилометырI хкилометырI бжаI пщкилометыркi аъара Iъалта Iъалхьата дзыIкi Iъысра атахъхаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	йIан	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3|Tense=Past	_	_	_	3m.erg|_|Gloss=3m.erg-сказать-pst|pst|Segment=й-хӏва-н
@@ -2868,7 +2868,7 @@
 
 # ft_rus = Когда я посмотрел на ручей, кроме пены ничего не было, вода совсем белая шла.
 # sent_id = 255
-# text = адзыI сантапшы асхъан швахъымIа заIьи гьIмиуазIшIоIацкьашта дзы IмIайсуан
+# text = адзыI сантапшы асхъан швахъымIа заIьи гьIмиуазтi шIоIацкьашта дзы IмIайсуан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	адзыI	адзыI	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-ручей|Segment=а-дзЫгӏв
 2	сантапшы	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|Gloss=1sg.abs-rel.tmp-loc-смотреть|loc|rel.tmp|Segment=с-ан-та-пшЫ
@@ -2882,7 +2882,7 @@
 
 # ft_rus = Там (по ущелью) проходили три хорошо натянутые верёвки из конского хвоста и рядом лежали длинные палки.
 # sent_id = 256
-# text = атшIхъваркъанква бзита йыргъвгъвата ауаъа харкъанIхъысуан алаба ауыраквагьи щIта
+# text = атшIхъваркъанква бзита йыргъвгъвата ауаъа харкъанкi хъысуан алаба ауыраквагьи щIта
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	атшIхъваркъанква	аIхъваркъква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-лошадь-хвост-верёвка-pl|pl|Segment=а-тш-цӏыхъв-аркъАн-ква
 2	бзита	_	ADV	_	_	_	_	_	_|adv|Gloss=хороший-adv|Segment=бзИ-та
@@ -2896,7 +2896,7 @@
 
 # ft_rus = А Шамиль, когда я сказал «Я горец», подумал, что я смогу пройти по канату.
 # sent_id = 257
-# text = а шамиль дшазхъвыцызла сгорецIансIа асхъан ауи аркъан сзаланыкъвауадзищатi
+# text = а шамиль дшазхъвыцызла сгорецпi ансIа асхъан ауи аркъан сзаланыкъвауадзищаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	а	а	_	_	_	_	_	_	_|Gloss=а|Segment=а
 2	шамиль	шамиль	_	_	_	_	_	_	_|Gloss=Шамиль|Segment=шамиль
@@ -2910,7 +2910,7 @@
 
 # ft_rus = Ах, я ему говорю, так я пройти не смогу, говорю.
 # sent_id = 258
-# text = ъаъаIауи йасIиIараса сгьызхъысуашым сIаIари
+# text = ъаъахi ауи йасIитi араса сгьызхъысуашым сIатi ари
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ъаъахI	ъаъахI	_	_	_	_	_	_	_|Gloss=interj|interj|Segment=ъаъахӏ
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -2922,7 +2922,7 @@
 
 # ft_rus = Потом он говорит мне:
 # sent_id = 259
-# text = уадырIана ауи IсайIитi
+# text = уадырIана ауи IсайIиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	сгорецызIIва	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|cnc|Gloss=1sg.abs-горец-cnc|Segment=сгОрецызтӏхӏва
 2	I	I	_	_	_	_	_	_	_|Gloss=мы|Segment=хӏа
@@ -2952,7 +2952,7 @@
 
 # ft_rus = Я вот этот телевизор возьму, говорит, и перейду.
 # sent_id = 260
-# text = сара ари ателевизоргьи насахвIа йIаIсхъыспi
+# text = сара ари ателевизоргьи насахвIа йIатi схъысI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	сара	сара	_	_	_	_	_	_	_|Gloss=я|Segment=сарА
 2	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
@@ -2963,7 +2963,7 @@
 
 # ft_rus = А ты спускайся и по ту сторону обойди, сказал.
 # sent_id = 261
-# text = уара уылбIхта ауахьауыла уIIша йIатi
+# text = уара уылбIхта ауахьауыла уIIша йIаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	уара	уара	_	_	_	_	_	_	.m|_|Gloss=ты.m|Segment=уарА
 2	уылбIхта	_	ADV	_	Aspect=Refactive|Gender[abs]=Masc|Number[abs]=Sing|Person[abs]=2	_	_	_	2m.abs|_|adv|Gloss=2m.abs-loc.elat-спускаться-re-adv|loc.elat|re|Segment=уы-л-бгӏА-х-та
@@ -2980,7 +2980,7 @@
 
 # ft_rus = Я прошёл дорогу длиной в три с половиной - четыре километра.
 # sent_id = 263
-# text = а хIлометырIбжаI пщбаIйнадзуз амIа Iмыздахын
+# text = а хIлометырIбжаI пщбакi йнадзуз амIа Iмыздахын
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	а	а	_	_	_	_	_	_	_|Gloss=а|Segment=а
 2	хIлoмéтырIбжаI	_	_	_	Number=Count	_	_	_	_|add|add–|Gloss=три-километр-unit-add–половина-unit-add|Segment=х-кӏилoмéтыр-кӏ-и-бжа-кӏ-и|unit
@@ -3005,7 +3005,7 @@
 
 # ft_rus = генералы с одного аула
 # sent_id = 266
-# text = кытIйауата генералква
+# text = кыткi йауата генералква
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	кыткI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=аул-indf|indf|Segment=кыт-кӏ
 2	йауата	_	ADV	_	Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	.|3n.io|3pl.abs|_|adv|Gloss=3pl.abs-3n.io-быть.из-adv|Segment=й-А-уа-та
@@ -3013,7 +3013,7 @@
 
 # ft_rus = У  них было 12 генералов с одного аула.
 # sent_id = 267
-# text = жвыIгенералIкытIйауата йрыман ауат
+# text = жвыIгенералкi кыткi йауата йрыман ауат
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	жвыIгенералкI	_	_	_	Number=Count	_	_	_	_|Gloss=двенадцать-генерал-unit|Segment=жвЫгӏв-генерАл-кӏ|unit
 2	кыткI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=аул-indf|indf|Segment=кыт-кӏ
@@ -3062,7 +3062,7 @@
 
 # ft_rus = вот так ... примерно двадцать, восемнадцать, двадцать километров, столько я проехал лишних, не зная,  где мне остановиться.
 # sent_id = 271
-# text = ауеIкилометра IажваIжваIi IажваIаърагьи саIнагаIсъаIIсра атахъхаз йсымдыруата
+# text = ауепi километра Iажвакi жваIi Iажвакi аърагьи саIнагатi съаIIсра атахъхаз йсымдыруата
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауепI	_	_	_	_	_	_	_	_|dcl|dist|Gloss=dist-dcl|Segment=ауЕпӏ
 2	километра	километра	_	_	_	_	_	_	_|Gloss=километра|Segment=киломЕтра
@@ -3077,7 +3077,7 @@
 
 # ft_rus = Мы долго шли ... те, кто вышел рано утром, долго шли., да.
 # sent_id = 272
-# text = бзидздзара IмIейсIщымта щажьыта йджвыквылкваз бзидздзара IмIейсIщта
+# text = бзидздзара IмIейстi щымта щажьыта йджвыквылкваз бзидздзара IмIейстi щта
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	бзидздзара	_	_	_	_	_	_	_	_|ass|Gloss=хороший-ass|Segment=бзИ-дздзара
 2	IмIейстI	_	_	_	Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-путешествовать-dcl|Segment=хӏы-мгӏвЕйс-тӏ
@@ -3090,7 +3090,7 @@
 
 # ft_rus = Потом Шамиль верхом на лошади догнал меня, и там вернул меня обратно.
 # sent_id = 273
-# text = уаIхъван шамиль тшыIта днасыщталын ауаъа сIцайырпахтi
+# text = уаIхъван шамиль тшыIта днасыщталын ауаъа сIцайырпахI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	уаIхъван	уаIхъван	_	_	_	_	_	_	_|Gloss=потом|Segment=уацӏЫхъван
 2	шамиль	шамиль	_	_	_	_	_	_	_|Gloss=Шамиль|Segment=шамиль
@@ -3101,7 +3101,7 @@
 
 # ft_rus = Когда он повернул меня обратно, я попал на свадьбу, как я сказал.
 # sent_id = 274
-# text = сIцайырпахызтын атацанадылра апны садгылIщта йшсIаз апшта
+# text = сIцайырпахызтын атацанадылра апны садгылтi щта йшсIаз апшта
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	сIцайырпахызтын	_	VERB	_	Aspect=Refactive|Gender[erg]=Masc|Mood=Cnd|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|Voice=Cau	_	_	_	1sg.abs|3m.erg|_|caus|cond.real|csl|Gloss=1sg.abs-csl-loc-3m.erg-caus-поворачиваться-re-cond.real|loc|re|Segment=с-гӏа-цА-йы-р-па-хы-зтын
 2	атацанадылра	атацанадылра	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-свадьба|Segment=а-тацанадЫлра
@@ -3113,7 +3113,7 @@
 
 # ft_rus = Я отдал привезённый мной телевизор.
 # sent_id = 275
-# text = ателевизор йызгазгьи рыстатi
+# text = ателевизор йызгазгьи рыстаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ателевизoр	ателевизoр	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-телевизор|Segment=а-телевизoр
 2	йызгазгьи	_	_	_	Number[erg]=Sing|Person[erg]=1	_	_	_	1sg.erg|_|add|Gloss=rel.abs-1sg.erg-нести-pst.nfin-add|pst.nfin|rel.abs|Segment=йы-з-гА-з-гьи
@@ -3121,7 +3121,7 @@
 
 # ft_rus = Вот так у них принято.
 # sent_id = 276
-# text = йаргьи йшыъу ауеIаIауат рпны
+# text = йаргьи йшыъу ауеIапi ауат рпны
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	йаргьи	_	_	_	_	_	_	_	_|add|Gloss=он-add|Segment=йар-гьИ
 2	йшыъуы	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|Gloss=3n.abs-rel.mnr-быть-npst.nfin|npst.nfin|rel.mnr|Segment=й-шЫ-ъ-уы
@@ -3144,7 +3144,7 @@
 
 # ft_rus = их много, четырнадцать, двенадцать, столько их сидя играли.
 # sent_id = 278
-# text = щардаIы йнадзиIжвипщIума жвыIума ауаъараIы йIата йасуан
+# text = щардаIы йнадзитi жвипщIума жвыIума ауаъараIы йIата йасуан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	щардаIы	_	NUM	_	_	_	_	_	_|clh|Gloss=много-clh|Segment=щарда-гӏвЫ
 2	йнадзитI	_	VERB	_	Number[abs]=Plur|Person[abs]=3|Tense=Pres	_	_	_	3pl.abs|_|csl|dcl|Gloss=3pl.abs-csl-достичь-prs-dcl|prs|Segment=й-на-дз-и-тӏ
@@ -3175,7 +3175,7 @@
 
 # ft_rus = Там делают так:
 # sent_id = 281
-# text = ауаъа йшырчпауа ауеIапi
+# text = ауаъа йшырчпауа ауеIаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауаъа	ауаъа	_	_	_	_	_	_	_|dist.loc|Gloss=dist.loc|Segment=ауАъа
 2	йшырчпауа	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	_	_	_	3n.abs|3pl.erg|_|Gloss=3n.abs-rel.mnr-3pl.erg-делать-ipf|ipf|rel.mnr|Segment=й-шы-р-чпа-уА
@@ -3199,7 +3199,7 @@
 
 # ft_rus = Создавшим семью, новой семье отдают.
 # sent_id = 284
-# text = унаIара йалалкваз аунаIаIц йрыртитi
+# text = унаIара йалалкваз аунаIаIц йрыртиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	унаIара	унаIара	_	_	_	_	_	_	_|Gloss=семья|Segment=унАгӏвара
 2	йалалкваз	_	NOUN	_	Gender[dat]=Neut|Number=Plur|Number[dat]=Sing|Person[dat]=3	_	_	_	3n.io|_|Gloss=rel.abs-3n.io-loc-войти-pl-pst.nfin|loc|pl|pst.nfin|rel.abs|Segment=й-А-ла-л-ква-з
@@ -3216,7 +3216,7 @@
 
 # ft_rus = Одну отдают тем, кто на свадьбе сильно танцевал, играл.
 # sent_id = 286
-# text = азаI ауи атацанадылра апны хвабыжта йIIыз йхъвмарыз ауат йырзыршитi
+# text = азаI ауи атацанадылра апны хвабыжта йIIыз йхъвмарыз ауат йырзыршиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	азаI	азI	NOUN	_	Definite=Def|Number=Count	_	_	_	_|def|Gloss=def-один-unit|Segment=а-за-кӏЫ|unit
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -3230,7 +3230,7 @@
 
 # ft_rus = Ту часть — половину половины — половину отдают гармонистам и прочим игравшим.
 # sent_id = 287
-# text = азаIауа абжа йатабжаху абжагьи адына акъвабызчква агьиква ауат зрыхъвмаруа йрыртитi
+# text = азакi ауа абжа йатабжаху абжагьи адына акъвабызчква агьиква ауат зрыхъвмаруа йрыртиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	азакI	азкi	NOUN	_	Definite=Def|Number=Count	_	_	_	_|def|Gloss=def-один-unit|Segment=а-за-кӏ|unit
 2	ауа	ауа	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауА
@@ -3246,7 +3246,7 @@
 
 # ft_rus = Однажды... свадьбу долго играют, больше месяца они играли.
 # sent_id = 288
-# text = зны ауырата йырчпиIатацанадылрагьи мызI айIта йырчпаIщта
+# text = зны ауырата йырчпитi атацанадылрагьи мызI айIта йырчпатi щта
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	зны	_	_	_	_	_	_	_	_|Gloss=один-раз|Segment=з-ны
 2	ауы́рата	_	ADV	_	_	_	_	_	_|adv|Gloss=длинный-adv|Segment=ауы́ра-та
@@ -3259,7 +3259,7 @@
 
 # ft_rus = Однажды утром, когда я проснулся,
 # sent_id = 289
-# text = зны щымтаIсанIIха асхъан
+# text = зны щымтакi санIIха асхъан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	зны	_	_	_	_	_	_	_	_|Gloss=один-раз|Segment=з-ны
 2	щымтакI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=утро-indf|indf|Segment=щымтА-кӏ
@@ -3281,7 +3281,7 @@
 
 # ft_rus = Я не понял, то новое, то висело, и у кого я находился, не знаю.
 # sent_id = 291
-# text = ауи аIц йIаIзгьи гьIсгвнымIыIзпны саъазгьи дыгьсыздырам уопi
+# text = ауи аIц йIаIзгьи гьIсгвнымIытi зпны саъазгьи дыгьсыздырам уоI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	атш̣ыц	атш̣ыц	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-новый|Segment=а-тш̣Ыц
@@ -3294,7 +3294,7 @@
 
 # ft_rus = Когда я не взял новую одежду, а надел свою, в кармане лежало что-то тяжёлое
 # sent_id = 292
-# text = ужвы ауа аIц Iсмахуата са сIква Iсахв йансшвысIх асхъан аджьып IтлаIтан
+# text = ужвы ауа аIц Iсмахуата са сIква Iсахв йансшвысIх асхъан аджьып Iтлакi тан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	уыжвы	уыжвы	_	_	_	_	_	_	_|Gloss=теперь|Segment=уыжвЫ
 2	ауа	ауа	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауА
@@ -3311,7 +3311,7 @@
 
 # ft_rus = Я посмотрел: это было что-то твёрдое и тяжёлое, и я вытащил его
 # sent_id = 293
-# text = сапшын IтлаIбагъьаIаIаIйIтысхын
+# text = сапшын Iтлакi багъьакi аIапi йIтысхын
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	сапшын	_	VERB	_	Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Past	_	_	_	1sg.abs|3n.io|_|Gloss=1sg.abs-3n.io-смотреть-pst|pst|Segment=с-а-пшЫ-н
 2	IтлакI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=груз-indf|indf|Segment=хӏатла-кӏ
@@ -3341,7 +3341,7 @@
 
 # ft_rus = Я их положил обратно и жду, пока придёт Шамиль.
 # sent_id = 295
-# text = ауыгьи тасIхын ужвы ауи шамиль дIйындзыI сазпшиIса щта
+# text = ауыгьи тасIхын ужвы ауи шамиль дIйындзыI сазпшитi са щта
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауы́гьи	_	_	_	_	_	_	_	_|add|dist|Gloss=dist-add|Segment=ауы́-гьи
 2	тасIхын	_	VERB	_	Aspect=Refactive|Number[erg]=Sing|Person[erg]=1|Tense=Past	_	_	_	1sg.erg|_|Gloss=loc-1sg.erg-класть-re-pst|loc|pst|re|Segment=та-с-цӏА-хы-н
@@ -3355,7 +3355,7 @@
 
 # ft_rus = Я встал рано, часов в девять.
 # sent_id = 296
-# text = щажьытагьи сIгылд асаIт ажвбакваIрасхъан
+# text = щажьытагьи сIгылд асаIт ажвбаквакi расхъан
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	щажьытагьи	_	ADV	_	_	_	_	_	_|add|adv|Gloss=ранний-adv-add|Segment=щажьЫ-та-гьи
 2	сIгылд	_	_	_	Number[abs]=Sing|Person[abs]=1	_	_	_	1sg.abs|_|csl|dcl|Gloss=1sg.abs-csl-встать-dcl|Segment=с-гӏА-гыл-д
@@ -3365,7 +3365,7 @@
 
 # ft_rus = Как бы то ни было, когда он пришёл, было половина второго, и он говорит: боже мой, что с тобой произошло, почему ты не возвращаешься? И я говорю:
 # sent_id = 297
-# text = йшаъазлаIьи ауа асаIт азаIва аIба аъараIшаракваIнадзахьата дIйын азунаIа мышхаз угьнайхуамщти аIыйа йуызIшваз йIан йасIитi
+# text = йшаъазлаIьи ауа асаIт азаIва аIба аъараIшараквакi надзахьата дIйын азунаIа мышхаз угьнайхуамщти аIыйа йуызIшваз йIан йасIиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	йшаъазлаIьи	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|add|cnc|Gloss=3n.abs-rel.mnr-быть-pst.nfin-cnc-add|pst.nfin|rel.mnr|Segment=й-ш-аъа-з-лакӏ-гьи
 2	ауа	ауа	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауА
@@ -3385,7 +3385,7 @@
 
 # ft_rus = Я спросил, Шамиль, когда я украл эти деньги?
 # sent_id = 298
-# text = шамиль ари ахча нбаIзгъыч сIан сйыIiатi
+# text = шамиль ари ахча нбаIзгъыч сIан сйыIiаI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	шамíль	шамíль	_	_	_	_	_	_	_|Gloss=Шамиль|Segment=шамíль
 2	ари	ари	_	_	_	_	_	_	_|Gloss=proχ|proχ|Segment=арИ
@@ -3405,7 +3405,7 @@
 
 # ft_rus = Он сильно рассмеялся и сказал: Это тебе дали за то, что ты хорошо танцевал.
 # sent_id = 300
-# text = даIкъьауа дхъыччун ауи йIаIауи бзита уъаIIыз ахъаз йIуртIйIаI ауи
+# text = даIкъьауа дхъыччун ауи йIатi ауи бзита уъаIIыз ахъаз йIурттi йIатi  ауи
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	даIкъьауа	_	VERB	_	Aspect=Imp|Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3h.abs|3n.io|_|Gloss=3h.abs-3n.io-loc-лопаться-ipf|ipf|loc|Segment=д-а-гӏв-къьа-уА
 2	дхъыччун	_	VERB	_	Aspect=Imp|Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Past	_	_	_	3h.abs|_|Gloss=3h.abs-смеяться-ipf-pst|ipf|pst|Segment=д-хъЫчч-у-н
@@ -3421,7 +3421,7 @@
 
 # ft_rus = Если говорит по-русски, премию тебе дали, сказал он, прямо так мне и сказал.
 # sent_id = 301
-# text = адына урышвла йуIушызтын премията йIуыртI йIад йара ауасабырг йIсайIтi
+# text = адына урышвла йуIушызтын премията йIуыртI йIад йара ауасабырг йIсайII
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	адына	адына	NOUN	_	Definite=Def	_	_	_	_|def|filler|Gloss=def-filler|Segment=а-дЫна
 2	урышвла	_	_	_	Case=Ins	_	_	_	_|Gloss=русский-ins|ins|Segment=урЫшв-ла
@@ -3435,7 +3435,7 @@
 
 # ft_rus = Такие у них обычаи, они разбрасываются деньгами.
 # sent_id = 302
-# text = ауеб ауат рдынаква шыъу рхьабзаква хвабыжта ахча Iрпситi
+# text = ауеб ауат рдынаква шыъу рхьабзаква хвабыжта ахча IрпсиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	ауеб	_	VERB	_	Tense=Pres	_	_	_	_|dist|Gloss=dist-npst.dcl|npst.dcl|Segment=ауЕ-б
 2	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауАт
@@ -3448,7 +3448,7 @@
 
 # ft_rus = Когда старший танцует, женщины, старики, старухи, прямо очень сильно это делают.
 # sent_id = 303
-# text = аIа данIIуа пIыс дына тажв лыгажвква нIIуа асхъан хвабыжта ауаса гьаIым дына рчпитi
+# text = аIа данIIуа пIыс дына тажв лыгажвква нIIуа асхъан хвабыжта ауаса гьаIым дына рчпиI
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	аIа	аIа	_	_	_	_	_	_	_|Gloss=старший|Segment=ахӏбА
 2	данIIуа	_	VERB	_	Aspect=Imp|Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|csl|Gloss=3h.abs-rel.tmp-csl-сказать-ipf|ipf|rel.tmp|Segment=д-ан-гӏа-хӏв-уА
@@ -3466,7 +3466,7 @@
 
 # ft_rus = И скажу по-русски, молодожёнам сильно помогают.
 # sent_id = 304
-# text = йаргьи урышвла йсIаIа амолодожонква хвабыжта йырцхъраIтi
+# text = йаргьи урышвла йсIаIа амолодожонква хвабыжта йырцхъраII
 # text_name = DzhuzhuevKM_20180718_Svadba_v_Dagestane
 1	яргьи	_	_	_	_	_	_	_	_|add|Gloss=оно-add|Segment=яр-гьИ
 2	урышвла	_	_	_	Case=Ins	_	_	_	_|Gloss=русский-ins|ins|Segment=урЫшв-ла
@@ -3477,7 +3477,7 @@
 
 # ft_rus = [zhs1930_f] Моя тетя вывозила из Невинки и привозила мне шерсть, я вязала носки, чтобы передавать тем, кто находился на фронте.
 # sent_id = 305
-# text =  саба йахща невинка йIтыргунта ласа Iргванта вязать йсчпаIнаскьи афронт йаъакву йрыртуашта
+# text =  саба йахща невинка йIтыргунта ласа Iргванта вязать йсчпатi наскьи афронт йаъакву йрыртуашта
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	саба	ааба	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-отец|Segment=с-аба
 2	йахща	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-сестра|Segment=й-ахща
@@ -3494,7 +3494,7 @@
 
 # ft_rus = В пятьдесят пятом году я вышла замуж.
 # sent_id = 306
-# text = пятьдесят пятый год аIн хъаI сйыццатi
+# text = пятьдесят пятый год аIн хъаI сйыццаI
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауат
 2	счпауамца	_	VERB	_	Aspect=Imp|Number[erg]=Sing|Person[erg]=1|VerbForm=Conv	_	_	_	1sg.erg|_|cvb|Gloss=1sg.erg-делать-ipf-cvb|ipf|Segment=с-чпа-уа-мца
@@ -3523,7 +3523,7 @@
 
 # ft_rus = Изранен. Так я вышла замуж за больного.
 # sent_id = 308
-# text = йырхвын ауи йапшта дчмазаIыта сйыццатi
+# text = йырхвын ауи йапшта дчмазаIыта сйыццаI
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	йырхвын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|Tense=Past	_	_	_	3n.abs|3pl.erg|_|Gloss=3n.abs-3pl.erg-ранить-pst|pst|Segment=йы-р-хвы-н
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -3533,7 +3533,7 @@
 
 # ft_rus = В ногу вот сюда попали три осколка и пуля, которая попала в сердце, вышла через шею.
 # sent_id = 309
-# text = йщаI араъа IIлIIйалата йгвы араъа йташваз ахы арыла йыхъвда йаIлIын
+# text = йщаI араъа IIлIкi йалата йгвы араъа йташваз ахы арыла йыхъвда йаIлIын
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	йщаI	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-нога|Segment=й-щапӏы
 2	араъа	араъа	_	_	_	_	_	_	_|Gloss=здесь|Segment=араъа
@@ -3549,7 +3549,7 @@
 
 # ft_rus = Удаляя зубы, вытаскивали (поднимали) осколки и так он остался без зубов.
 # sent_id = 310
-# text = йыпыцква йыIрхуамцара асIлIква IхъаргылхIзаIьи гьйымахмызтi
+# text = йыпыцква йыIрхуамцара асIлIква Iхъаргылхтi заIьи гьйымахмызI
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	йыпыцква	_	NOUN	_	Gender[dat]=Masc|Number=Plur|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-зуб-pl|pl|Segment=йы-пыц-ква
 2	йыIрхуамцара	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|VerbForm=Conv	_	_	_	3pl.abs|3pl.erg|_|cvb|Gloss=3pl.abs-loc.elat-3pl.erg-удалять-ipf-cvb|ipf|loc.elat|Segment=йы-цӏы-р-х-уа-мцара
@@ -3560,7 +3560,7 @@
 
 # ft_rus = Уже не имея зубов, он умер.
 # sent_id = 311
-# text = йшйымахымзымцара дпсыхIйаргьи
+# text = йшйымахымзымцара дпсыхтi йаргьи
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	йшйымахымзымцара	_	VERB	_	Aspect=Refactive|Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|Polarity=Neg|VerbForm=Conv	_	_	_	3m.io|3pl.abs|_|cvb|Gloss=3pl.abs-rel.mnr-3m.io-иметься-re-neg-pst.nfin-cvb|neg|pst.nfin|re|rel.mnr|Segment=й-ш-йы-ма-хы-м-зы-мцара
 2	дпсыхтI	_	_	_	Aspect=Refactive|Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|dcl|Gloss=3h.abs-умереть-re-dcl|re|Segment=д-псы-х-тӏ
@@ -3568,7 +3568,7 @@
 
 # ft_rus = Он уже умер, уже его нет со мной (отца). И его уже нет со мной (мужа).
 # sent_id = 312
-# text = дпсыхIдгьсымахым ауыгьи дгьсымахым
+# text = дпсыхтi дгьсымахым ауыгьи дгьсымахым
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	дпсыхтI	_	_	_	Aspect=Refactive|Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|dcl|Gloss=3h.abs-умереть-re-dcl|re|Segment=д-псы-х-тӏ
 2	дгьсымахым	_	_	_	Aspect=Refactive|Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|Polarity=Neg	_	_	_	1sg.io|3h.abs|_|Gloss=3h.abs-neg.emp-1sg.io-иметься-re-neg|neg|neg.emp|re|Segment=д-гь-сы-ма-хы-м
@@ -3577,7 +3577,7 @@
 
 # ft_rus = У меня был единственный сын.
 # sent_id = 313
-# text = па заджвыIдсыман
+# text = па заджвыкi дсыман
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	па	па	_	_	_	_	_	_	_|Gloss=сын|Segment=па
 2	заджвыкI	_	_	_	Number=Count	_	_	_	_|Gloss=один-unit|Segment=заджвы-кӏ|unit
@@ -3594,7 +3594,7 @@
 
 # ft_rus = Сына убили карачаевцы и привезли.
 # sent_id = 315
-# text = спа акъарчаква дырщын дсызIргхтi
+# text = спа акъарчаква дырщын дсызIргхI
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	спа	апа	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-сын|Segment=с-па
 2	акъарчаква	акъарчква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-карачаевец-pl|pl|Segment=а-къарча-ква
@@ -3610,7 +3610,7 @@
 
 # ft_rus = Вот это все прошло через мой зрачок [пережила, прошла через это]. Все.
 # sent_id = 317
-# text = вот ауат зымIа са сылагвы йыIIзымIа
+# text = вот ауат зымIа са сылагвы йыIтi зымIа
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	вoт	вoт	_	_	_	_	_	_	_|Gloss=вот|Segment=вoт
 2	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауат
@@ -3622,7 +3622,7 @@
 
 # ft_rus = Теперь здоровья нету, так и осталась.
 # sent_id = 318
-# text = ужвы здоровагьи гьсымахым сIнхахтi
+# text = ужвы здоровагьи гьсымахым сIнхахI
 # text_name = O_muzhe_SanashokovaCKh_13072017
 1	ужвы	ужвы	_	_	_	_	_	_	_|Gloss=сейчас|Segment=ужвы
 2	здорoвагьи	_	_	_	_	_	_	_	_|add|Gloss=здоровье-add|Segment=здорoва-гьи
@@ -3667,7 +3667,7 @@
 
 # ft_rus = Потом одна женщина про своего ребенка забыла, а, когда стемнело, они спустились с поля.
 # sent_id = 321
-# text = уадырIана пIысIлсаби дIлхъаштылын йхъвлан йIталхд архъа
+# text = уадырIана пIыскi лсаби дIлхъаштылын йхъвлан йIталхд архъа
 # text_name = Deti_v_pole_SanashokovaCKh_13072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	пIыскI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=женщина-indf|indf|Segment=пхӏвыс-кӏ
@@ -3770,7 +3770,7 @@
 
 # ft_rus = Барахла не было у нас.
 # sent_id = 330
-# text = барахлоIьи гьIмамызIIра
+# text = барахлоIьи гьIмамызтi Iра
 # text_name = Deti_v_pole_SanashokovaCKh_13072017
 1	барахлоIьи	_	NOUN	_	Definite=Ind	_	_	_	_|add|Gloss=барахло-indf-add|indf|Segment=барахлО-кӏ-гьи
 2	гьIмамызтI	_	_	_	Number[dat]=Plur|Person[dat]=1|Polarity=Neg	_	_	_	1pl.io|_|dcl|Gloss=neg.emp-1pl.io-иметься-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-хӏЫ-ма-мы-з-тӏ
@@ -3778,7 +3778,7 @@
 
 # ft_rus = Единственное платье, которое у нас было, мы надевали и шли в поле.
 # sent_id = 331
-# text = ахвтан заджвыIIмазтын Iра йIваIiунта архъа Iун
+# text = ахвтан заджвыкi Iмазтын Iра йIваIiунта архъа Iун
 # text_name = Deti_v_pole_SanashokovaCKh_13072017
 1	ъахвтан	ъахвтан	_	_	_	_	_	_	_|Gloss=платье|Segment=ъахвтАн
 2	заджвыкI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=один-indf|indf|Segment=заджвЫ-кӏ
@@ -3790,7 +3790,7 @@
 
 # ft_rus = [fba1959_f] Старик посадил в огороде репку.
 # sent_id = 332
-# text =  алыгажв йуатра апны цыца лайIтi
+# text =  алыгажв йуатра апны цыца лайII
 # text_name = Repka_AjsanovaFB_11072017
 1	алыгажв	алыгажв	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-старик|Segment=а-лЫгажв
 2	йуатра	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3m.io|_|Gloss=3m.io-огород|Segment=й-уАтра
@@ -3800,7 +3800,7 @@
 
 # ft_rus = Репка выросла большущая.
 # sent_id = 333
-# text = ацыца дудздзата йIйытi
+# text = ацыца дудздзата йIйыI
 # text_name = Repka_AjsanovaFB_11072017
 1	ацыца	ацыца	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-редька|Segment=а-цЫца
 2	дудздзата	_	ADV	_	_	_	_	_	_|adv|ass|Gloss=большой-ass-adv|Segment=ду-дздзА-та
@@ -3808,7 +3808,7 @@
 
 # ft_rus = Пришла осень, старик выкапывает репку.
 # sent_id = 334
-# text = адзын IйIалыгажв ацыца Iлиххитi
+# text = адзын Iйтi алыгажв ацыца IлиххиI
 # text_name = Repka_AjsanovaFB_11072017
 1	адзын	адзын	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-осень|Segment=А-дзын
 2	IйтI	_	_	_	_	_	_	_	_|csl|dcl|Gloss=csl-придти-dcl|Segment=гӏА-й-тӏ
@@ -3818,7 +3818,7 @@
 
 # ft_rus = Тянул-тянул —  не смог вытащить.
 # sent_id = 335
-# text = дахъIдахъын йгьйызIлымхтi
+# text = дахътi дахъын йгьйызIлымхI
 # text_name = Repka_AjsanovaFB_11072017
 1	дахътI	_	_	_	Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3h.abs|3n.io|_|dcl|Gloss=3h.abs-3n.io-тянуть-dcl|Segment=д-А-хъ-тӏ
 2	дахъын	_	VERB	_	Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|Tense=Past	_	_	_	3h.abs|3n.io|_|Gloss=3h.abs-3n.io-тянуть-pst|pst|Segment=д-Ахъы-н
@@ -3826,7 +3826,7 @@
 
 # ft_rus = Он вызвал старуху.
 # sent_id = 336
-# text = ауи атажв дIзIттi
+# text = ауи атажв дIзIтI
 # text_name = Repka_AjsanovaFB_11072017
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	атажв	атажв	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-старуха|Segment=а-тАжв
@@ -3834,7 +3834,7 @@
 
 # ft_rus = Вдвоём вместе тянули-тянули, не вытянули.
 # sent_id = 337
-# text = аIыджьгьи ацыта йахъIйахъын йгьырзIлымхтi
+# text = аIыджьгьи ацыта йахътi йахъын йгьырзIлымхI
 # text_name = Repka_AjsanovaFB_11072017
 1	аIыджьгьи	аIыджь	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-двое-add|Segment=а-гӏвЫджь-гьи
 2	ацыта	ацыта	_	_	_	_	_	_	_|Gloss=вместе|Segment=ацЫта
@@ -3844,7 +3844,7 @@
 
 # ft_rus = Старуха вызвала внучку.
 # sent_id = 338
-# text = атажв лпипIчIын дIзIлттi
+# text = атажв лпипIчIын дIзIлтI
 # text_name = Repka_AjsanovaFB_11072017
 1	атажв	атажв	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-старуха|Segment=а-тАжв
 2	лпйыпIчIын	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3	_	_	_	3f.io|3m.io|_|Gloss=3f.io-сын-3m.io-дочь-малый|Segment=л-п-йы-пхӏА-чкӏвын
@@ -3852,7 +3852,7 @@
 
 # ft_rus = Втроём тянули, тянули-тянули, не вытянули.
 # sent_id = 339
-# text = ахыIгьи ацахъын йахъIйахъын йгьрызIлымхтi
+# text = ахыIгьи ацахъын йахътi йахъын йгьрызIлымхI
 # text_name = Repka_AjsanovaFB_11072017
 1	ахыIгьи	ахыI	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-трое-add|Segment=А-хыгӏв-гьи
 2	ацахъын	_	VERB	_	Case=Com|Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3|Tense=Past	_	_	_	3n.io|_|com|Gloss=rec.io-com-3n.io-тянуть-pst|pst|rec.io|Segment=а-ц-А-хъы-н
@@ -3862,7 +3862,7 @@
 
 # ft_rus = Девочка вызвала свою собачку.
 # sent_id = 340
-# text = апIыспа чIын лла чIын IзIлттi
+# text = апIыспа чIын лла чIын IзIлтI
 # text_name = Repka_AjsanovaFB_11072017
 1	апIыспа	апIыспа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-девушка|Segment=а-пхӏвЫспа
 2	чIын	чIын	_	_	_	_	_	_	_|Gloss=малый|Segment=чкӏвын
@@ -3872,7 +3872,7 @@
 
 # ft_rus = Вместе тянули, тянули-тянули, не вытянули.
 # sent_id = 341
-# text = йацахъIйахъIйъахъын йгьрызIлымхтi
+# text = йацахътi йахътi йъахъын йгьрызIлымхI
 # text_name = Repka_AjsanovaFB_11072017
 1	йацахътI	_	VERB	_	Case=Com|Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3h.abs|3n.io|_|com|dcl|Gloss=3h.abs-rec.io-com-3n.io-тянуть-dcl|rec.io|Segment=й-а-ц-А-хъ-тӏ
 2	йахътI	_	_	_	Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3h.abs|3n.io|_|dcl|Gloss=3h.abs-3n.io-тянуть-dcl|Segment=й-а-хъ-тӏ
@@ -3881,7 +3881,7 @@
 
 # ft_rus = Собачка  вызвала кошку.
 # sent_id = 342
-# text = ала чIын ацгвы IзIаттi
+# text = ала чIын ацгвы IзIатI
 # text_name = Repka_AjsanovaFB_11072017
 1	ала	ала	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-собака|Segment=а-лА
 2	чIын	чIын	_	_	_	_	_	_	_|Gloss=малый|Segment=чкӏвын
@@ -3890,7 +3890,7 @@
 
 # ft_rus = Все вместе тянут, тянут,  не могут вытянуть.
 # sent_id = 343
-# text = зымIа йацыта йIхъIйIхъиIа йгьрызIлыхуам
+# text = зымIа йацыта йIхътi йIхъиIа йгьрызIлыхуам
 # text_name = Repka_AjsanovaFB_11072017
 1	зымIа	зымIа	_	_	_	_	_	_	_|Gloss=все|Segment=зымгӏвА
 2	йацыта	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|Gloss=3h.abs-вместе|Segment=й-ацЫта
@@ -3900,7 +3900,7 @@
 
 # ft_rus = Кошка вызвала мышку.
 # sent_id = 344
-# text = ацгвы аIынап IзIаттi
+# text = ацгвы аIынап IзIатI
 # text_name = Repka_AjsanovaFB_11072017
 1	ацгвы	ацгвы	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-кошка|Segment=а-цгвЫ
 2	аIынап	аIынап	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-мышь|Segment=а-хӏвЫнап
@@ -3908,7 +3908,7 @@
 
 # ft_rus = Все вместе тянули-тянули и вытянули репку.
 # sent_id = 345
-# text = зымIа йацыта йIхъIйIхъын ацыца Iлыржватi
+# text = зымIа йацыта йIхътi йIхъын ацыца IлыржваI
 # text_name = Repka_AjsanovaFB_11072017
 1	зымIа	зымIа	_	_	_	_	_	_	_|Gloss=все|Segment=зымгӏвА
 2	йацыта	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|Gloss=3h.abs-вместе|Segment=й-ацЫта
@@ -4009,7 +4009,7 @@
 
 # ft_rus = пригласив его слушали в.зале находясь учащиеся которые.были все, учащиеся девятьсот около было.бы,если.не.больше,  и преподавателей немало
 # sent_id = 353
-# text = дIдрайгван ауи IыздзырIуан азал IIната апхьачвата йыъу зымIа апхьаIчваква жвшвыIаъара йнадзарын йайIмызтын арыпхьаIчваквагьи гьмаIызд
+# text = дIдрайгван ауи IыздзырIуан азал IIната апхьачвата йыъу зымIа апхьаIчваква жвшвыкi аъара йнадзарын йайIмызтын арыпхьаIчваквагьи гьмаIызд
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	дIдрайгван	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3|Tense=Past|Voice=Cau	_	_	_	3h.abs|3pl.erg|_|caus|csl|Gloss=3h.abs-csl-3pl.erg-caus-заходить-pst|pst|Segment=д-гӏа-д-р-Айгва-н
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -4115,7 +4115,7 @@
 
 # ft_rus = отец сидя один-два.раза рука бить (хлопал), сказал
 # sent_id = 359
-# text = Iбагьи дIанта зныIiванIнаI дсзасд йIад
+# text = Iбагьи дIанта зныIiванкi наI дсзасд йIад
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	Iбагьи	агьи	_	_	Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|add|Gloss=1pl.io-отец-add|Segment=хӏ-Аба-гьи
 2	дIанта	_	ADV	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|adv|Gloss=3h.abs-сидеть-adv|Segment=д-чӏвАн-та
@@ -4268,7 +4268,7 @@
 
 # ft_rus = танцев кроме говорит я народность СССР которые.живут у всех по.одной песне или куплету знаю говорит
 # sent_id = 370
-# text = аIIра аIымIагьи йIад сара уаIхъата ссср йту зымIа рпны заIзаIуарад йа куплетIздырид йIад
+# text = аIIра аIымIагьи йIад сара уаIхъата ссср йту зымIа рпны заIзакi уарад йа куплеткi здырид йIад
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	аIIра	аIIра	_	_	_	_	_	_	_|Gloss=танец|Segment=агӏахӏврА
 2	аIымIагьи	_	_	_	_	_	_	_	3n.io+|_|add|Gloss=3n.io+кроме-add|Segment=Акӏвымкӏва-гьи
@@ -4300,7 +4300,7 @@
 
 # ft_rus = Махмут есть ты так певучий, если.ты такой умный на абазинском языке песню спой, говорю
 # sent_id = 372
-# text = махмут есть уара ауаса уанIоузара уангвыбзыгъадзазара абазабызшвала уарадIIа сIид
+# text = махмут есть уара ауаса уанIоузара уангвыбзыгъадзазара абазабызшвала уарадкi Iа сIид
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	махмут	махмут	_	_	_	_	_	_	_|Gloss=Махмут|Segment=Махмут
 2	есть	есть	_	_	_	_	_	_	_|Gloss=есть|Segment=есть
@@ -4315,7 +4315,7 @@
 
 # ft_rus = или куплет или песню… так говорю ему я
 # sent_id = 373
-# text = йа тшIараIйа уарадIйа тшIараIйа уарадIауаса йсIид
+# text = йа тшIаракi йа уарадкi йа тшIаракi йа уарадкi ауаса йсIид
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	я	я	_	_	_	_	_	_	_|Gloss=или|Segment=я
 2	тшIаракI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=?-indf|indf|Segment=тшчӏвАра-кӏ
@@ -4440,7 +4440,7 @@
 
 # ft_rus = это что.я.спел четыре.этих часть спетое четыре строчки
 # sent_id = 382
-# text = ари йсIаз апщдынаIатшIара йсIаз апщстрочкакi
+# text = ари йсIаз апщдынакi атшIара йсIаз апщстрочкаI
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
 2	йсIаз	_	_	_	Number[erg]=Sing|Person[erg]=1	_	_	_	1sg.erg|_|Gloss=rel.abs-1sg.erg-говорить-pst.nfin|pst.nfin|rel.abs|Segment=й-с-хӏва-з
@@ -4461,7 +4461,7 @@
 
 # ft_rus = это другие да еще четыре-это.самое четыре куплетов есть их я.не.знаю
 # sent_id = 384
-# text = ари датшагьи щта ужвыгьи пщстдына пщкуплетIамаб ауат гьсыздырам
+# text = ари датшагьи щта ужвыгьи пщстдына пщкуплеткi амаб ауат гьсыздырам
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	ари	ари	_	_	_	_	_	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
 2	датшагьи	_	_	_	_	_	_	_	_|add|Gloss=другой-add|Segment=датша-гьИ
@@ -4521,7 +4521,7 @@
 
 # ft_rus = знаемую мной другую песню спеть можно говорю
 # sent_id = 388
-# text = йздыруа датшауарадIуасI йауашма сIид
+# text = йздыруа датшауарадкi уасI йауашма сIид
 # text_name = DzhuzhuevKM_20180719_Isanbaev_pesnja
 1	йздыруа	_	VERB	_	Aspect=Imp|Number[erg]=Sing|Person[erg]=1	_	_	_	1sg.erg|_|Gloss=rel.abs-1sg.erg-знать-ipf|ipf|rel.abs|Segment=й-з-дЫр-уа
 2	датшауарадкI	_	NOUN	_	Definite=Ind	_	_	_	_|Gloss=другой-песня-indf|indf|Segment=датша-уарАд-кӏ
@@ -4598,7 +4598,7 @@
 
 # ft_rus = Все коровы всего аула вольно стоят [на дороге].
 # sent_id = 395
-# text = зымIа акыт шабгу рырахв вольната арахв акыт йыквпi
+# text = зымIа акыт шабгу рырахв вольната арахв акыт йыквI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	зымIа	зымIа	_	_	_	_	_	_	_|Gloss=всё|Segment=зымгӏвА
 2	акыт	акыт	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-аул|Segment=а-кЫт
@@ -4624,7 +4624,7 @@
 
 # ft_rus = Весной у нас не было уже коровы, мы оставили корову одну.
 # sent_id = 397
-# text = араъа аIпын асхъан рахвы гьIмахмызII жвIысIIныIьын
+# text = араъа аIпын асхъан рахвы гьIмахмызтi I жвIыскi IныIьын
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	араъа	_	_	_	_	_	_	_	_|Gloss=proχ-loc|loc|proχ|Segment=ара-ъА
 2	аIпын	аIпын	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-весна|Segment=А-гӏапын
@@ -4637,7 +4637,7 @@
 
 # ft_rus = Когда мы её выпустили, в этот же день, земля раскололась, и потеряли (в землю провалилась)
 # sent_id = 398
-# text = йтыIтын зтшын йтаIтыз адгьыл аIпан йгьIаухтi
+# text = йтыIтын зтшын йтаIтыз адгьыл аIпан йгьIаухI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	йтыIтын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|Tense=Past	_	_	_	1pl.erg|3n.abs|_|Gloss=3n.abs-loc.elat-1pl.erg-отпускать-pst|loc.elat|pst|Segment=й-тЫ-хӏ-щты-н
 2	зтшын	_	_	_	_	_	_	_	_|Gloss=rel.io-день|rel.io|Segment=з-тшын
@@ -4666,7 +4666,7 @@
 
 # ft_rus = Коровы сами выходят по утрам. Немножко там пасутся, и потом приходят обратно. Когда солнце стоит, по переулкам ходят, даже машинам мешают. по асфальту сидят.
 # sent_id = 401
-# text = арахв хвитта дарадара тыIIщымтала даI йнадрысIиIа йIхъын IиIа амара араса йышгылуа аурам йIбжьалхиIа даже амашинаква мешать йырчпиIаурам асфальт йыквгылапi
+# text = арахв хвитта дарадара тыIтi щымтала даI йнадрысIиIа йIхъын IиIа амара араса йышгылуа аурам йIбжьалхиIа даже амашинаква мешать йырчпитi аурам асфальт йыквгылаI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	арахв	арахв	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-скот|Segment=А-рахв
 2	хвитта	_	ADV	_	_	_	_	_	_|adv|Gloss=свободный-adv|Segment=хвИт-та
@@ -4698,7 +4698,7 @@
 
 # ft_rus = Ты что больше не хочешь сохранить свою корову? но они упитанные, сытые, потому что они на воле.
 # sent_id = 403
-# text = уыжв угьамайхчума угьамайгвгъума но ауат йпсылаIсытые потому что вольно йыквпi
+# text = уыжв угьамайхчума угьамайгвгъума но ауат йпсылапi сытые потому что вольно йыквI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	уы́жв	_	_	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=2	_	_	_	2m.io|_|Gloss=2m.io-корова|Segment=уы́-жв
 2	угьамайхчума	_	VERB	_	Aspect=Imp|Gender[abs]=Masc|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=2|Person[dat]=3	_	_	_	2m.abs|3n.io|_|Gloss=2m.abs-neg.emp-3n.io-?-?-?-охранять-ipf-q|ipf|neg.emp|q|Segment=у-гь-а-м-А-й-хч-у-ма
@@ -4714,7 +4714,7 @@
 
 # ft_rus = Они (коровы) не смотрят на урожай, они не знают, что они вредят этим. Если у тебя есть скот, если выгоняешь коров. Плати (букв. давай цену) пастуху, чтобы ты не беспокоился, не волновался. Плати за его труд (за то, что он устает). Когда он их пасет под дождем, и мокнет под дождем. Да, верно, тем, кто три-четыре [коровы] выгоняет, им трудно. У кого две трудно. Хотя и трудно, но это так не годится.
 # sent_id = 404
-# text = атшыIра йгьапшуам ауи шйызараруа гьырдырам рахвыIуымазтын уыжвква туIзтын угвы бжамква арахвхча йыхв йыта йIпсаша йыта аква йыквырIа ауи йанихчара асхъан щта IбыргыIхпапщба тызцауа йычвIтлахушIIба тызцауа ауи йычвIтлахушIйучвIтлазтынгьи йгьауам ауи заI
+# text = атшыIра йгьапшуам ауи шйызараруа гьырдырам рахвыкi уымазтын уыжвква туIзтын угвы бжамква арахвхча йыхв йыта йIпсаша йыта аква йыквырIа ауи йанихчара асхъан щта Iбыргыпi хпапщба тызцауа йычвIтлахуштi Iба тызцауа ауи йычвIтлахуштi йучвIтлазтынгьи йгьауам ауи заI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	атшыIра	атшыIра	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-урожай|Segment=а-тшыгӏврА
 2	йгьапшуам	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|Polarity=Neg	_	_	_	3n.abs|3n.io|_|Gloss=3n.abs-neg.emp-3n.io-смотреть-ipf-neg|ipf|neg|neg.emp|Segment=й-гь-а-пш-уА-м
@@ -4753,7 +4753,7 @@
 
 # ft_rus = Так не годится. Потому что (букв. если говорить, почему) сейчас если пройтись от этой остановки до Конзавода, скот там [стоит]. (Конзавод - название нас. Пункта)
 # sent_id = 405
-# text = йгьауам ауи заI йауа уIарыквын ужвжвы унаджвыквылта ари аостановка уалагата дына конзаводдза арахв араса йыквпi
+# text = йгьауам ауи заI йауа уIарыквын ужвжвы унаджвыквылта ари аостановка уалагата дына конзаводдза арахв араса йыквI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	йгьауам	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Polarity=Neg	_	_	_	3n.abs|_|Gloss=3n.abs-neg.emp-?-neg|neg|neg.emp|Segment=й-гь-ауА-м
 2	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
@@ -4773,7 +4773,7 @@
 
 # ft_rus = Машины крича  (=сигналя), объезжая с той и с другой стороны (туда-сюда танцуя), на дороге стоят, не уходя.
 # sent_id = 406
-# text = амашинаква йыIаIiауа йнарыIша IрыIшауа амIа йыквгылаIйыквымIата
+# text = амашинаква йыIаIiауа йнарыIша IрыIшауа амIа йыквгылапi йыквымIата
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	амашинаква	амашиква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-машина-pl|pl|Segment=а-машИна-ква
 2	йыIаIIауа	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=3	_	_	_	3pl.abs|_|Gloss=3pl.abs-кричать-ipf|ipf|Segment=йы-чӏвагӏгӏА-уа
@@ -4806,7 +4806,7 @@
 
 # ft_rus = Люди в ауле все… Мы всем довольны наш совет (глава администрации) работающий, такого нет, можно сказать.
 # sent_id = 409
-# text = ауаI акыт йаъаIзымIата зымIалагьи IазыIIыт асовет йынхауа йапш дгьаъам Iатагьи йауаштi
+# text = ауаI акыт йаъапi зымIата зымIалагьи Iазыпi Iыт асовет йынхауа йапш дгьаъам Iатагьи йауашI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	ауаI	ауаI	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-народ|Segment=а-уагӏА
 2	акыт	акыт	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-аул|Segment=а-кЫт
@@ -4824,7 +4824,7 @@
 
 # ft_rus = Он начал молодым, Джантемиров Фуад.
 # sent_id = 410
-# text = дычIынта далагаIджантемыр фуъад
+# text = дычIынта далагатi джантемыр фуъад
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	дычIынта	_	ADV	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	_	_	_	3h.abs|_|adv|Gloss=3h.abs-молодой-adv|Segment=ды-чкӏвЫн-та
 2	далагатI	_	_	_	Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	_	_	_	3h.abs|3n.io|_|dcl|Gloss=3h.abs-3n.io-начинать-dcl|Segment=д-А-лага-тӏ
@@ -4833,7 +4833,7 @@
 
 # ft_rus = Он все дороги сделал.
 # sent_id = 411
-# text = ауи амIаква дирычпатi
+# text = ауи амIаква дирычпаI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	амIаква	амIква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-дорога-pl|pl|Segment=А-мгӏва-ква
@@ -4841,7 +4841,7 @@
 
 # ft_rus = Заасфальтировал весь аул (по всему аулу). Все, что нужно, по возможности, сделал. Он только начал (это только начало)
 # sent_id = 412
-# text = асфальт ари акыт йаIшауата зымIа йатахъыз дирычпиIйшитлакьуа ужвы аIIданалага
+# text = асфальт ари акыт йаIшауата зымIа йатахъыз дирычпитi йшитлакьуа ужвы аIпi даналага
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	асфальт	асфальт	_	_	_	_	_	_	_|Gloss=асфальт|Segment=а-сфАльт
 2	ари	ари	_	_	_	_	_	_	_|Gloss=proχ|proχ|Segment=ари
@@ -4869,7 +4869,7 @@
 
 # ft_rus = кладбище сделал блестящим (навел порядок)
 # sent_id = 414
-# text = анышвынтара йкIуа йдирычпатi
+# text = анышвынтара йкIуа йдирычпаI
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	анышвынтара	анышвынтара	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-кладбище|Segment=а-нЫшвынтара
 2	йкIуа	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|Gloss=3n.abs-rel.abs-светиться-ipf|ipf|rel.abs|Segment=й-ккӏа-уА
@@ -4877,7 +4877,7 @@
 
 # ft_rus = Асфальт сделал, огородил. Не было такого человека (никто не занимал этого поста, как он). И в дальнейшем я желаю ему  здоровья (дай Бог ему иметь крепкое здоровье), Фуад Джантемыр, Фуад.
 # sent_id = 415
-# text = асфальт йчпаIйIйыршахIйыгьIнымшасIауи апшта вообще йгьи дыгьIмгылIзынгьи ужвыгьи Iпхъа хьгьи Iпхъахьылагьи йаллаIазIадара йымата фуъад джьантемыр фуъад
+# text = асфальт йчпатi йIйыршахтi йыгьIнымшастi ауи апшта вообще йгьи дыгьIмгылтi зынгьи ужвыгьи Iпхъа хьгьи Iпхъахьылагьи йаллахi азIадара йымата фуъад джьантемыр фуъад
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	асфальт	асфальт	_	_	_	_	_	_	_|Gloss=асфальт|Segment=асфАльт
 2	йчпатI	_	_	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	_	_	_	3m.erg|_|dcl|Gloss=3m.erg-делать-dcl|Segment=й-чпА-тӏ
@@ -4933,7 +4933,7 @@
 
 # ft_rus = Есть старшие, есть младшие. Cтариков очень мало осталось. Но они есть, ему хватит, пускай они ему помогают тоже.
 # sent_id = 418
-# text = аIа даъаIайIа даъаIажвыIква щардаIы йаъахымызтынгьи йаъаIужвыгьи йыъу йзынахъушIйыIгылырIтi
+# text = аIа даъапi айIа даъапi ажвыIква щардаIы йаъахымызтынгьи йаъапi ужвыгьи йыъу йзынахъуштi йыIгылырII
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	аIа	аIа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-старший|Segment=а-хӏбА
 2	даъапI	_	VERB	_	Gender[abs]=Com|Gender[dat]=Neut|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|Tense=Pres	_	_	_	3h.abs|3n.io|_|Gloss=3h.abs-3n.io-быть-npst.dcl|npst.dcl|Segment=д-а-ъА-пӏ
@@ -4950,7 +4950,7 @@
 
 # ft_rus = Сделает, и даст Бог, успеет все сделать.
 # sent_id = 419
-# text = йчпуш йчпушIйгьи аллаIйIузтын дахайырдзата
+# text = йчпуш йчпуштi йгьи аллахi йIузтын дахайырдзата
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	йчпуш	_	VERB	_	Aspect=Imp|Tense=Fut	_	_	_	3n.abs/rel.abs|_|fut|Gloss=3n.abs/rel.abs-делать-ipf-fut|ipf|Segment=й-чп-у-ш
 2	йчпуштI	_	VERB	_	Aspect=Imp|Tense=Fut	_	_	_	3n.abs/rel.abs|_|dcl|fut|Gloss=3n.abs/rel.abs-делать-ipf-fut-dcl|ipf|Segment=й-чп-у-ш-тӏ
@@ -4971,7 +4971,7 @@
 
 # ft_rus = дай Аллах ему процветания. (больше жизнь красивой сделай, Аллах)
 # sent_id = 421
-# text = рыIгьи йбзазара йпшдзу йаллаIйчпа
+# text = рыIгьи йбзазара йпшдзу йаллахi йчпа
 # text_name = 2018.07.16_BidzhevaTA_1932_skot_asfalt
 1	рыIгьи	_	_	_	_	_	_	_	_|add|Gloss=более-add|Segment=рЫцӏа-гьи
 2	йбзазара	_	VERB	_	Gender[dat]=Masc|Number[dat]=Sing|Person[dat]=3|VerbForm=Vnoun	_	_	_	3m.io|_|Gloss=3m.io-жить-msd|msd|Segment=й-бзАза-ра
@@ -5015,7 +5015,7 @@
 
 # ft_rus = Купаться пошли.
 # sent_id = 426
-# text = тшIабара Iатi
+# text = тшIабара IаI
 # text_name = Letom_UshaOSh_13072017
 1	тшIабара	_	VERB	_	VerbForm=Vnoun	_	_	_	_|Gloss=rfl.abs-купать-msd|msd|rfl.abs|Segment=тш-кӏваба-рА
 2	IатI	_	_	_	Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-идти-dcl|Segment=хӏ-цА-тӏ
@@ -5029,7 +5029,7 @@
 
 # ft_rus = Мои друзья, которые знали глубину воды, направились туда.
 # sent_id = 428
-# text = сынбджьаIчваква йыздырквуз адзIлараква тшазырчпатi
+# text = сынбджьаIчваква йыздырквуз адзIлараква тшазырчпаI
 # text_name = Letom_UshaOSh_13072017
 1	сынбджьаIчваква	асыбджьаI	NOUN	_	Number=Plur|Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-друг-plh-pl|pl|plh|Segment=сЫ-нбджьагӏв-чва-ква
 2	йыздырквуз	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number=Plur|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|Gloss=3n.abs-rel.erg-знать-pl-ipf-pst.nfin|ipf|pl|pst.nfin|rel.erg|Segment=йы-з-дЫр-кв-у-з
@@ -5055,7 +5055,7 @@
 
 # ft_rus = которые не вошли в воду, стояли в сторонке.
 # sent_id = 431
-# text = йнатамылквазгьи аъаIIынала йгылата
+# text = йнатамылквазгьи аъапi Iынала йгылата
 # text_name = Letom_UshaOSh_13072017
 1	йнатамылквазгьи	_	NOUN	_	Number=Plur|Polarity=Neg	_	_	_	_|add|Gloss=rel.abs-trl-loc-neg-заходить-pl-pst.nfin-add|loc|neg|pl|pst.nfin|rel.abs|Segment=й-на-тА-мы-л-ква-з-гьи|trl
 2	аъапI	_	VERB	_	Tense=Pres	_	_	_	_|Gloss=быть-npst.dcl|npst.dcl|Segment=Аъа-пӏ
@@ -5082,7 +5082,7 @@
 
 # ft_rus = Начали плавать.
 # sent_id = 434
-# text = Iзцауа Iлагатi
+# text = Iзцауа IлагаI
 # text_name = Letom_UshaOSh_13072017
 1	Iзцауа	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|Gloss=1pl.abs-плавать-ipf|ipf|Segment=хӏ-дзца-уА
 2	IлагатI	_	_	_	Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-начать-dcl|Segment=хӏ-Алага-тӏ
@@ -5096,7 +5096,7 @@
 
 # ft_rus = Большинство вернулось из-за того, что было холодно.
 # sent_id = 436
-# text = ащардаIгьи IхъынIыхIхьшвашвахъаIрIан
+# text = ащардаIгьи IхъынIыхтi хьшвашвахъапi рIан
 # text_name = Letom_UshaOSh_13072017
 1	ащардаIгьи	ащардI	NOUN	_	Definite=Def	_	_	_	_|add|def|Gloss=def-много-nag-add|nag|Segment=а-щАрда-гӏв-гьи
 2	IхъынIыхтI	_	_	_	_	_	_	_	_|csl|dcl|Gloss=csl-loc-вернуться-dcl|loc|Segment=гӏА-хъын-хӏвых-тӏ
@@ -5126,7 +5126,7 @@
 
 # ft_rus = Потом друг один говорит:
 # sent_id = 440
-# text = уадырIана IнбджьаIIйIатi
+# text = уадырIана IнбджьаIкi йIаI
 # text_name = Letom_UshaOSh_13072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	IнбджьаIкI	анбджьаI	NOUN	_	Definite=Ind|Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-друг-indf|indf|Segment=хӏЫ-нбджьагӏв-кӏ
@@ -5134,7 +5134,7 @@
 
 # ft_rus = «Мы так и будем лежать, ничего не делать?
 # sent_id = 441
-# text = арса IIзлушма зыIьи Iмхъвауата йIатi
+# text = арса IIзлушма зыIьи Iмхъвауата йIаI
 # text_name = Letom_UshaOSh_13072017
 1	арса	арса	_	_	_	_	_	_	_|Gloss=так|Segment=Арса
 2	IIзлушма	_	VERB	_	Aspect=Imp|Number[abs]=Plur|Person[abs]=1|Tense=Fut	_	_	_	1pl.abs|_|dyn|fut|Gloss=1pl.abs-лежать-dyn-ipf-fut-q|ipf|q|Segment=хӏ-щтӏА-зл-у-ш-ма
@@ -5144,7 +5144,7 @@
 
 # ft_rus = Если можно, пойдем собирать ягоды, если там есть, будет есть ежевику», – сказал.
 # sent_id = 442
-# text = швней йауашызтын жвумп йгьи Iра аъазтын йIIъвшваIйIаIмагърейква IIъвшваIйIан
+# text = швней йауашызтын жвумп йгьи Iра аъазтын йIIъвшвапi йIатi магърейква IIъвшвапi йIан
 # text_name = Letom_UshaOSh_13072017
 1	швней	швней	_	_	_	_	_	_	_|Gloss=если|Segment=швнЕй
 2	йауашызтын	_	VERB	_	Gender[abs]=Neut|Mood=Cnd|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|cond.real|Gloss=3n.abs-можно-cond.real|Segment=й-ауАшы-зтын
@@ -5160,7 +5160,7 @@
 
 # ft_rus = «Хорошо, хорошо», – сказали мы, мы чуть проголодались тогда.
 # sent_id = 443
-# text = йауашIйауашIIiван Iргьи II Iащута аIын Iаъаз
+# text = йауаштi йауаштi Iiван Iргьи II Iащута аIын Iаъаз
 # text_name = Letom_UshaOSh_13072017
 1	йауаштI	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|dcl|Gloss=3n.abs-можно-dcl|Segment=й-ауАш-тӏ
 2	йауаштI	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|dcl|Gloss=3n.abs-можно-dcl|Segment=й-ауАштӏ
@@ -5181,7 +5181,7 @@
 
 # ft_rus = Мы собрались вместе и отправились туда, где ягоды.
 # sent_id = 445
-# text = тшадIiлын IжвыквылIщта жвумп ахьъанызла Iан
+# text = тшадIiлын Iжвыквылтi щта жвумп ахьъанызла Iан
 # text_name = Letom_UshaOSh_13072017
 1	тшадIIлын	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Past	_	_	_	1pl.erg|3sg.n.io|_|Gloss=rfl.abs-3sg.n.io-loc-1pl.erg-собираться-pst|loc|pst|rfl.abs|Segment=тш-а-д-хӏ-кӏлЫ-н
 2	IжвыквылтI	_	_	_	Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-отправляться-dcl|Segment=хӏ-джвЫквыл-тӏ
@@ -5192,7 +5192,7 @@
 
 # ft_rus = Немного нашли, но еще дальше поднялись.
 # sent_id = 446
-# text = маIiгьи IIуIауаса унаскьапхьадзагьи раI раI
+# text = маIiгьи IIутi ауаса унаскьапхьадзагьи раI раI
 # text_name = Letom_UshaOSh_13072017
 1	маIIгьи	_	_	_	_	_	_	_	_|add|Gloss=немного-add|Segment=мАчӏкӏ-гьи
 2	IIутI	_	_	_	Number[erg]=Plur|Person[erg]=1	_	_	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-найти-dcl|Segment=гӏа-хӏ-Ау-тӏ
@@ -5210,7 +5210,7 @@
 
 # ft_rus = Наели полный живот, отдохнули.
 # sent_id = 448
-# text = Iмгва азна IаIIвы Iындзыкьа IаIтшпIатi
+# text = Iмгва азна Iатi Iвы Iындзыкьа Iатi тшпIаI
 # text_name = Letom_UshaOSh_13072017
 1	Iмгва	амгва	_	_	Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-живот|Segment=хӏЫ-мгва
 2	азна	азна	_	_	_	_	_	_	_|Gloss=полный|Segment=Азна
@@ -5222,14 +5222,14 @@
 
 # ft_rus = Собрали ежевику.
 # sent_id = 449
-# text = магъврейквамагъврейквагьи IIъвшватi
+# text = магъврейквамагъврейквагьи IIъвшваI
 # text_name = Letom_UshaOSh_13072017
 1	магъврейквагьи	_	NOUN	_	Number=Plur	_	_	_	_|add|Gloss=ежевика-pl-add|pl|Segment=магъврЕй-ква-гьи
 2	IIъвшватI	_	_	_	Number[erg]=Plur|Person[erg]=1	_	_	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-собирать-dcl|Segment=гӏА-хӏ-къвшва-тӏ
 
 # ft_rus = Много взяли для друзей, которых не было с нами, и принесли для них.
 # sent_id = 450
-# text = къомIьи йIIхвын IнбджьаIчваква йнамикваз рыхъаз йрызIIатi
+# text = къомIьи йIIхвын IнбджьаIчваква йнамикваз рыхъаз йрызIIаI
 # text_name = Letom_UshaOSh_13072017
 1	къомIьи	_	NOUN	_	Definite=Ind	_	_	_	.|_|add|Gloss=сколько.то-indf-add|indf|Segment=къОм-кӏ-гьи
 2	йIIхвын	_	VERB	_	Case=Dat|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|Tense=Past	_	_	_	1pl.erg|3n.abs|_|csl|dat|Gloss=3n.abs-csl-1pl.erg-dat-брать-pst|pst|Segment=й-гӏа-хӏ-Ахвы-н
@@ -5257,7 +5257,7 @@
 
 # ft_rus = Начали купаться, друг друга обливая и друг друга заставляя нырять.
 # sent_id = 453
-# text = тшIабара IталагахIаджваджв дзы йыквийчвиIаджваджв тшыIйрышвитi
+# text = тшIабара Iталагахтi аджваджв дзы йыквийчвитi аджваджв тшыIйрышвиI
 # text_name = Letom_UshaOSh_13072017
 1	тшIабара	_	VERB	_	VerbForm=Vnoun	_	_	_	_|Gloss=rfl.abs-купать-msd|msd|rfl.abs|Segment=тш-кӏваба-рА
 2	IталагахтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-rep-начинать-re-dcl|re|rep|Segment=хӏ-ат-Алага-х-тӏ
@@ -5269,7 +5269,7 @@
 
 # ft_rus = Потом один из нас сказал: «перестаньте, мы уже достаточно купались,
 # sent_id = 454
-# text = иуадырIана аджв йIан шваIсх йнахъаIтшъадзаIiвабаз щта
+# text = иуадырIана аджв йIан шваIсх йнахъапi тшъадзаIiвабаз щта
 # text_name = Letom_UshaOSh_13072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	аджв	_	_	_	_	_	_	_	_|Gloss=кто-то|Segment=Аджв
@@ -5281,7 +5281,7 @@
 
 # ft_rus = теперь наши матери и отцы будут переживать, они не знают, где мы,
 # sent_id = 455
-# text = ужвы Iнчваква йгьиква Iбачваква ргвы акъвпуашIIау атараз гьырдырам
+# text = ужвы Iнчваква йгьиква Iбачваква ргвы акъвпуаштi Iау атараз гьырдырам
 # text_name = Letom_UshaOSh_13072017
 1	ужвы	ужвы	_	_	_	_	_	_	_|Gloss=сейчас|Segment=ужвЫ
 2	Iнчваква	ачвква	NOUN	_	Number=Plur|Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-мать-plh-pl|pl|plh|Segment=хӏ-Ан-чва-ква
@@ -5311,21 +5311,21 @@
 
 # ft_rus = Вышли из воды, оделись.
 # sent_id = 458
-# text = IiатыIIтшаIiвычахын
+# text = IiатыIтi тшаIiвычахын
 # text_name = Letom_UshaOSh_13072017
 1	IIатыIтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|csl|dcl|Gloss=1pl.abs-csl-loc-выйти-re-dcl|loc|re|Segment=хӏ-гӏа-тЫ-цӏ-х-тӏ
 2	тшаIIвычахын	_	VERB	_	Aspect=Refactive|Case=Dat|Number[dat]=Plur|Person[dat]=1|Tense=Past	_	_	_	1pl.io|_|dat|Gloss=rfl.abs-dat-1pl.io-loc-одеть-re-pst|loc|pst|re|rfl.abs|Segment=тш-а-гӏ-гӏвЫ-ча-хы-н
 
 # ft_rus = Пошли по домам.
 # sent_id = 459
-# text = IнаIаквала Iахтi
+# text = IнаIаквала IахI
 # text_name = Letom_UshaOSh_13072017
 1	IнаIаквала	аунаIквла	NOUN	_	Case=Ins|Number=Plur|Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-семья-pl-ins|ins|pl|Segment=хӏ-Унагӏва-ква-ла
 2	IахтI	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-идти-re-dcl|re|Segment=хӏ-ца-х-тӏ
 
 # ft_rus = Там, куда мы пришли, я маму встретил, сказал ей:
 # sent_id = 460
-# text = Iацахыз аса мыма дIсынйан Iн йласIитi
+# text = Iацахыз аса мыма дIсынйан Iн йласIиI
 # text_name = Letom_UshaOSh_13072017
 1	Iацахыз	_	_	_	Aspect=Refactive|Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|Gloss=1pl.abs-rel.loc-идти-re-pst.npst|pst.npst|re|rel.loc|Segment=хӏ-ъа-цА-хы-з
 2	са	са	_	_	_	_	_	_	_|Gloss=я|Segment=сА
@@ -5336,7 +5336,7 @@
 
 # ft_rus = «Мы были там, то делали, это делали».
 # sent_id = 461
-# text = абараъа IъарIаIари IпаIани Iпатi
+# text = абараъа IъарIапi ари Iпатi ани IпаI
 # text_name = Letom_UshaOSh_13072017
 1	абараъа	абараъа	_	_	_	_	_	_	.loc|_|Gloss=вот.loc|Segment=абараъА
 2	IъарIапI	_	VERB	_	Aspect=Cont|Number[abs]=Plur|Person[abs]=1|Tense=Pres	_	_	_	1pl.abs|_|cnt|Gloss=1pl.abs-быть-cnt-npst.dcl|npst.dcl|Segment=хӏ-аъА-ркӏва-пӏ
@@ -5347,7 +5347,7 @@
 
 # ft_rus = «С кем ты был?» – спросила она. «С друзьями, с которыми я учусь в школе», – сказал я.
 # sent_id = 462
-# text = йуыцквазда лIан сынбджьаIчваква сыцын ашкол апхьарта йсыцапхьаквуз сIатi
+# text = йуыцквазда лIан сынбджьаIчваква сыцын ашкол апхьарта йсыцапхьаквуз сIаI
 # text_name = Letom_UshaOSh_13072017
 1	йуыцквазда	_	VERB	_	Case=Com|Gender[dat]=Masc|Number=Plur|Number[dat]=Sing|Person[dat]=2	_	_	_	2m.io|_|com|Gloss=rel.abs-2m.io-com-pl-pst.nfin-qh|pl|pst.nfin|qh|rel.abs|Segment=й-уЫ-ц-ква-з-да
 2	лIан	_	VERB	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Past	_	_	_	3f.erg|_|Gloss=3f.erg-говорить-pst|pst|Segment=л-хӏвА-н
@@ -5360,7 +5360,7 @@
 
 # ft_rus = «Тогда хорошо, здорово, – сказала она, – как хорошо, что вы пришли.
 # sent_id = 463
-# text = щта йауашIIльаматIлIаIйзаI бзи швIйхйа
+# text = щта йауаштi Iльаматпi лIатi йзаI бзи швIйхйа
 # text_name = Letom_UshaOSh_13072017
 1	щта	щта	_	_	_	_	_	_	_|Gloss=да|Segment=щтА
 2	йауаштI	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|dcl|Gloss=3n.abs-ладно-dcl|Segment=й-ауАш-тӏ
@@ -5372,7 +5372,7 @@
 
 # ft_rus = Я всё поесть приготовила, но почему ты своих друзей не привел?» – сказала.
 # sent_id = 464
-# text = йуфушгьи хъагьи зымIа срыIзырхьаIауаса уынбджьаIчваква зIуымдйа лIатi
+# text = йуфушгьи хъагьи зымIа срыIзырхьатi ауаса уынбджьаIчваква зIуымдйа лIаI
 # text_name = Letom_UshaOSh_13072017
 1	йуфушгьи	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Gender[erg]=Masc|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=2|Tense=Fut	_	_	_	2m.erg|3n.abs|_|add|fut|Gloss=3n.abs-2m.erg-есть-ipf-fut-add|ipf|Segment=й-у-ф-У-ш-гьи
 2	хъагьи	_	_	_	_	_	_	_	_|add|Gloss=начало-add|Segment=хъа-гьИ
@@ -5385,7 +5385,7 @@
 
 # ft_rus = «Не знал, мама, что ты приготовила, поэтому я не привел.
 # sent_id = 465
-# text = йыгьсымдырIмыма ауи апш бIзырта ауи аIIйызIсмахвыз
+# text = йыгьсымдыртi мыма ауи апш бIзырта ауи аIпi йызIсмахвыз
 # text_name = Letom_UshaOSh_13072017
 1	йыгьсымдыртI	_	_	_	Gender[dat]=Neut|Number[dat]=Sing|Number[erg]=Sing|Person[dat]=3|Person[erg]=1|Polarity=Neg	_	_	_	1sg.erg|3n.io|_|dcl|Gloss=3n.io-neg.emp-1sg.erg-neg-знать-dcl|neg|neg.emp|Segment=йы-гь-сы-м-дЫр-тӏ
 2	мыма	мыма	_	_	_	_	_	_	_|Gloss=мама|Segment=мЫма
@@ -5398,7 +5398,7 @@
 
 # ft_rus = В следующий раз буду знать, как нужно обращаться с друзьями.
 # sent_id = 466
-# text = ужвинас йыздырIнбджьаI йышйыщтаныкъвуш нбджьаI
+# text = ужвинас йыздырпi нбджьаI йышйыщтаныкъвуш нбджьаI
 # text_name = Letom_UshaOSh_13072017
 1	ужвинас	ужвинас	_	_	_	_	_	_	_|Gloss=впредь|Segment=ужвинАс
 2	йыздырпI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	_	_	_	1sg.erg|3n.abs|_|Gloss=3n.abs-1sg.erg-знать-npst.dcl|npst.dcl|Segment=йы-з-дЫр-пӏ
@@ -5408,7 +5408,7 @@
 
 # ft_rus = Целый день был с ним, пригласи его в дом, пусть он у нас покушает, чтобы он ел у нас хлеб-соль», – сказал я.
 # sent_id = 467
-# text = амш абгу уанйызцара унаIа дIддалта дIрайгвата псимлаIйIа йауашIсIатi
+# text = амш абгу уанйызцара унаIа дIддалта дIрайгвата псимлахi йIа йауаштi сIаI
 # text_name = Letom_UshaOSh_13072017
 1	амш	амш	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-день|Segment=А-мш
 2	абгу	_	VERB	_	Aspect=Imp	_	_	_	_|Gloss=целый-ipf|ipf|Segment=абг-У
@@ -5423,7 +5423,7 @@
 
 # ft_rus = «Хорошо, – сказала мама, – так и делай в следующий раз».
 # sent_id = 468
-# text = йауашIлIаIмыма ауаса йчпа лIатi
+# text = йауаштi лIатi мыма ауаса йчпа лIаI
 # text_name = Letom_UshaOSh_13072017
 1	йауаштI	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3	_	_	_	3n.abs|_|dcl|Gloss=3n.abs-ладно-dcl|Segment=й-ауАш-тӏ
 2	лIатI	_	_	_	Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3	_	_	_	3f.erg|_|dcl|Gloss=3f.erg-говорить-dcl|Segment=л-хӏвА-тӏ
@@ -5434,7 +5434,7 @@
 
 # ft_rus = Достаточно поговорили с мамой.
 # sent_id = 469
-# text = йнахъаIсIан саргьи мыма
+# text = йнахъапi сIан саргьи мыма
 # text_name = Letom_UshaOSh_13072017
 1	йнахъапI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|Tense=Pres	_	_	_	3n.abs|_|Gloss=3n.abs-достаточно-npst.dcl|npst.dcl|Segment=й-нахъА-пӏ
 2	сIан	_	VERB	_	Number[erg]=Plur|Person[erg]=1|Tense=Past	_	_	_	1pl.erg|_|Gloss=1pl.erg-говорить-pst|pst|Segment=с-хӏвА-н
@@ -5443,7 +5443,7 @@
 
 # ft_rus = Буду делать в следующий раз так, как мы с мамой договорились.
 # sent_id = 470
-# text = ауаса ужвинас ауаса йсчпаIIата IнIлIмымагьи саргьи
+# text = ауаса ужвинас ауаса йсчпапi Iата IнIлтi мымагьи саргьи
 # text_name = Letom_UshaOSh_13072017
 1	ауаса	ауаса	_	_	_	_	_	_	_|Gloss=так|Segment=ауАса
 2	ужвинас	ужвинас	_	_	_	_	_	_	_|Gloss=впредь|Segment=ужвинАс
@@ -5456,7 +5456,7 @@
 
 # ft_rus = Так закончилось наше однодневное купание.
 # sent_id = 471
-# text = ауыла атшын тшIабара Iлгатi
+# text = ауыла атшын тшIабара IлгаI
 # text_name = Letom_UshaOSh_13072017
 1	ауыла	_	_	_	Case=Ins	_	_	_	_|dist|Gloss=dist-ins|ins|Segment=ауЫ-ла
 2	атшын	атшын	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-день|Segment=А-тшын
@@ -5475,7 +5475,7 @@
 
 # ft_rus = Книгу не могли купить, тетрадь не могли купить, некому было меня учить.
 # sent_id = 473
-# text = книга гьсзымхвIзIтетрадь гьсзымхвIзIсазрыпхьушыз дыгьсымамызтi
+# text = книга гьсзымхвIзтi тетрадь гьсзымхвIзтi сазрыпхьушыз дыгьсымамызI
 # text_name = O_sebe_SanashokovaCKh_13072017
 1	книга	книга	_	_	_	_	_	_	_|Gloss=книга|Segment=книгА
 2	гьсзымхвIзтI	_	VERB	_	Aspect=Imp|Mood=Pot|Number[dat]=Sing|Person[dat]=1|Polarity=Neg	_	_	_	1sg.io|_|dcl|Gloss=neg-1sg.io-pot-neg-купить-ipf-pst.nfin-dcl|ipf|neg|pot|pst.nfin|Segment=гь-с-зЫ-м-хвгӏ-у-з-тӏ
@@ -5486,7 +5486,7 @@
 
 # ft_rus = Папы не стало, мамы не стало, три человека мы остались.
 # sent_id = 474
-# text = папагьи дыгьсымахымызIмамагьи дыгьсымахымызIхIы Iадзауата Iiанхатi
+# text = папагьи дыгьсымахымызтi мамагьи дыгьсымахымызтi хIы Iадзауата IiанхаI
 # text_name = O_sebe_SanashokovaCKh_13072017
 1	папагьи	_	_	_	_	_	_	_	_|add|Gloss=папа-add|Segment=пАпа-гьи
 2	дыгьсымахымызтI	_	_	_	Aspect=Refactive|Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|Polarity=Neg	_	_	_	1sg.io|3h.abs|_|dcl|Gloss=3h.abs-neg-1sg.io-имется-re-neg-dcl|neg|re|Segment=ды-гь-сЫ-ма-хы-мы-з-тӏ
@@ -5498,7 +5498,7 @@
 
 # ft_rus = Потом послали в поле.
 # sent_id = 475
-# text = уадырIана архъа архъа сдырцатi
+# text = уадырIана архъа архъа сдырцаI
 # text_name = O_sebe_SanashokovaCKh_13072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвАна
 2	архъа	архъа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-поле|Segment=А-рхъа
@@ -5507,7 +5507,7 @@
 
 # ft_rus = В поле отсчитывали по одному гектару, пололи-пололи были там.
 # sent_id = 476
-# text = архъа гектар зыIзаIIыIщIрIнта йIашвауайIашвауа Iквын ауаъа
+# text = архъа гектар зыIзакi IыIщIрIнта йIашвауайIашвауа Iквын ауаъа
 # text_name = O_sebe_SanashokovaCKh_13072017
 1	архъа	архъа	NOUN	_	Definite=Def	_	_	_	_|def|Gloss=def-поле|Segment=А-рхъа
 2	гектар	гектар	_	_	_	_	_	_	_|Gloss=гектар|Segment=гектАр
@@ -5584,7 +5584,7 @@
 
 # ft_rus = [zhs1930_f] Мы пахали с запряженными волами.
 # sent_id = 483
-# text =  ачвква аIIата IваIатi
+# text =  ачвква аIIата IваIаI
 # text_name = O_kolxoze2_SanashokovaCKh_13072017
 1	ачвква	аква	NOUN	_	Definite=Def|Number=Plur	_	_	_	_|def|Gloss=def-вол-pl|pl|Segment=а-чв-ква
 2	аIIата	_	ADV	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	_	_	_	3n.io|_|adv|Gloss=3n.io-loc-запрячь(res)-adv|loc|res|Segment=а-цӏа-хӏва-та
@@ -5609,7 +5609,7 @@
 
 # ft_rus = Потом, когда он поспел, нас посадили на тележку.
 # sent_id = 486
-# text = уадырIана ауат анауы асхъан ауандыр IквыдырIахтi
+# text = уадырIана ауат анауы асхъан ауандыр IквыдырIахI
 # text_name = O_kolxoze2_SanashokovaCKh_13072017
 1	уадырIана	уадырIана	_	_	_	_	_	_	_|Gloss=потом|Segment=уадыргӏвана
 2	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауат
@@ -5620,7 +5620,7 @@
 
 # ft_rus = Туда посадили, туда послали, картошку собирали, сажали, совхоз//колхоз.
 # sent_id = 487
-# text = аныла IквдырIаIныла IрщтиIIртоф IIъвшваIйлаIiаIсафхоз калхоз
+# text = аныла IквдырIатi ныла Iрщтитi Iртоф IIъвшватi йлаIiатi сафхоз калхоз
 # text_name = O_kolxoze2_SanashokovaCKh_13072017
 1	аныла	_	_	_	Case=Ins	_	_	_	_|Gloss=med-ins|ins|med|Segment=аны-ла
 2	IквдырIатI	_	VERB	_	Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Number[erg]=Plur|Person[abs]=1|Person[dat]=3|Person[erg]=3|Voice=Cau	_	_	_	1pl.abs|3n.io|3pl.erg|_|caus|dcl|Gloss=1pl.abs-3n.io-loc?(верх)-3pl.erg-caus-сидеть-dcl|loc|Segment=хӏ-а-кв-ды-р-чӏва-тӏ
@@ -5634,14 +5634,14 @@
 
 # ft_rus = Вот так мы жили.
 # sent_id = 488
-# text = ауепшымцара Iзазатi
+# text = ауепшымцара IзазаI
 # text_name = O_kolxoze2_SanashokovaCKh_13072017
 1	ауепшымцара	_	VERB	_	VerbForm=Conv	_	_	_	_|cvb|Gloss=?-cvb|Segment=ауепшы-мцара
 2	IзазатI	_	_	_	Number[abs]=Plur|Person[abs]=1	_	_	_	1pl.abs|_|dcl|Gloss=1pl.abs-жить-dcl|Segment=хӏ-бзаза-тӏ
 
 # ft_rus = Нас воспитала бабушка.
 # sent_id = 489
-# text = бабушI лаIIIра IаIахыз
+# text = бабушI лаIпi Iра IаIахыз
 # text_name = O_kolxoze2_SanashokovaCKh_13072017
 1	бабuшI	бабuшI	_	_	_	_	_	_	_|Gloss=бабушка|Segment=бабuшкӏа
 2	лаIпI	_	VERB	_	Tense=Pres	_	_	_	3f.|_|cop|Gloss=3f.-cop?-npst?|npst|Segment=ла-кӏв-пӏ
@@ -5671,7 +5671,7 @@
 
 # ft_rus = Она родилась в 1929-ом году.
 # sent_id = 492
-# text = лаба зкьи  жвшви Iажвыжвах асхъан дырщитi
+# text = лаба зкьи  жвшви Iажвыжвах асхъан дырщиI
 # text_name = O_dvojke_DzhuzhuevKM_09072017
 1	лаба	_	_	_	Gender[dat]=Fem|Number[dat]=Sing|Person[dat]=2	_	_	_	2f.io|_|Gloss=2f.io-отец|Segment=л-абА
 2	зкьи	зкьи	_	_	_	_	_	_	_|Gloss=тысяча|Segment=зкьи
@@ -5699,7 +5699,7 @@
 
 # ft_rus = В 1945-ом году её мать умерла от тифа.
 # sent_id = 494
-# text = ауат йIрылIа дампхьауата дIнхатi
+# text = ауат йIрылIа дампхьауата дIнхаI
 # text_name = O_dvojke_DzhuzhuevKM_09072017
 1	ауат	ауат	_	_	_	_	_	_	_|dist.pl|Gloss=dist.pl|Segment=ауат
 2	йIрылIа	_	_	_	Case=Ins	_	_	_	_|csl|Gloss=?-csl-?-выходить-ins|ins|Segment=й-гӏа-ры-л-цӏ-ла
@@ -5708,7 +5708,7 @@
 
 # ft_rus = В связи с этими событиями она (мать) не училась.
 # sent_id = 495
-# text = Iра Iапхьуз асхъан Iвыцквата Iапхьуз асхъан аIрыфква ллырдырын псайспадза зджьаIIнылхквун
+# text = Iра Iапхьуз асхъан Iвыцквата Iапхьуз асхъан аIрыфква ллырдырын псайспадза зджьакi Iнылхквун
 # text_name = O_dvojke_DzhuzhuevKM_09072017
 1	Iра	Iра	_	_	_	_	_	_	_|Gloss=мы|Segment=хӏара
 2	Iапхьуз	_	VERB	_	Aspect=Imp|Gender[dat]=Neut|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Past	_	_	_	1pl.abs|3n.io|_|Gloss=1pl.abs-rel.temp-3n.io-читать-ipf-pst|ipf|pst|rel.temp|Segment=хӏ-н-апхь-у-з
@@ -5745,7 +5745,7 @@
 
 # ft_rus = Однажды, когда я пошёл в школу, не подготовившись по родному языку, я получил двойку, двойку в тетрадь, и пошёл домой.
 # sent_id = 497
-# text = Iн дIсIiаIари йамIныйа  лIад
+# text = Iн дIсIiатi ари йамIныйа  лIад
 # text_name = O_dvojke_DzhuzhuevKM_09072017
 1	Iн	аан	_	_	Number[dat]=Plur|Person[dat]=1	_	_	_	1pl.io|_|Gloss=1pl.io-мать|Segment=хӏ-ан
 2	дIсIIатI	_	_	_	Gender[abs]=Com|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1	_	_	_	1sg.io|3h.abs|_|csl|dcl|Gloss=3h.abs-csl-1sg.io-спрашивать-dcl|Segment=д-гӏа-с-цӏгӏа-тӏ
@@ -5864,7 +5864,7 @@
 
 # ft_rus = С  того дня, благодаря нашей бедной маме, которой уже нет на свете, благодаря нашей бедной маме, мы изучали и её язык, и наш язык.
 # sent_id = 508
-# text = ауи спсыхындзIа йгьсхъаштылхуашым йсзыIнхаIтынхата сан рыIа йылIыта
+# text = ауи спсыхындзIа йгьсхъаштылхуашым йсзыIнхатi тынхата сан рыIа йылIыта
 # text_name = O_dvojke_DzhuzhuevKM_09072017
 1	ауи	ауи	_	_	_	_	_	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 2	спсыхындзIа	апсыынIа	_	_	Number[dat]=Sing|Person[dat]=1	_	_	_	1sg.io|_|Gloss=1sg.io-смерть-?-lim-конец|lim|Segment=с-псы-хын-дз-кӏьа
