@@ -193,15 +193,14 @@
 11	араъа	араъа	PRON	_	_	12	obl	_	_|Gloss=prox.loc|prox.loc|Segment=арАъа
 12	хIтищтырныс	_	VERB	_	Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Inf	10	ccomp	_	1pl.abs|3m.erg|_|Gloss=1pl.abs-loc.elat-3m.erg-пустить-purp|loc.elat|purp|Segment=хӏ-т-И-щты-рныс
 
-
 # ft_rus = Они начали делать длинную лестницу.
 # sent_id = 44
 # text = йалагатI чвымла ауыра рчпауа
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	йалагатI	_	VERB	_	Number[abs]=Plur|Person[abs]=3	0	root	_	3pl.abs|_|dcl|Gloss=3pl.abs-начинать-dcl|Segment=й-Алага-тӏ
 2	чвымла	чвымла	NOUN	_	_	4	obj	_	_|Gloss=лестница|Segment=чвЫмла
-3	ауы́ра	ауы́ра	ADJ	_	_	2	amod	_	_|Gloss=длинный|Segment=ауы́ра
-4	рчпауа	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=3	4	xcomp	_	3pl.erg|_|Gloss=3pl.erg-делать-ipf|ipf|Segment=р-чпА-уа
+3	ауыра	ауыра	ADJ	_	_	2	amod	_	_|Gloss=длинный|Segment=ауы́ра
+4	рчпауа	_	VERB	_	Aspect=Imp|Number[erg]=Plur|Person[erg]=3	1	ccomp	_	3pl.erg|_|Gloss=3pl.erg-делать-ipf|ipf|Segment=р-чпА-уа
 
 # ft_rus = Сделали лестницу и поставили, но не дойдешь до неба.
 # sent_id = 45
