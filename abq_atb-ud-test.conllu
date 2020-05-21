@@ -125,7 +125,7 @@
 1	йырган	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-нести-dcl|Segment=йы-р-га-н
 2	йырщын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	1	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-резать-dcl|Segment=йы-р-щы-н
 3	дара	дара	PRON	_	_	4	nsubj	_	_|Gloss=они|Segment=дара
-4	йырфахд	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	2	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-есть-re-dcl|re|Segment=йы-р-фа-х-д
+4	йырфахд	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	2	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-есть-re-dcl|re|Segment=йы-р-фа-х-д
 
 # ft_rus = И нам ничего не дали.
 # sent_id = 38
