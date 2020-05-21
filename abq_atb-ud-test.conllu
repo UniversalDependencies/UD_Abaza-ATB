@@ -33,17 +33,17 @@
 # sent_id = 29
 # text = саргьи ауи схъа йтаскIын апхьарта съадзапхьузгьи сангIалгагьи ауи акIвымкIва закIгьи гьстахъымызтI
 # text_name = Professija_AjsanovaFB_11072017
-1	саргьи	_	сара	_	_	4	nsubj	_	_|add|Gloss=я-add|Segment=сар-гьИ
-2	ауи	ауи	_	_	_	4	iobj	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
-3	схъа	ахъа	_	_	Number[dat]=Sing|Person[dat]=1	4	obj	_	1sg.io|_|Gloss=1sg.io-голова|Segment=с-хъА
+1	саргьи	сара	PRON	_	_	4	nsubj	_	_|add|Gloss=я-add|Segment=сар-гьИ
+2	ауи	ауи	PRON	_	_	4	iobj	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
+3	схъа	ахъа	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	obj	_	1sg.io|_|Gloss=1sg.io-голова|Segment=с-хъА
 4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Past	0	root	_	1sg.erg|3n.abs|_|Gloss=3n.abs-loc-1sg.erg-запомнить-pst|loc|pst|Segment=й-та-с-кIЫ-н
 5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
 6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	4	advmod	_	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
-7	сангIалгагьи	_	_	_	Number[abs]=Sing|Person[abs]=1	6	conj	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
-8	ауи	ауи	_	_	_	11	obl	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
-9	акIвымкIва	акIвымкIва	_	_	_	10	case	_	_|Gloss=кроме|Segment=АкIвымкIва
-10	закIгьи	_	_	_	_	11	nsubj	_	_|add|Gloss=один-add|Segment=закI-гьИ
-11	гьстахъымызтI	_	_	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	4	conj	_	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
+7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	6	conj	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
+8	ауи	ауи	PRON	_	_	11	obl	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
+9	акIвымкIва	акIвымкIва	ADP	_	_	10	case	_	_|Gloss=кроме|Segment=АкIвымкIва
+10	закIгьи	_	NUM	_	_	11	nsubj	_	_|add|Gloss=один-add|Segment=закI-гьИ
+11	гьстахъымызтI	_	VERB	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	4	conj	_	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
 
 # ft_rus = Когда закончила школу, пошла в институт.
 # sent_id = 30
@@ -103,10 +103,10 @@
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
 1	жвзаджвыкI	_	NUM	_	Number=Count	2	obj	_	_|cln|Gloss=корова-один-cln-unit|Segment=жв-за-джвы-кӏ|unit
 2	гIахIхвгIан	_	VERB	_	Number[erg]=Plur|Person[erg]=1	0	root	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-купить-dcl|Segment=гӏа-хӏ-хвгӏа-н
-3	йхIыман	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1	2	conj	_	1pl.io|3n.abs|_|dcl|Gloss=3n.abs-1pl.io-иметься-dcl|Segment=й-хӏы-ма-н
-4	нанаргIа	_	_	_	_	6	obl	_	_|aspl|Gloss=бабушка-aspl|Segment=нана-ргӏа
-5	рпны	апны	_	_	Number[dat]=Plur|Person[dat]=3	4	appos	_	3pl.io|_|Gloss=3pl.io-у|Segment=р-пны
-6	йгIахIыртын	_	_	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3	1	acl	_	1pl.io|3n.abs|3pl.erg|_|csl|dcl|Gloss=3n.abs-csl-1pl.io-3pl.erg-давать-dcl|Segment=й-гӏа-хӏы-р-ты-н
+3	йхIыман	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1	2	conj	_	1pl.io|3n.abs|_|dcl|Gloss=3n.abs-1pl.io-иметься-dcl|Segment=й-хӏы-ма-н
+4	нанаргIа	_	NOUN	_	_	6	obl	_	_|aspl|Gloss=бабушка-aspl|Segment=нана-ргӏа
+5	рпны	апны	ADP	_	Number[dat]=Plur|Person[dat]=3	4	appos	_	3pl.io|_|Gloss=3pl.io-у|Segment=р-пны
+6	йгIахIыртын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3	1	acl	_	1pl.io|3n.abs|3pl.erg|_|csl|dcl|Gloss=3n.abs-csl-1pl.io-3pl.erg-давать-dcl|Segment=й-гӏа-хӏы-р-ты-н
 
 # ft_rus = Родился бычок, и его забрали по контрактации
 # sent_id = 36
@@ -131,9 +131,9 @@
 # sent_id = 38
 # text = хIаргьи закIгьи гьгIахIырымтхд
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
-1	хIаргьи	_	_	_	_	3	iobj	_	_|add|Gloss=мы-add|Segment=хӏар-гьи
+1	хIаргьи	_	PRON	_	_	3	iobj	_	_|add|Gloss=мы-add|Segment=хӏар-гьи
 2	закIгьи	_	NOUN	_	Definite=Ind	3	obj	_	_|add|Gloss=один-indf-add|indf|Segment=за-кӏ-гьи
-3	гьгIахIырымтхд	_	_	_	Aspect=Refactive|Number[dat]=Plur|Number[erg]=Plur|Person[dat]=1|Person[erg]=3|Polarity=Neg	0	root	_	1pl.io|3pl.erg|_|csl|dcl|Gloss=neg.emp-csl-1pl.io-3pl.erg-neg-давать-re-dcl|neg|neg.emp|re|Segment=гь-гӏа-хӏы-ры-м-т-х-д
+3	гьгIахIырымтхд	_	VERB	_	Aspect=Refactive|Number[dat]=Plur|Number[erg]=Plur|Person[dat]=1|Person[erg]=3|Polarity=Neg	0	root	_	1pl.io|3pl.erg|_|csl|dcl|Gloss=neg.emp-csl-1pl.io-3pl.erg-neg-давать-re-dcl|neg|neg.emp|re|Segment=гь-гӏа-хӏы-ры-м-т-х-д
 
 # ft_rus = [fma1957_f] С тех пор прошло много времени.
 # sent_id = 39
