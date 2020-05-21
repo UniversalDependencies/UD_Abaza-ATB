@@ -39,28 +39,28 @@
 4	йтаскIын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Past	0	root	_	1sg.erg|3n.abs|_|Gloss=3n.abs-loc-1sg.erg-запомнить-pst|loc|pst|Segment=й-та-с-кIЫ-н
 5	апхьарта	апхьарта	NOUN	_	Definite=Def	6	obl	_	_|def|Gloss=def-школа|Segment=А-пхьарта
 6	съадзапхьузгьи	_	VERB	_	Aspect=Imp|Number[abs]=Sing|Person[abs]=1|Tense=Past	4	xcomp	_	1sg.abs|_|add|Gloss=1sg.abs-rel.loc-lim-учиться-ipf-pst-add|ipf|lim|pst|rel.loc|Segment=с-ъА-дза-пхь-у-з-гьи
-7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	11	conj	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
+7	сангIалгагьи	_	VERB	_	Number[abs]=Sing|Person[abs]=1	4	conj	_	1sg.abs|_|add|csl|Gloss=1sg.abs-rel.tmp-csl-кончать-add|rel.tmp|Segment=с-ан-гIА-лга-гьи
 8	ауи	ауи	PRON	_	_	11	obl	_	_|dist.sg|Gloss=dist.sg|Segment=ауИ
 9	акIвымкIва	акIвымкIва	ADP	_	_	10	case	_	_|Gloss=кроме|Segment=АкIвымкIва
 10	закIгьи	_	NUM	_	_	11	nsubj	_	_|add|Gloss=один-add|Segment=закI-гьИ
-11	гьстахъымызтI	_	VERB	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	0	root	_	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
+11	гьстахъымызтI	_	VERB	_	Number[dat]=Sing|Person[dat]=1|Polarity=Neg	7	conj	_	1sg.io|_|dcl|Gloss=neg.emp-1sg.io-хотеться-neg-pst.nfin-dcl|neg|neg.emp|pst.nfin|Segment=гь-с-тахъЫ-мы-з-тI
 
 # ft_rus = Когда закончила школу, пошла в институт.
 # sent_id = 30
 # text = апхьарта сангIалга аинститут сцатI
 # text_name = Professija_AjsanovaFB_11072017
 1	апхьарта	апхьарта	NOUN	_	Definite=Def	2	iobj	_	_|def|Gloss=def-школа|Segment=А-пхьарта
-2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	4	conj	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
+2	сангIалга	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|csl|Gloss=1sg.abs-rel.tmp-csl-закончить|rel.tmp|Segment=с-ан-гӏА-лга
 3	аинститyт	аинститyт	NOUN	_	Definite=Def	4	iobj	_	_|def|Gloss=def-институт|Segment=а-инститyт
-4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1	0	root	_	1sg.abs|_|dcl|Gloss=1sg.abs-идти-dcl|Segment=с-цА-тӏ
+4	сцатI	_	VERB	_	Number[abs]=Sing|Person[abs]=1	2	conj	_	1sg.abs|_|dcl|Gloss=1sg.abs-идти-dcl|Segment=с-цА-тӏ
 
 # ft_rus = Я очень любила учиться.
 # sent_id = 31
 # text = йсгвапхадзауата бзидздза йызбауата сапхьатI
 # text_name = Professija_AjsanovaFB_11072017
-1	йсгвапхадзауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	3	conj	_	1sg.erg|3n.abs|_|adv|ass|Gloss=3n.abs-1sg.erg-любить-ass-ipf-adv|ipf|Segment=й-с-гвапха-дза-уА-та
+1	йсгвапхадзауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	0	root	_	1sg.erg|3n.abs|_|adv|ass|Gloss=3n.abs-1sg.erg-любить-ass-ipf-adv|ipf|Segment=й-с-гвапха-дза-уА-та
 2	бзидздза	_	ADJ	_	_	3	advmod	_	_|ass|Gloss=хорошо-ass-ass|Segment=бзи-дз-дзА
-3	йызбауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	0	root	_	1sg.erg|3n.abs|_|adv|Gloss=3n.abs-1sg.erg-видеть-ipf-adv|ipf|Segment=йы-з-ба-уА-та
+3	йызбауата	_	VERB	_	Aspect=Imp|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1	1	conj	_	1sg.erg|3n.abs|_|adv|Gloss=3n.abs-1sg.erg-видеть-ipf-adv|ipf|Segment=йы-з-ба-уА-та
 4	сапхьатI	_	VERB	_	Case=Dat|Number[abs]=Sing|Person[abs]=1	3	ccomp	_	1sg.abs|_|dat|dcl|Gloss=1sg.abs-dat-учиться-dcl|Segment=с-А-пхьа-тӏ
 
 # ft_rus = С тех пор как закончила школу, прошло 33 года.
@@ -92,18 +92,18 @@
 1	сара	сара	PRON	_	_	4	nsubj	_	_|Gloss=я|Segment=сарА
 2	асабиква	асаби	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_|def|Gloss=def-дети-pl|pl|Segment=а-сабИ-ква
 3	бзи	бзи	ADJ	_	_	4	advmod	_	_|Gloss=хорошо|Segment=бзИ
-4	йызбитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	7	conj	_	1sg.erg|3pl.abs|_|dcl|Gloss=3pl.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
+4	йызбитI	_	VERB	_	Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	0	root	_	1sg.erg|3pl.abs|_|dcl|Gloss=3pl.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
 5	сынхартагьи	асыхартгьи	NOUN	_	Number[dat]=Sing|Person[dat]=1	7	obj	_	1sg.io|_|add|Gloss=1sg.io-работа-add|Segment=сы-нхАрта-гьи
 6	бзидздза	_	ADJ	_	_	7	advmod	_	_|ass|Gloss=хороший-int-int|Segment=бзи-дз-дзА
-7	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	0	root	_	1sg.erg|3n.abs|_|dcl|Gloss=3n.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
+7	йызбитI	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres	4	conj	_	1sg.erg|3n.abs|_|dcl|Gloss=3n.abs-1sg.erg-видеть-prs-dcl|prs|Segment=йы-з-б-И-тӏ
 
 # ft_rus = [zhs1930_f] Мы купили и имели единственную корову, которую дали нам у бабушки.
 # sent_id = 35
 # text = жвзаджвыкI гIахIхвгIан йхIыман нанаргIа рпны йгIахIыртын
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
 1	жвзаджвыкI	_	NUM	_	Number=Count	2	obj	_	_|cln|Gloss=корова-один-cln-unit|Segment=жв-за-джвы-кӏ|unit
-2	гIахIхвгIан	_	VERB	_	Number[erg]=Plur|Person[erg]=1	3	conj	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-купить-dcl|Segment=гӏа-хӏ-хвгӏа-н
-3	йхIыман	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1	0	root	_	1pl.io|3n.abs|_|dcl|Gloss=3n.abs-1pl.io-иметься-dcl|Segment=й-хӏы-ма-н
+2	гIахIхвгIан	_	VERB	_	Number[erg]=Plur|Person[erg]=1	0	root	_	1pl.erg|_|csl|dcl|Gloss=csl-1pl.erg-купить-dcl|Segment=гӏа-хӏ-хвгӏа-н
+3	йхIыман	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Person[abs]=3|Person[dat]=1	2	conj	_	1pl.io|3n.abs|_|dcl|Gloss=3n.abs-1pl.io-иметься-dcl|Segment=й-хӏы-ма-н
 4	нанаргIа	_	NOUN	_	_	6	obl	_	_|aspl|Gloss=бабушка-aspl|Segment=нана-ргӏа
 5	рпны	апны	ADP	_	Number[dat]=Plur|Person[dat]=3	4	appos	_	3pl.io|_|Gloss=3pl.io-у|Segment=р-пны
 6	йгIахIыртын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3	1	acl	_	1pl.io|3n.abs|3pl.erg|_|csl|dcl|Gloss=3n.abs-csl-1pl.io-3pl.erg-давать-dcl|Segment=й-гӏа-хӏы-р-ты-н
@@ -122,10 +122,10 @@
 # sent_id = 37
 # text = йырган йырщын дара йырфахд
 # text_name = O_kolxoze3_SanashokovaCKh_13072017
-1	йырган	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	2	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-нести-dcl|Segment=йы-р-га-н
-2	йырщын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	4	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-резать-dcl|Segment=йы-р-щы-н
+1	йырган	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-нести-dcl|Segment=йы-р-га-н
+2	йырщын	_	VERB	_	Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	1	conj	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-резать-dcl|Segment=йы-р-щы-н
 3	дара	дара	PRON	_	_	4	nsubj	_	_|Gloss=они|Segment=дара
-4	йырфахд	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	0	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-есть-re-dcl|re|Segment=йы-р-фа-х-д
+4	йырфахд	_	VERB	_	Aspect=Refactive|Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	2	root	_	3n.abs|3pl.erg|_|dcl|Gloss=3n.abs-3pl.erg-есть-re-dcl|re|Segment=йы-р-фа-х-д
 
 # ft_rus = И нам ничего не дали.
 # sent_id = 38
@@ -143,4 +143,4 @@
 2	цIитI	_	VERB	_	Tense=Pres	0	root	_	_|dcl|Gloss=проходить-prs-dcl|prs|Segment=цӏ-и-тӏ
 3	ари	ари	PRON	_	_	2	obl	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
 4	агIаншижьтара	_	NOUN	_	_	2	nsubj	_	_|def.|Gloss=def.время-?-since|Segment=агӏан-ш-ижьтАра|since
- 
+
