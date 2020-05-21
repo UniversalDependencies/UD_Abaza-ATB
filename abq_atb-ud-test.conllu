@@ -148,7 +148,7 @@
 # sent_id = 40
 # text = апхъа азаман уагIахъата адунай йыквыз шабгаз йазкIкIыта зджьара йбзазун
 # text_name = Pro_jazyk_AsanaevaFM_09072017
-1	апхъа	апхъа	ADV	_	_	2	flat	_	_|Gloss=раньше|Segment=апхъА
+1	апхъа	апхъа	ADV	_	_	5	advmod	_	_|Gloss=раньше|Segment=апхъА
 2	азаман	азаман	NOUN	_	Definite=Def	5	obl	_	_|def|Gloss=def-время|Segment=а-замАн
 3	уагIахъата	_	ADV	_	_	6	nsubj	_	_|adv|Gloss=народ-adv|Segment=уагӏахъА-та
 4	адунай	адунай	NOUN	_	Definite=Def	5	obj	_	_|def|Gloss=def-мир|Segment=а-дунай
