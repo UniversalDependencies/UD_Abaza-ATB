@@ -304,3 +304,50 @@
 9	ду	ду	ADJ	_	_	8	amod	_	_|Gloss=большой|Segment=ду
 10	апны	_	ADP	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	8	case	_	3n.io|_|Gloss=3n.io-к|Segment=а-пнЫ
 
+
+# ft_rus = Остался один народ. 
+# sent_id = 55
+# text = угIахъакI гIанхатI 
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	угIахъакI	_	NOUN	_	Definite=Ind	2	nsubj	_	_|Gloss=народ-indf|indf|Segment=угӏахъА-кӏ
+2	гIанхатI	_	VERB	_	_	0	root	_	_|dcl|Gloss=оставаться-dcl|Segment=гӏа-н-хА-тӏ
+
+# ft_rus = Но они не смогли выселиться. 
+# sent_id = 56
+# text = ауаса ауат гьызгIатымцIтI
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	ауаса	ауаса	PART	_	_	3	cc	_	_|Gloss=но|Segment=ауАса
+2	ауат	ауат	PRON	_	_	3	nsubj	_	_|dist.pl|Gloss=dist.pl|Segment=ауАт
+3	гьызгIатымцIтI	_	VERB	_	Mood=Pot|Polarity=Neg	0	root	_	_|csl|dcl|Gloss=neg.emp-pot-csl-loc-neg-пройти-dcl|loc|neg|neg.emp|pot|Segment=гьы-з-гӏа-тЫ-м-цӏ-тӏ
+
+# ft_rus = Не осталось ни одного камня.
+# sent_id = 57
+# text = хIахъвыкIгьи гьгIатамхатI
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	хIахъвыкIгьи	_	NOUN	_	Definite=Ind	2	nsubj	_	_|add|Gloss=камень-indf-add|indf|Segment=хӏахъвЫ-кӏ-гьи
+2	гьгIатамхатI	_	VERB	_	Aspect=Inceptive|Polarity=Neg	0	root	_	.|_|csl|dcl|Gloss=neg.emp-csl-быть.в-neg-inc-dcl|inc|neg|neg.emp|Segment=гь-гӏа-та-м-хА-тӏ
+
+# ft_rus = Потом пророк спросил Аллаха:
+# sent_id = 58
+# text = уадыргIвана апегIамбар алахI дицIгIатI
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	уадыргIвана	уадыргIвана	PART	_	_	4	cc	_	_|Gloss=потом|Segment=уадыргӏвАна
+2	апегIамбар	апегiамбар	NOUN	_	Definite=Def	4	nsubj	_	_|def|Gloss=def-пророк|Segment=а-пегӏАмбар
+3	алахI	алахI	PROPN	_	_	4	obj	_	_|Gloss=Аллах|Segment=алАхӏ
+4	дицIгIатI	_	VERB	_	Gender[abs]=Com|Gender[dat]=Masc|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3	0	root	_	3h.abs|3m.io|_|dcl|Gloss=3h.abs-3m.io-спрашивать-dcl|Segment=д-и-цӏгӏА-тӏ
+
+# ft_rus = “Как дела пойдут у тех, кто остался?” – когда он сказал Аллаху, тот ответил:
+# sent_id = 56
+# text = ачIвыйа ари йгIанхакваз руыс шпацуш нихIва асхъан алахI ауи йхIватI
+# text_name = Pro_jazyk_AsanaevaFM_09072017
+1	ачIвыйа	_	PRON	_	_	5	appos	_	_|Gloss=что-qn|qn|Segment=ачӏвʷЫ-йа
+2	ари	ари	PRON	_	_	3	acl	_	_|Gloss=prox.sg|prox.sg|Segment=арИ
+3	йгIанхакваз	_	VERB	_	Number=Plur|Tense=Past	5	csubj	_	_|Gloss=rel.abs-оставаться-pl-pst|pl|pst|rel.abs|Segment=й-гӏанха-квА-з
+4	руы́с	ауы́с	NOUN	_	Number[dat]=Plur|Person[dat]=3	5	obj	_	3pl.io|_|Gloss=3pl.io-дело|Segment=р-уы́с
+5	шпацуш	_	VERB	_	Aspect=Imp|Tense=Fut	6	csubj	_	_|fut|Gloss=rel.mnr-qadv-идти-ipf-fut|ipf|qadv|rel.mnr|Segment=ш-пА-ц-у-ш
+6	нихIва	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	0	root	_	3m.erg|_|Gloss=rel.tmp-3m.erg-говорить|rel.tmp|Segment=н-и-хӏвА
+7	асхъан	асхъан	NOUN	_	_	6	advmod	_	_|Gloss=время|Segment=Асхъан
+8	алахI	алахI	PROPN	_	_	6	obj	_	_|Gloss=Аллах|Segment=алАхӏ
+9	ауи	ауи	PRON	_	_	6	nsubj	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
+10	йхIватI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	6	conj	_	3m.erg|_|dcl|Gloss=3m.erg-говорить-dcl|Segment=й-хӏвА-тӏ
+
