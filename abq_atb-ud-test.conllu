@@ -239,18 +239,17 @@
 2	анчва	анчва	NOUN	_	Definite=Def	5	iobj	_	_|def|Gloss=def-бог|Segment=а-нчвА
 3	спсы	апсы	NOUN	_	Number[dat]=Sing|Person[dat]=1	4	obj	_	1sg.io|_|Gloss=1sg.io-душа|Segment=с-псЫ
 4	зкъвырману	_	VERB	_	_	2	nmod	_	_|Gloss=rel.io-жертва-npst.nfin|npst.nfin|rel.io|Segment=з-къвырмАн-у
-5	хIйыхIвата	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3	_	_	_	1pl.abs|3m.io|_|adv|Gloss=1pl.abs-3m.io-говорить-adv|Segment=хӏ-йЫ-хӏва-та
+5	хIйыхIвата	_	VERB	_	Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3	10	csubj	_	1pl.abs|3m.io|_|adv|Gloss=1pl.abs-3m.io-говорить-adv|Segment=хӏ-йЫ-хӏва-та
 6	араъа	араъа	ADP	_	_	7	obl	_	_|Gloss=здесь|Segment=арАъа
-7	хIтыцIырныс	_	VERB	_	Number[abs]=Plur|Person[abs]=1|VerbForm=Inf	0	root	_	1pl.abs|_|Gloss=1pl.abs-loc-уходить-purp|loc|purp|Segment=хӏ-тЫ-цӏы-рныс
-8	ауы́ла	_	PRON	_	Case=Ins	_	_	_	_|Gloss=это-ins|ins|Segment=ауы́-ла
-9	хIйыхIвушын	_	VERB	_	Aspect=Imp|Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Past	_	_	_	1pl.abs|3m.io|_|fut|Gloss=1pl.abs-3m.io-говорить-ipf-fut-pst|ipf|pst|Segment=хӏ-йЫ-хӏв-у-шы-н
-10	рхIватI	_	VERB	_	Number[erg]=Plur|Person[erg]=3	_	_	_	3pl.erg|_|dcl|Gloss=3pl.erg-говорить-dcl|Segment=р-хӏва-тӏ
+7	хIтыцIырныс	_	VERB	_	Number[abs]=Plur|Person[abs]=1|VerbForm=Inf	5	conj	_	1pl.abs|_|Gloss=1pl.abs-loc-уходить-purp|loc|purp|Segment=хӏ-тЫ-цӏы-рныс
+8	ауы́ла	_	PRON	_	Case=Ins	9	iobj	_	_|Gloss=это-ins|ins|Segment=ауы́-ла
+9	хIйыхIвушын	_	VERB	_	Aspect=Imp|Gender[dat]=Masc|Number[abs]=Plur|Number[dat]=Sing|Person[abs]=1|Person[dat]=3|Tense=Past	0	root	_	1pl.abs|3m.io|_|fut|Gloss=1pl.abs-3m.io-говорить-ipf-fut-pst|ipf|pst|Segment=хӏ-йЫ-хӏв-у-шы-н
+10	рхIватI	_	VERB	_	Number[erg]=Plur|Person[erg]=3	9	conj	_	3pl.erg|_|dcl|Gloss=3pl.erg-говорить-dcl|Segment=р-хӏва-тӏ
 
 # ft_rus =  Да
 # sent_id = 49
 # text = щта
 # text_name = Pro_jazyk_AsanaevaFM_09072017
-
 1	щта	щта	NOUN	_	_	0	root	_	_|Gloss=да|Segment=щта
 
 # ft_rus = «Я ему скажу про это и я вам скажу ответ" – говорит.
