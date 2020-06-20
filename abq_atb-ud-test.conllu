@@ -263,7 +263,6 @@
 4	швызгIазгхпI	_	VERB	_	Aspect=Refactive|Case=Ben|Number[dat]=Plur|Number[erg]=Sing|Person[dat]=2|Person[erg]=1|Tense=Pres	1	conj	_	1sg.erg|2pl.io|_|ben|csl|Gloss=2pl.io-ben-csl-1sg.erg-нести-re-npst.dcl|npst.dcl|re|Segment=швы-з-гӏА-з-г-х-пӏ
 5	йхIватI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	4	conj	_	3m.erg|_|dcl|Gloss=3m.erg-говорить-dcl|Segment=й-хӏва-тӏ
 
-
 # ft_rus = Время прошло, и пророк пришёл.
 # sent_id = 51
 # text = йцан заман апегIамбар дгIайтI
@@ -272,7 +271,6 @@
 2	заман	заман	NOUN	_	_	1	nsubj	_	_|Gloss=время|Segment=замАн
 3	апегIамбар	апегiамбар	NOUN	_	Definite=Def	4	nsubj	_	_|def|Gloss=def-пророк|Segment=а-пегӏамбАр
 4	дгIайтI	_	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3	1	conj	_	3h.abs|_|csl|dcl|Gloss=3h.abs-csl-идти-dcl|Segment=д-гӏа-й-тӏ
-
 
 # ft_rus = "Он согласился с вашим решением, но кто здесь хочет выселиться, должен по одному камушку с собой забрать" – говорил.
 # sent_id = 52
@@ -306,5 +304,3 @@
 8	амаша	амаша	NOUN	_	Definite=Def	7	obl	_	_|def|Gloss=def-яма|Segment=А-маша
 9	ду	ду	ADJ	_	_	8	amod	_	_|Gloss=большой|Segment=ду
 10	апны	_	ADP	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	8	case	_	3n.io|_|Gloss=3n.io-к|Segment=а-пнЫ
-
-
