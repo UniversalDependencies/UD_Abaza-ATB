@@ -304,15 +304,14 @@
 9	ду	ду	ADJ	_	_	8	amod	_	_|Gloss=большой|Segment=ду
 10	апны	_	ADP	_	Gender[dat]=Neut|Number[dat]=Sing|Person[dat]=3	8	case	_	3n.io|_|Gloss=3n.io-к|Segment=а-пнЫ
 
-
-# ft_rus = Остался один народ. 
+# ft_rus = Остался один народ.
 # sent_id = 55
 # text = угIахъакI гIанхатI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
 1	угIахъакI	_	NOUN	_	Definite=Ind	2	nsubj	_	_|Gloss=народ-indf|indf|Segment=угӏахъА-кӏ
 2	гIанхатI	_	VERB	_	_	0	root	_	_|dcl|Gloss=оставаться-dcl|Segment=гӏа-н-хА-тӏ
 
-# ft_rus = Но они не смогли выселиться. 
+# ft_rus = Но они не смогли выселиться.
 # sent_id = 56
 # text = ауаса ауат гьызгIатымцIтI
 # text_name = Pro_jazyk_AsanaevaFM_09072017
@@ -350,3 +349,4 @@
 8	алахI	алахI	PROPN	_	_	6	obj	_	_|Gloss=Аллах|Segment=алАхӏ
 9	ауи	ауи	PRON	_	_	6	nsubj	_	_|dist.sg|Gloss=dist.sg|Segment=ауи
 10	йхIватI	_	VERB	_	Gender[erg]=Masc|Number[erg]=Sing|Person[erg]=3	6	conj	_	3m.erg|_|dcl|Gloss=3m.erg-говорить-dcl|Segment=й-хӏвА-тӏ
+
