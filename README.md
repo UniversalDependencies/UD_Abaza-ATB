@@ -8,7 +8,7 @@ UD_Abaza-ATB is a treebank based on [Spoken corpus of Abaza](https://linghub.ru/
 
 # Acknowledgments
 
-I would love to thank Anastasia Panova and Elena Sokur for creating such a beautiful corpus. I am very grateful to Niko Partanen and Thierry Poibeau for their help and supervision. The corpus in question was annotated by the participants of [Aspects of Abaza Grammar](https://ling.hse.ru/abazagrammar/project) group, so this treebank would not be possible without their precious work.
+The authots are gratefull to Elena Sokur for creating and maintaing the Spoken corpus of Abaza. AK is also grateful to Niko Partanen and Thierry Poibeau for their help and supervision on the early stages of this project. The corpus was annotated by the participants of [Aspects of Abaza Grammar](https://ling.hse.ru/abazagrammar/project) group, so this treebank would not be possible without their precious work.
 
 ## References
 
@@ -31,7 +31,7 @@ UPOS: manual native
 XPOS: converted from manual
 Features: manual native
 Relations: manual native
-Contributors: Koshevoy, Alexey
+Contributors: Koshevoy, Alexey; Panova, Anastasia; Makarchuk, Ilya
 Contributing: here
 Contact: alexeykochevoy@gmail.com
 ===============================================================================
