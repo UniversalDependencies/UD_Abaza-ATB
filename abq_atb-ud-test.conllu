@@ -1069,7 +1069,7 @@
 5	cан	аны	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Gloss=1sg.pr-мать
 6	сыла	ла	NOUN	_	Number[psor]=Sing|Person[psor]=1	7	obl	_	Gloss=1sg.pr-глаз
 7	дгIацIалид	гIацIалра	VERB	_	Gender[abs]=Com|Number[abs]=Sing|Person[abs]=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=3sg.h.abs-csl-loc-войти-prs-dcl
-8	йанакIвызлакIгьи	йанакIвызлакIгьи	ADV	_	Definite=Ind|Gender[abs]=Neut|Number[abs]=Sing|Person[abs]=3|RelType=Tmp|Tense=Past|VerbForm=NonFin	7	advmod	_	Gloss=3sg.n.abs-rel.tmp-cop-pst.nfin-cnc-indf-add
+8	йанакIвызлакIгьи	йанакIвызлакIгьи	ADV	_	_	7	advmod	_	Gloss=3sg.n.abs-rel.tmp-cop-pst.nfin-cnc-indf-add
 
 # sent_id = 80
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
@@ -1336,3 +1336,4 @@
 5	акъабардийаква	къабард	NOUN	_	Definite=Def|Number=Plur	7	nsubj	_	Gloss=def-кабардинец-pl
 6	щыпс	щыпс	NOUN	_	_	7	obj	_	Gloss=щипс
 7	рхIвитI	хIвара	VERB	_	Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=Fin	4	conj	_	Gloss=3pl.erg-говорить-prs-dcl
+
