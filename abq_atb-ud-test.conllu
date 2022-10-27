@@ -405,7 +405,7 @@
 1	ауаъа	ауаъа	PRON	_	_	2	obl	_	Gloss=dist.loc
 2	йгIатахакваз	тахара	VERB	_	Number=Plur|RelType=Abs|Tense=Past|VerbForm=NonFin	3	nsubj	_	Gloss=rel.abs-csl-loc-оставаться-pl-pst.nfin
 3	абазаква	абаза	NOUN	_	Number=Plur	0	root	_	Gloss=абазин-pl
-4	ракIвапI	акIвара	AUX	_	Number[io]=Plur|Person[io]=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=3pl.io-cop-npst.dcl
+4	ракIвапI	_	AUX	_	Number[io]=Plur|Person[io]=3|Tense=Pres|VerbForm=Fin	3	cop	_	Gloss=3pl.io-cop-npst.dcl
 
 # sent_id = 32
 # text_name = Pro_jazyk_AsanaevaFM_09072017_checked.eaf
@@ -833,7 +833,7 @@
 
 # sent_id = 64
 # text_name = O_dvojke_DzhuzhuevKM_09072017_checked.eaf
-# text = лангьи асквшы зкьи жвшви гIвынгIважва хвба асхъан  абольница апны атиф дагад
+# text = лангьи асквшы зкьи жвшви гIвынгIважва хвба асхъан албыргIан абольница апны атиф дагад
 # text_orth = л-Ан-гьи А-сквшы зкь-и жв-шв-и гIвЫн-гIважва хв-ба Асхъан албыргIАн а-больнИца а-пнЫ а-тиф д-а-гА-д
 # text_transcription = l-án-g’əj á-skʷšə zk’-əj ẑ-ŝ-əj ʕʷə́n-ʕʷaẑa χʷ-ba ásqan albərʕán a-bal’níca a-pnə́ a-tíf d-a-gá-d
 # text_rus = В 1945-ом году её мать умерла от тифа.
