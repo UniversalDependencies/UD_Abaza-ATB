@@ -17,18 +17,18 @@ The authots are gratefull to Elena Sokur for creating and maintaing the Spoken c
 
 # Changelog
 
-* 2020-05-15 v2.6
+* 2022-11-15 v2.11
   * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.6
+Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: spoken
 Lemmas: manual native
 UPOS: manual native
-XPOS: converted from manual
+XPOS: not available
 Features: manual native
 Relations: manual native
 Contributors: Koshevoy, Alexey; Panova, Anastasia; Makarchuk, Ilya
@@ -36,4 +36,3 @@ Contributing: here
 Contact: alexeykochevoy@gmail.com
 ===============================================================================
 </pre>
-
