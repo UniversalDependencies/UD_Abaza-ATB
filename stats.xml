@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>98</sentences><tokens>652</tokens><words>652</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>98</sentences><tokens>652</tokens><words>652</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="280" /><!-- ауи, хIвара, чпара, гара, бызшва, сара, амазлара, аны, цара, апхьара, асхъан, ауат, зымгIва, саби, ари -->
+  <forms unique="473" /><!-- ауи, асхъан, ауат, ари, сара, лхIвад, араъа, апны, апхьарта, арса, архъа, ауаъа, зымгIва, хIара, асабиква -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">23</tag><!-- рыцхIа, апш, баба, ду, хъгIа, абаза, азна, апхъа, ауыра, вкусно -->
+    <tag name="ADP">11</tag><!-- апны, асхъан, аcхъан, акIвымкIва, ахъазла, хIпны -->
+    <tag name="ADV">42</tag><!-- араса, бзи, ужвы, ауи, уадыргIвана, апш, арыла, зымгIва, швабыж, абарауи -->
+    <tag name="AUX">4</tag><!-- _, чпара -->
+    <tag name="CCONJ">4</tag><!-- ауаса, йгьи -->
+    <tag name="DET">9</tag><!-- зымгIва, абари, ари, ауат, ауахьауат, ауи, сара -->
+    <tag name="NOUN">178</tag><!-- бызшва, аны, саби, апхьарта, рхъа, бацацIахва, гIвба, гвы, заджвы, мхIачIва -->
+    <tag name="NUM">20</tag><!-- жвшвы, зкьы, гIвынгIважва, аъара, гIважва, гIважвыжвах, жвба, жвих, заджвы, закIы -->
+    <tag name="PART">8</tag><!-- дына, щта, ауи, вот, йгьи, хIва -->
+    <tag name="PRON">79</tag><!-- ауи, сара, ауат, ари, араъа, ауаъа, хIара, зымгIва, уара, анахь -->
+    <tag name="PROPN">1</tag><!-- невинка -->
+    <tag name="SCONJ">7</tag><!-- асхъан, хIвара -->
+    <tag name="VERB">266</tag><!-- хIвара, чпара, гара, амазлара, цара, апхьара, _, гIанхара, тахъыра, тыцIра -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="64">
+    <feat name="Case" value="Ins" upos="NOUN">1</feat><!-- ангьлызбызшвала -->
+    <feat name="Caus" value="Yes" upos="VERB">18</feat><!-- хIлырдырд, гIатурычIвитIта, дгIадрид, йакIвыршата, йаквсырчIвитIта, йалрыпхьуштI, йасрыпхьид, йгIашIарышвта, йдыргылуанта, йдыргылын -->
+    <feat name="Definite" value="Def" upos="NOUN">67</feat><!-- апхьарта, архъа, асабиква, апегIамбар, асаби, адуней, адына, анчва, апхIвысква, асквшы -->
+    <feat name="Definite" value="Ind" upos="NOUN,NUM">10</feat><!-- азджьакIгьи, барахлокIгьи, заджвыкI, закIгьи, зджьакI, пакIи, пхIвыскI, сахIаткIдза, угIахъакI, хIахъвыкIгьи -->
+    <feat name="Gender[abs]" value="Com" upos="VERB">39</feat><!-- дгьсымахым, дпсыхтI, дсыман, дчIвыуа, дчIвыуид, дагад, дадыгьаб, даквдырчIван, далата, дампхьауата -->
+    <feat name="Gender[abs]" value="Masc" upos="VERB">4</feat><!-- угьымпхащума, угьымпхьащума, унадзума, уыджвылцIта -->
+    <feat name="Gender[abs]" value="Neut" upos="ADJ,VERB">60</feat><!-- йутахъызтын, йалаучвахитI, йшыъу, йызбитI, йырхвын, йыугIватIитI, йагIалцIхын, йагIвсырсахитIта, йакIвыршата, йалаупсахитI -->
+    <feat name="Gender[erg]" value="Fem" upos="VERB">17</feat><!-- лхIвад, хIлырдырд, ансызгIалгыз, гIалкIын, гIанылхквун, дгьлымдырхд, йалрыпхьуштI, йрабымхIвума, ллырдырын, сагвылрцыд -->
+    <feat name="Gender[erg]" value="Masc" upos="VERB">20</feat><!-- йалаучвахитI, йхIватI, йыугIватIитI, гIатурычIвитIта, гIаугныс, гIаугуата, йалаупсахитI, йанукIвхIара, йгIасайхIвлун, йуитI -->
+    <feat name="Gender[erg]" value="Neut" upos="VERB">3</feat><!-- дагад, тшакIвнахуа, тшакIвнахуамца -->
+    <feat name="Gender[io]" value="Fem" upos="VERB">6</feat><!-- дгIалхъаштылын, дгIаргхдзылщан, йзылгвалищд, йласхIвд, йылчIвыта, ллырдырын -->
+    <feat name="Gender[io]" value="Masc" upos="VERB">14</feat><!-- йутахъызтын, сйыццатI, гьйымахмызтI, дицIгIатI, йпны, йшвызйасхIвпI, йшйымахымзымцара, йшутахъу, хIицIгIапI, хIйыхIвата -->
+    <feat name="Gender[io]" value="Neut" upos="ADJ,ADP,VERB">38</feat><!-- апны, йалагатI, йалаучвахитI, хIнапхьуз, азна, акIваб, акIвымкIва, ахъазла, даквдырчIван, далата -->
+    <feat name="Gender[psor]" value="Fem" upos="NOUN">8</feat><!-- лхIатырла, лаба, лан, лангьи, лаща, лсаби, лыбызшвагьи -->
+    <feat name="Gender[psor]" value="Masc" upos="NOUN">9</feat><!-- йахща, йгвы, йщапIы, йыпыцква, йыхъвда, убызшвата, угвы, унапIсаргвыцIа, уыбызшвала -->
+    <feat name="Gender[psor]" value="Neut" upos="NOUN,VERB">3</feat><!-- абольница, ахъахь, йамгIаныйа -->
+    <feat name="Int" value="Yes" upos="VERB">6</feat><!-- ачIвыйа, йачIвыйа, йзылгвалищд, угьымпхащума, угьымпхьащума, шпацуш -->
+    <feat name="Mood" value="Imp" upos="VERB">8</feat><!-- гIахв, йакIвыршата, йрыгIв, йтаргылта, йуымрыбагъьан, йчпа, сызгIагы, тачвата -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON,VERB">30</feat><!-- асабиква, апхIвысква, ауат, абазаква, абацацIахваква, абацацIахваквала, акъабардийаква, акъарчаква, амашаква, аратквагьи -->
+    <feat name="Number" value="Sing" upos="ADV,DET,PRON">28</feat><!-- ауи, ари -->
+    <feat name="Number[abs]" value="Plur" upos="AUX,VERB">44</feat><!-- йалагатI, йасын, хIнапхьуз, йагIакIашвахын, йазкIкIыта, йаквсырчIвитIта, йалата, йалрыпхьуштI, йасрыпхьид, йатахъалхын -->
+    <feat name="Number[abs]" value="Sing" upos="ADJ,VERB">124</feat><!-- йутахъызтын, дгьсымахым, дпсыхтI, дсыман, дчIвыуа, дчIвыуид, йалаучвахитI, йшыъу, йызбитI, йырхвын -->
+    <feat name="Number[erg]" value="Plur" upos="VERB">37</feat><!-- йырхвын, рчпатI, гIаргванта, гIаргвынгIвуата, гIаржуанта, гIарыквырпсид, гIахъаргылхтI, гьырчпум, даквдырчIван, дгIадрид -->
+    <feat name="Number[erg]" value="Sing" upos="AUX,VERB">69</feat><!-- лхIвад, йызбитI, йалаучвахитI, йхIватI, йыугIватIитI, счпитI, хIлырдырд, ансызгIалгыз, гIазгын, гIалкIын -->
+    <feat name="Number[io]" value="Plur" upos="ADP,AUX,VERB">16</feat><!-- хIлырдырд, гIарыквырпсид, гьхIымамызтI, дгIаразцIгIатI, йрабымхIвума, йрымаб, йрыртуашта, йхIшвахIцIунта, йшвасхIвырныс, йшвтахъху -->
+    <feat name="Number[io]" value="Sing" upos="ADJ,ADP,VERB">73</feat><!-- апны, йутахъызтын, дгьсымахым, дсыман, йалагатI, йалаучвахитI, сйыццатI, хIнапхьуз, азна, акIваб -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN">12</feat><!-- хIан, рыбызшва, хIыбызшвала, руыс, рхъачваква, рыбызшваква, хIыбызшвагьи, швмурад -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN,VERB">36</feat><!-- сан, лхIатырла, спсы, cан, абольница, ахъахь, йамгIаныйа, йахща, йгвы, йщапIы -->
+    <feat name="Person[abs]" value="1" upos="VERB">31</feat><!-- сйыццатI, хIнапхьуз, сагвылрцыд, сазрыпхьарыз, сазхъвыцуа, сангIалга, сангIалгагьи, санхвыцыз, санца, сапхьатI -->
+    <feat name="Person[abs]" value="2" upos="VERB">4</feat><!-- угьымпхащума, угьымпхьащума, унадзума, уыджвылцIта -->
+    <feat name="Person[abs]" value="3" upos="ADJ,AUX,VERB">133</feat><!-- йутахъызтын, йызбитI, дгьсымахым, дпсыхтI, дсыман, дчIвыуа, дчIвыуид, йалагатI, йалаучвахитI, йасын -->
+    <feat name="Person[erg]" value="1" upos="AUX,VERB">32</feat><!-- йызбитI, счпитI, гIазгын, гIасахвта, йагIвсырсахитIта, йаквсырчIвитIта, йасрыпхьид, йгIазгд, йласхIвд, йсгвапхадзауата -->
+    <feat name="Person[erg]" value="2" upos="VERB">15</feat><!-- йалаучвахитI, йыугIватIитI, гIатурычIвитIта, гIаугныс, гIаугуата, йалаупсахитI, йанукIвхIара, йрабымхIвума, йуымрыбагъьан, йуымрыбагъьауата -->
+    <feat name="Person[erg]" value="3" upos="VERB">59</feat><!-- лхIвад, йхIватI, йырхвын, рчпатI, хIлырдырд, ансызгIалгыз, гIалкIын, гIанылхквун, гIаргванта, гIаргвынгIвуата -->
+    <feat name="Person[io]" value="1" upos="ADP,VERB">21</feat><!-- дгьсымахым, дсыман, хIлырдырд, ансызгIалгыз, гьстахъымызтI, гьсымахым, гьхIымамызтI, дгIасцIгIатI, дсызгIаргхтI, дыгьсымамызд -->
+    <feat name="Person[io]" value="2" upos="VERB">8</feat><!-- йутахъызтын, йшвасхIвырныс, йшвтахъху, йшутахъу, швызгIазгхпI, швыцтыжвгуштI -->
+    <feat name="Person[io]" value="3" upos="ADJ,ADP,AUX,VERB">60</feat><!-- апны, йалагатI, йалаучвахитI, сйыццатI, хIнапхьуз, азна, акIваб, акIвымкIва, ахъазла, гIарыквырпсид -->
+    <feat name="Person[psor]" value="1" upos="NOUN">22</feat><!-- сан, хIан, спсы, хIыбызшвала, cан, саба, сарманапIы, сгвы, спа, стетрадь -->
+    <feat name="Person[psor]" value="2" upos="NOUN">6</feat><!-- лаба, убызшвата, угвы, унапIсаргвыцIа, уыбызшвала, швмурад -->
+    <feat name="Person[psor]" value="3" upos="NOUN,VERB">20</feat><!-- лхIатырла, рыбызшва, абольница, ахъахь, йамгIаныйа, йахща, йгвы, йщапIы, йыпыцква, йыхъвда -->
+    <feat name="Polarity" value="Neg" upos="VERB">25</feat><!-- дгьсымахым, аъахым, гьгIатамхатI, гьйымахмызтI, гьстахъымызтI, гьсымахым, гьхIымамызтI, гьызгIатымцIтI, гьырчпум, дампхьауата -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">40</feat><!-- ауи, ари, ауыгьи, арыла, ауат, абарауи, абари, анахь, аныла, ауыла -->
+    <feat name="RcpType" value="Io" upos="VERB">2</feat><!-- йагIвсырсахитIта, йаквсырчIвитIта -->
+    <feat name="RelType" value="Abs" upos="VERB">15</feat><!-- йтыцIуа, йамгIаныйа, йаъакву, йгIанхаз, йгIанхакваз, йгIарылцIла, йгIатахакваз, йташваз, йтыцIкваз, йтыцIыз -->
+    <feat name="RelType" value="Erg" upos="VERB">1</feat><!-- сазрыпхьарыз -->
+    <feat name="RelType" value="Io" upos="VERB">3</feat><!-- зквшвауала, злачважвауа, змакву -->
+    <feat name="RelType" value="Loc" upos="VERB">3</feat><!-- йъатаз, съадзапхьузгьи, съацаз -->
+    <feat name="RelType" value="Mnr" upos="VERB">12</feat><!-- йшыъу, шабгаз, йшангIалуа, йшгIахъсрышвтуа, йшйымахымзымцара, йшсчпауа, йшутахъу, йышнаргуаз, сшарыпхьагIвхаз, шпацуш -->
+    <feat name="RelType" value="Pr" upos="VERB">2</feat><!-- зкъвырману -->
+    <feat name="RelType" value="Rsn" upos="VERB">1</feat><!-- йзылгвалищд -->
+    <feat name="RelType" value="Tmp" upos="VERB">8</feat><!-- ансызгIалгыз, дангIайх, йанукIвхIара, нихIва, сангIалга, сангIалгагьи, санхвыцыз, санца -->
+    <feat name="Tense" value="Aor" upos="AUX,VERB">62</feat><!-- лхIвад, дпсыхтI, йалагатI, йхIватI, рчпатI, сйыццатI, хIлырдырд, гIанхатI, гIахъаргылхтI, гьгIатамхатI -->
+    <feat name="Tense" value="Fut" upos="VERB">7</feat><!-- йалрыпхьуштI, йбзазуштI, йгьсхъаштылхуашым, йрыртуашта, йыугIватIуаштI, швыцтыжвгуштI, шпацуш -->
+    <feat name="Tense" value="Fut2" upos="VERB">6</feat><!-- йанукIвхIара, йшвызйасхIвпI, хIицIгIапI, хIхъалпIта, хIчпапIта, швызгIазгхпI -->
+    <feat name="Tense" value="Imp" upos="VERB">11</feat><!-- хIнапхьуз, гIанылхквун, гIаржуанта, йбзазун, йгIасайхIвлун, йдыргылуанта, йнаргуанта, йхIшвахIцIунта, рашвун, хIцун -->
+    <feat name="Tense" value="Past" upos="VERB">47</feat><!-- дсыман, йасын, йырхвын, шабгаз, ансызгIалгыз, гIазгын, гIалкIын, гьйымахмызтI, гьстахъымызтI, гьхIымамызтI -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">76</feat><!-- йызбитI, акIвапI, дгьсымахым, дчIвыуид, зкъвырману, йалаучвахитI, йтыцIуа, йшыъу, йыугIватIитI, счпитI -->
+    <feat name="Tense" value="Subj" upos="VERB">2</feat><!-- йысчпушыз, хIйыхIвушын -->
+    <feat name="Tense" value="Subj2" upos="VERB">1</feat><!-- сазрыпхьарыз -->
+    <feat name="VerbForm" value="Conv" upos="VERB">16</feat><!-- йутахъызтын, гIаугныс, дныкъвауамцара, дчIвыуамцара, йшвасхIвырныс, йшйымахымзымцара, йыцIырхуамцара, сгIалгищтара, спсыхындзкIьа, счпауамца -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">152</feat><!-- лхIвад, йызбитI, акIвапI, дгьсымахым, дпсыхтI, дсыман, дчIвыуид, йалагатI, йалаучвахитI, йасын -->
+    <feat name="VerbForm" value="NonFin" upos="VERB">64</feat><!-- дчIвыуа, зкъвырману, йтыцIуа, йшыъу, хIнапхьуз, шабгаз, ансызгIалгыз, аъахым, гIасахвта, дампхьауата -->
+    <feat name="Voice" value="Rcp" upos="VERB">2</feat><!-- йагIвсырсахитIта, йаквсырчIвитIта -->
+    <feat name="Voice" value="Rfl" upos="VERB">4</feat><!-- тшазсымрыхIазыруата, тшакIвнахуа, тшакIвнахуамца, тшасрыщцан -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="28">
+    <dep name="acl">13</dep>
+    <dep name="advcl">46</dep>
+    <dep name="advmod">36</dep>
+    <dep name="amod">14</dep>
+    <dep name="case">11</dep>
+    <dep name="cc">4</dep>
+    <dep name="ccomp">12</dep>
+    <dep name="conj">77</dep>
+    <dep name="cop">3</dep>
+    <dep name="csubj">4</dep>
+    <dep name="dep:repeat">10</dep>
+    <dep name="det">7</dep>
+    <dep name="discourse">9</dep>
+    <dep name="dislocated">5</dep>
+    <dep name="fixed">1</dep>
+    <dep name="flat">12</dep>
+    <dep name="iobj">16</dep>
+    <dep name="mark">8</dep>
+    <dep name="nmod">16</dep>
+    <dep name="nsubj">82</dep>
+    <dep name="nummod">6</dep>
+    <dep name="obj">67</dep>
+    <dep name="obl">64</dep>
+    <dep name="parataxis">9</dep>
+    <dep name="reparandum">9</dep>
+    <dep name="root">98</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">12</dep>
+  </deps>
+</treebank>
