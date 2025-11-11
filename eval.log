@@ -1,7 +1,51 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Abaza-ATB:
+commit 6ff8108dcf4253a0619cafd51ea9739ce64cc8bb
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:38:20 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'abq_atb'
+Language code (from CoNLL-U file name) = 'abq'
+Found the following data files: abq_atb-ud-test.conllu
+Size: counted 652 of 652 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 444 out of 652 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 28 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang abq --max-err=10 UD_Abaza-ATB/abq_atb-ud-test.conllu
+[Line 7 Sent 1]: [L3 Warning pron-det-without-prontype] The word 'сара' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 9 Sent 1]: [L3 Warning verbform-fin-without-mood] Finite verb 'фатимапI' lacks the 'Mood' feature
+[Line 17 Sent 2]: [L3 Warning pron-det-without-prontype] The word 'сара' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 19 Sent 2]: [L3 Warning verbform-fin-without-mood] Finite verb 'йстахъыпI' lacks the 'Mood' feature
+[Line 28 Sent 3]: [L3 Warning pron-det-without-prontype] The word 'сара' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 34 Sent 3]: [L3 Warning verbform-fin-without-mood] Finite verb 'йалрыпхьуштI' lacks the 'Mood' feature
+[Line 36 Sent 3]: [L3 Warning verbform-fin-without-mood] Finite verb 'йгIасайхIвлун' lacks the 'Mood' feature
+[Line 44 Sent 4]: [L3 Warning pron-det-without-prontype] The word 'саргьи' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 47 Sent 4]: [L3 Warning verbform-fin-without-mood] Finite verb 'йтаскIын' lacks the 'Mood' feature
+[Line 54 Sent 4]: [L3 Warning verbform-fin-without-mood] Finite verb 'гьстахъымызтI' lacks the 'Mood' feature
+...suppressing further errors regarding Warning
+Warnings: 208
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.764705882352941) = 0.0849673202614379
+(weight=0.111111111111111) * (score{udeprels}=0.756756756756757) = 0.0840840840840841
+(TOTAL score=0.398187206814658) * (availability=1) * (validity=1) = 0.398187206814658
+STARS = 2
+UD_Abaza-ATB	0.398187206814658	2
