@@ -1,42 +1,7 @@
-Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
-Evaluating the following revision of UD_Abaza-ATB:
-commit b5191886dd06948d82eb0091971a953031a06372
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 14:54:50 2024 +0100
-Size: counted 652 of 652 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.
-Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Did not find at least 10000 test words.
-Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 13 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 1.
-Features: 444 out of 652 total words have one or more features.
-Features: source of annotation (from README) factor is 1.
-Universal relations: 28 out of 37 found in the corpus.
-Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        265
-Udapi: found 265 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 652 words.
-Genres: found 1 out of 18 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang abq --max-err=10 UD_Abaza-ATB/abq_atb-ud-test.conllu
-[Line 887 Sent 67 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'ауи апшта' does not have the 'ExtPos' feature
-Warnings: 1
-*** PASSED ***
-Validity: 1
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0) = 0
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.764705882352941) = 0.0588235294117647
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.756756756756757) = 0.0582120582120582
-(TOTAL score=0.278744989333225) * (availability=1) * (validity=1) = 0.278744989333225
-STARS = 1.5
-UD_Abaza-ATB	0.278744989333225	1.5
+Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
+Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
+Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
+Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
+from which this script is invoked and which also holds the validator.
+$0 == tools/evaluate_treebank.pl
+The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
