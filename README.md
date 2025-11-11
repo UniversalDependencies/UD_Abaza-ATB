@@ -25,6 +25,7 @@ The authots are gratefull to Elena Sokur for creating and maintaing the Spoken c
 Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: manual native
 UPOS: manual native
